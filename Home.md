@@ -8,7 +8,7 @@ MIABIS consists of three "core" components: Biobanks and Samples Collections and
 
 ## Core components of MIABIS 2.0 (as defined within the MIABIS working group):
 
-* Data describing Biobanks
+* 
 * Data describing Sample Collections
 * Data describing Studies
 * Entire list of attributes
