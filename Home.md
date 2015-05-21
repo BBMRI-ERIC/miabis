@@ -5,3 +5,26 @@ MIABIS represents the minimum information required to initiate collaborations be
 The attributes are defined in accordance with epidemiological literature and terminology.
 
 MIABIS consists of three "core" components: Biobanks and Samples Collections and Study. Additional components currently under evaluation include, OMICS, Participant, Rare diseases, Samples and Sample Quality.
+
+## Core components of MIABIS 2.0 (as defined within the MIABIS working group):
+
+* Data describing Biobanks
+* Data describing Sample Collections
+* Data describing Studies
+* Entire list of attributes
+
+## Additional components (currently under proposal, NOT FINAL):
+
+* Data describing Samples
+* Data describing Sample Quality
+* Data describing -OMICS
+* Data describing Participant
+* Data describing Rare diseases
+
+## Structured data and lists:
+
+* Structured data and lists
+## Machine readable implementations:
+
+* XML Schema definition
+* Database implementation
