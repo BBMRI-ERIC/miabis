@@ -1,6 +1,8 @@
 ### Index
 
+[Contact Information](#contact-information)
 [Research Information](#researcher-information)
+
 
 ### Structured data
 
