@@ -1,5 +1,5 @@
 ### Index
-[texto](#hola mundo)
+[texto](#hola)
 
 ### Structured data
 
@@ -172,4 +172,4 @@
 
 
 
-#hola mundo
+#hola
