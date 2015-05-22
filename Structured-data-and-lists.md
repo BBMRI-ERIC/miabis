@@ -1,5 +1,5 @@
 ### Index
-[headers](#headers)
+[Headers](#headers)
 
 ### Structured data
 
