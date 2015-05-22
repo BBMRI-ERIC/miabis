@@ -1,6 +1,6 @@
 ## MIABIS propsal for Rare Diseases
 
-### The rare disease component is an extension of the Participant component
+##### The rare disease component is an extension of the Participant component
 
 
 | Attribute Code| Attribute Name| Allowed Values| Description| 
