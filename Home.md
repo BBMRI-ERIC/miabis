@@ -23,7 +23,7 @@ MIABIS consists of three "core" components: Biobanks and Samples Collections and
 
 ## Structured data and lists:
 
-* Structured data and lists
+* [Structured data and lists] (https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists)
 
 ## Machine readable implementations:
 
