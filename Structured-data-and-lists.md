@@ -108,3 +108,31 @@
 | Disease specific| A study or biobank for which material and information is collected from subjects that have already developed a particular disease.| EMBL (EFO)| http://www.ebi.ac.uk/efo/EFO_0001430| 
 | Birth cohort| A corhort study for which the subjects are followed from the time of birth usually including information about gestation and follow up.| | | 
 | Other| | | 
+
+
+#### Inclusion Criteria: MIABIS-2.0-22
+
+| Item Name| Definition| Source| Link| 
+|---|---|---|---|
+| Health status| | | | 
+| Hospital patient| | | | 
+| Use of medication| | | | 
+| Gravidity| | | | 
+| Age group| | | | 
+| Familial status| | | | 
+| Sex| | | | 
+| Country of residence| | | | 
+| Ethnic origin| | | | 
+| Population representative sampling| | | | 
+| Lifestyle/Exposure| | | | 
+| Other| | | | 
+
+#### Omics Technology: MIABIS-40
+
+| Item Name| Definition| Source| Link| 
+|---|---|---|---|
+| Genomics| The study of an organism's entire genome.| Methods in Molecular Biology 593| DOI:10.1007/978-1-60327-194-3_1 http://www.springerlink.com/content/w048163633774724/#section=614848&page=1| 
+| Transcriptomics| The study of the transcription, i.e., the expression levels of mRNAs in a given organism, tissue, etc. (under a specific set of conditions).| Methods in Molecular Biology 593| DOI:10.1007/978-1-60327-194-3_1 http://www.springerlink.com/content/w048163633774724/#section=614848&page=1| 
+| Proteomics| The study of proteins, their structures, and their functions, namely the study of the proteome.| Methods in Molecular Biology 593| DOI:10.1007/978-1-60327-194-3_1 http://www.springerlink.com/content/w048163633774724/#section=614848&page=1| 
+| Metabolomics| The identification, quantification, and characterization of the small molecule metabolites in the metabolome (i.e., the set of all small molecule metabolites found in a specific cell, organ, or organism).| Methods in Molecular Biology 593| DOI:10.1007/978-1-60327-194-3_1 http://www.springerlink.com/content/w048163633774724/#section=614848&page=1| 
+| Other| | | | 
