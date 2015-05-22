@@ -1,5 +1,5 @@
 ### Index
-[Headers](#headers)
+{:toc max_level=3 }
 
 ### Structured data
 
