@@ -1,8 +1,10 @@
 ### Index
 
+### Structured data
 * [Contact Information](#contact-information)
 * [Research Information](#researcher-information)
 * [Disease](#disease)
+
 
 
 ### Structured data
