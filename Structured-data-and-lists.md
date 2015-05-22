@@ -81,4 +81,30 @@
 | LN| liquid nitrogen, -150 °C to -196 °C| | | 
 | Other, specify| any other temperature or long time storage information| | | 
 
+#### Data Categories: MIABIS-2.0-13
 
+| Item Name| Definition| Source| Link| 
+|---|---|---|---|
+| Biological samples| Y/N if biological samples are collected from the participants in the sample collection/study| | | 
+| Survey data| Y/N if information from surveys are collected from the participants in the sample collection/study| | | 
+| Imaging data| Y/N if imaging data are collected from the participants in the sample collection/study| | | 
+| Medical records| Y/N if medical records are collected from the participants in the sample collection/study| | | 
+| National registries| Y/N if register data is associated to the participants in the sample collection/study| | | 
+| Genealogical records| Y/N if genealogical records are associated with the participants in the sample collection/study| | | 
+| Physiological/Biochemical measurements| Y/N if Measurements/tests performed during a clinical/home visit and from samples taken from donor| | | 
+| Other| Other| | | 
+
+#### Collection type: MIABIS-2.0-16 and Study design: MIABIS-2.0-19
+
+| Item Name| Definition| Source| Link| 
+|---|---|---|---|
+| Case-control| A case-control study design compares two groups of subjects: those with the disease or condition under study (cases) and a very similar group of subjects who do not have the disease or condition (controls).| EMBL (EFO)| http://www.ebi.ac.uk/efo/EFO_0001427| 
+| Cohort| A form of longitudinal study for the analysis of risk factors following a group of people who do not have a disease, and uses correlations to determine the absolute risk of subject contraction.| Wikipedia (rewritten)| | 
+| Cross-sectional| A type of observational study that involves data collection from a population, or a representative subset, at one specific point in time.| Wikipedia| | 
+| Longitudinal| Research studies involving repeated observations of the same entity over time. In the biobank context, longitudinal studies sample a group of people in a given time period, and study them at intervals by the acquisition and analyses of data and/or samples over time.| P3G| http://www.p3gobservatory.org/lexicon/list.htm#l| 
+| Twin-study| Twin studies measure the contribution of genetics (as opposed to environment) to a given trait or condition of interest.| | | 
+| Quality control| A quality control testing study design type is where some aspect of the experiment is quality controlled for the purposes of quality assurance.| EMBL (EFO)| http://www.ebi.ac.uk/efo/EFO_0001774| 
+| Population-based| Study done at the population level or among the population groups, generally to find the cause, incidence or spread of the disease or to see the response to the treatment, nutrition or environment.| Wikipedia (rewritten)| | 
+| Disease specific| A study or biobank for which material and information is collected from subjects that have already developed a particular disease.| EMBL (EFO)| http://www.ebi.ac.uk/efo/EFO_0001430| 
+| Birth cohort| A corhort study for which the subjects are followed from the time of birth usually including information about gestation and follow up.| | | 
+| Other| | | 
