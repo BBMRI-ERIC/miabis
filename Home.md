@@ -18,7 +18,7 @@ MIABIS consists of three "core" components: Biobanks and Samples Collections and
 * [Data describing Samples] (https://github.com/MIABIS/miabis/wiki/Data-describing-Samples)
 * [Data describing Sample Quality] (https://github.com/MIABIS/miabis/wiki/Data-describing-Sample-Quality)
 * [Data describing OMICS] (https://github.com/MIABIS/miabis/wiki/Data-describing-OMICS)
-* Data describing Participant
+* [Data describing Participant] (https://github.com/MIABIS/miabis/wiki/Data-describing-Participant)
 * Data describing Rare diseases
 
 ## Structured data and lists:
