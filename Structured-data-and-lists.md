@@ -1,5 +1,6 @@
 
-#### Structured data
+
+### Structured data
 
 ***
 
@@ -23,3 +24,13 @@
 | MIABIS-2.0-23A| Juristic Person| Text| Textual string of letters denoting the juristic person e.g. a university, concern, county council etc.| 
 | MIABIS-2.0-23B| Department| Text| Department (e.g. division), or corresponding affiliation of the Contact person| 
 | MIABIS-2.0-23C| ORCID| Text| The persistent digital identifier that distinguishes researchers. As defined by ORCID| 
+
+##### Disease: MIABIS-2.0-17
+
+| Attribute Code| Attribute Name| Allowed Values| Description| 
+|---|---|---|---|
+| MIABIS-2.0-17A| Disease Ontology| Text| Name of ontology used for disease. Can be several values e.g. ICD, SNOMED| 
+| MIABIS-2.0-17B| Disease Ontology Version| Text| Version of selected ontology for disease e.g. ICD-9, ICD-10, SNOMED-CT| 
+| MIABIS-2.0-17C| Disease Ontology Code| Text| Disease code from the selected Disease Ontology Version e.g. C61| 
+| MIABIS-2.0-17D| Disease Ontology Description| Text| Description from the selected Disease Ontology Code e.g : Malignant neoplasm of prostate| 
+| MIABIS-2.0-17E| Disease Free Text| Text| Explanation about disease or symptom in case of unknown disease or insufficient information| 
