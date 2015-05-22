@@ -1,11 +1,12 @@
 ### Index
-[texto](#DiseaseMIABIS-2.0-17)
+[texto](#hola)
 
 ### Structured data
 
 ***
 
-#### Contact information: MIABIS-2.0-07
+#### Contact information
+#### MIABIS-2.0-07
 
 | Attribute Code| Attribute Name| Allowed Values| Description|
 |---|---|---|---| 
@@ -18,7 +19,8 @@
 | MIABIS-2.0-07-G| City| Text| City of the Contact person| 
 | MIABIS-2.0-07-H| Country| Text| Country of the Contact person| 
 
-#### Researcher's information: MIABIS-2.0-23
+#### Researcher's information
+#### MIABIS-2.0-23
 
 | Attribute Code| Attribute Name| Allowed Values| Description| 
 |---|---|---|---|
@@ -26,7 +28,8 @@
 | MIABIS-2.0-23B| Department| Text| Department (e.g. division), or corresponding affiliation of the Contact person| 
 | MIABIS-2.0-23C| ORCID| Text| The persistent digital identifier that distinguishes researchers. As defined by ORCID| 
 
-#### Disease: MIABIS-2.0-17
+#### Disease
+#### MIABIS-2.0-17
 
 | Attribute Code| Attribute Name| Allowed Values| Description| 
 |---|---|---|---|
@@ -39,7 +42,8 @@
 ### Lists
 
 ***
-#### Sex: MIABIS-2.0-09
+#### Sex
+#### MIABIS-2.0-09
 
 | Item Name| Definition| Source| Link| 
 |---|---|---|---|
@@ -48,7 +52,8 @@
 | Unknown| a proper value is applicable but not known| | | 
 | Undifferentiated| undifferentiated, the gender could not be uniquely identified such as hermaprhodite| | 
 
-#### Material type: MIABIS-2.0-14
+#### Material type
+#### MIABIS-2.0-14
 
 | Item Name| Definition| Source| Link| 
 |---|---|---|---|
@@ -69,7 +74,8 @@
 | Pathogen| A biological agent causing disease; a disease producer e.g. virus, bacterium, prion, other microorganism etc.| | | 
 | Other| Any other type of material taken from a biological entity, e.g. amniotic fluid, cerebrospinal fluid (CSV), mitochondrial RNA.| 
 
-#### Storage temperature: MIABIS-2.0-15
+#### Storage temperature
+#### MIABIS-2.0-15
 
 
 | Item Name| Definition| Source| Link| 
@@ -81,7 +87,8 @@
 | LN| liquid nitrogen, -150 °C to -196 °C| | | 
 | Other, specify| any other temperature or long time storage information| | | 
 
-#### Data Categories: MIABIS-2.0-13
+#### Data Categories
+#### MIABIS-2.0-13
 
 | Item Name| Definition| Source| Link| 
 |---|---|---|---|
@@ -94,7 +101,8 @@
 | Physiological/Biochemical measurements| Y/N if Measurements/tests performed during a clinical/home visit and from samples taken from donor| | | 
 | Other| Other| | | 
 
-#### Collection type: MIABIS-2.0-16 and Study design: MIABIS-2.0-19
+#### Collection type
+#### MIABIS-2.0-16 and Study design: MIABIS-2.0-19
 
 | Item Name| Definition| Source| Link| 
 |---|---|---|---|
@@ -110,7 +118,8 @@
 | Other| | | 
 
 
-#### Inclusion Criteria: MIABIS-2.0-22
+#### Inclusion Criteria
+#### MIABIS-2.0-22
 
 | Item Name| Definition| Source| Link| 
 |---|---|---|---|
@@ -127,7 +136,8 @@
 | Lifestyle/Exposure| | | | 
 | Other| | | | 
 
-#### Omics Technology: MIABIS-40
+#### Omics Technology
+#### MIABIS-40
 
 | Item Name| Definition| Source| Link| 
 |---|---|---|---|
@@ -137,7 +147,8 @@
 | Metabolomics| The identification, quantification, and characterization of the small molecule metabolites in the metabolome (i.e., the set of all small molecule metabolites found in a specific cell, organ, or organism).| Methods in Molecular Biology 593| DOI:10.1007/978-1-60327-194-3_1 http://www.springerlink.com/content/w048163633774724/#section=614848&page=1| 
 | Other| | | | 
 
-#### Vendor: MIABIS-42
+#### Vendor
+#### MIABIS-42
 
 | Item Name| Definition| Source| Link| 
 |---|---|---|---|
@@ -147,7 +158,8 @@
 | Illumina| | | http://www.illumina.com/| 
 | Other| | | | 
 
-#### Ethnic group: MIABIS-50
+#### Ethnic group
+#### MIABIS-50
 
 | Item Name| Definition| Source| Link| 
 |---|---|---|---|
@@ -157,3 +169,7 @@
 | East Asian| | | | 
 | Native American| | | | 
 | Other| | | |
+
+
+
+#hola
