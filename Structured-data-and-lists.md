@@ -1,5 +1,5 @@
 ### Index
-[texto](#hola)
+[texto](#hola mundo)
 
 ### Structured data
 
@@ -74,7 +74,7 @@
 | Pathogen| A biological agent causing disease; a disease producer e.g. virus, bacterium, prion, other microorganism etc.| | | 
 | Other| Any other type of material taken from a biological entity, e.g. amniotic fluid, cerebrospinal fluid (CSV), mitochondrial RNA.| 
 
-#### Storage temperature
+####Storage temperature
 #### MIABIS-2.0-15
 
 
@@ -172,4 +172,4 @@
 
 
 
-#hola
+#hola mundo
