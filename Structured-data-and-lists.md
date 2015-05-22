@@ -136,3 +136,24 @@
 | Proteomics| The study of proteins, their structures, and their functions, namely the study of the proteome.| Methods in Molecular Biology 593| DOI:10.1007/978-1-60327-194-3_1 http://www.springerlink.com/content/w048163633774724/#section=614848&page=1| 
 | Metabolomics| The identification, quantification, and characterization of the small molecule metabolites in the metabolome (i.e., the set of all small molecule metabolites found in a specific cell, organ, or organism).| Methods in Molecular Biology 593| DOI:10.1007/978-1-60327-194-3_1 http://www.springerlink.com/content/w048163633774724/#section=614848&page=1| 
 | Other| | | | 
+
+#### Vendor: MIABIS-42
+
+| Item Name| Definition| Source| Link| 
+|---|---|---|---|
+| Affymetrix| | | http://www.affymetrix.com/estore/| 
+| Life Technologies| | | http://www.lifetechnologies.com/se/en/home.html| 
+| Roche Applied Science| | | http://www.roche-applied-science.com/| 
+| Illumina| | | http://www.illumina.com/| 
+| Other| | | | 
+
+#### Ethnic group: MIABIS-50
+
+| Item Name| Definition| Source| Link| 
+|---|---|---|---|
+| African| | | | 
+| Caucasian| | | | 
+| Pacific Islander| | | | 
+| East Asian| | | | 
+| Native American| | | | 
+| Other| | | |
