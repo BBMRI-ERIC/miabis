@@ -9,8 +9,11 @@
 * [Sex](#sex)
 * [Material Type](#material-type)
 * [Storage Temperature](#storage-temperature)
-* []()
-* []()
+* [Data categories](#data-categories)
+* [Collection Type](#collection-type)
+* [Inclusion Criteria](#inclusion-criteria)
+* [Omics Technology](#omics-technology)
+* [Vendor](#vendor)
 
 
 
