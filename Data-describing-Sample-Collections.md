@@ -18,7 +18,7 @@ A proper definition for the term "Sample collection" in the context of biobanks 
 | MIABIS-2.0-12| Age Unit| Text list| Unit defining Age Low and Age High. Can be one of the following values: years, months, weeks, days| 
 | MIABIS-2.0-13| Data categories| Text list| The data catagories from which data is available. Can be several values [MIABIS-2.0-3](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#data-categories)| 
 | MIABIS-2.0-14| Material type| Text list| The biospecimen saved from a biological entity for propagation e.g. testing, diagnostics, treatment or research purposes. Can be several values [MIABIS-2.0-14](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#material-type)| 
-| MIABIS-2.0-15| Storage temperature| Text list| The long term storage temperature at which the samples are stored after preparation. Can be several values: MIABIS-2.0-15| 
+| MIABIS-2.0-15| Storage temperature| Text list| The long term storage temperature at which the samples are stored after preparation. Can be several values: [MIABIS-2.0-15](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#storage-temperature)| 
 | MIABIS-2.0-16| Collection type| Text list| The type of the sample collection. Can be several values MIABIS-2.0-16| 
-| MIABIS-2.0-17| Disease| Structured data| The disease of main interest in the sample collection, if any. Can be several values as defined in MIABIS-2.0-17| 
-| MIABIS-2.0-07| Contact information| Structured data| Contact information for the contact person of the sample collection MIABIS-2.0-07 and MIABIS-2.0-23 of the PI| 
+| MIABIS-2.0-17| Disease| Structured data| The disease of main interest in the sample collection, if any. Can be several values as defined in [MIABIS-2.0-17](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#disease)| 
+| MIABIS-2.0-07| Contact information| Structured data| Contact information for the contact person of the sample collection [MIABIS-2.0-07](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#contact-information) and [MIABIS-2.0-23](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#research-information) of the PI| 
