@@ -12,7 +12,7 @@ A proper definition for the term "Sample collection" in the context of biobanks 
 | MIABIS-2.0-02| Acronym| Text| Short name in use for the sample collection| 
 | MIABIS-2.0-03| Name| Text| The name of the sample collection in english| 
 | MIABIS-2.0-08| Description| Text| A description of the sample collection. Recommendation max. 2000 char.| 
-| MIABIS-2.0-09| Sex| Text list| The sex of the individuals in the sample collection. Can be one or more of the following values: Male, Female, Unknown, Undiferrentiated MIABIS-2.0-09| 
+| MIABIS-2.0-09| Sex| Text list| The sex of the individuals in the sample collection. Can be one or more of the following values: Male, Female, Unknown, Undiferrentiated [MIABIS-2.0-09](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#sex)| 
 | MIABIS-2.0-10| Age Low| Integer| Age of youngest sample donor at time of sample donation| 
 | MIABIS-2.0-11| Age High| Integer| Age of oldest sample donor at time of sample donation| 
 | MIABIS-2.0-12| Age Unit| Text list| Unit defining Age Low and Age High. Can be one of the following values: years, months, weeks, days| 
