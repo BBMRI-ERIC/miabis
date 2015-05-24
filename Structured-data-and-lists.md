@@ -2,7 +2,7 @@
 
 ### Structured data
 * [Contact Information](#contact-information)
-* [Research Information](#researcher-information)
+* [Researcher Information](#researcher-information)
 * [Disease](#disease)
 
 ### Lists
@@ -42,7 +42,7 @@
 |---|---|---|---|
 | MIABIS-2.0-23A| Juristic Person| Text| Textual string of letters denoting the juristic person e.g. a university, concern, county council etc.| 
 | MIABIS-2.0-23B| Department| Text| Department (e.g. division), or corresponding affiliation of the Contact person| 
-| MIABIS-2.0-23C| ORCID| Text| The persistent digital identifier that distinguishes researchers. As defined by ORCID| 
+| MIABIS-2.0-23C| ORCID| Text| The persistent digital identifier that distinguishes researchers. As defined by [ORCID](http://orcid.org/)| 
 
 #### Disease
 #### MIABIS-2.0-17
