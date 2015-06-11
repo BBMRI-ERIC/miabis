@@ -1,5 +1,7 @@
 ## MIABIS proposal for sample quality on liquid samples
 
+This is an ongoing process to specify the MIABIS sample quality on liquid samples. 
+
 | Attribute Code| Attribute Name| Allowed Values| Description| 
 |---|---|---|---|
 | MIABIS-39| Pre-centrifugation time| Text| .| 
