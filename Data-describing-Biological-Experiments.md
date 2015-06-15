@@ -1,4 +1,4 @@
-## MIABIS proposal for omics data
+## MIABIS proposal for biological experiments data
 
 | Attribute Code| Attribute Name| Allowed Values| Description|
 |---|---|---|---| 
