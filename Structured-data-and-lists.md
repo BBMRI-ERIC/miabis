@@ -27,7 +27,7 @@
 | Attribute Code| Attribute Name| Allowed Values| Description|
 |---|---|---|---| 
 | MIABIS-2.0-07-A| First name| Text| Textual string of letters denoting the first name of the Contact| 
-| vMIABIS-2.0-07-B| Last name| Text| Textual string of letters denoting the last name of the Contact| 
+| MIABIS-2.0-07-B| Last name| Text| Textual string of letters denoting the last name of the Contact| 
 | MIABIS-2.0-07-C| Phone| Formated Text| Phone to the Contact including international call prefix| 
 | MIABIS-2.0-07-D| Email| Text| Email address of the Contact person| 
 | MIABIS-2.0-07-E| Address| Text| Street name and street number or PO Box of the Contact person| 
