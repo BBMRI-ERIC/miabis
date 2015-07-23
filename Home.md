@@ -28,4 +28,4 @@ MIABIS consists of three "core" components: Biobanks and Samples Collections and
 ## Machine readable implementations:
 
 * XML Schema definition
-* Database implementation
+* [Database implementation] (https://github.com/MIABIS/miabis/wiki/Database-implementation)
