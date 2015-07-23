@@ -1,0 +1,1 @@
+![Database implementation](https://github.com/MIABIS/miabis/blob/master/machinereadableimplementation/databaseimplementation/ERD-MIABIS.png)
