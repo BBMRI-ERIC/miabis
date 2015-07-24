@@ -9,7 +9,7 @@ We choose to present two definitions for the term "Biobank". One by BBMRI-ERIC a
 | MIABIS-2.0-01 | ID | Text | Textual string of letters starting with the country code (according to standard ISO1366 alpha2) followed by the underscore “_” and post-fixed by a biobank ID or name specified by its juristic person (nationally specific)|
 | MIABIS-2.0-02 | Acronym | Text | Textual string of short name in use for the biobank. If applicable|
 | MIABIS-2.0-03 | Name | Text | Textual string of letters denoting the name of the biobank in English|
-| MIABIS-2.0-04 | URL | Text | Textual string of letters with the complete http-address for the biobank URL|
+| MIABIS-2.0-04 | URL | Text | Textual string of letters with the complete http-address for the biobank|
 | MIABIS-2.0-05 | Juristic Person | Text | Textual string of letters denoting the juristic person e.g. a university, concern, county council etc. for the biobank|
 | MIABIS-2.0-06 | Country | Text | ISO-standard (3166 alpha2), two letter code for the country of the biobank|
 | MIABIS-2.0-07 | Contact Information | Structured data | Contact information for the contact person of the biobank [MIABIS-2.0-07](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#contact-information)|
