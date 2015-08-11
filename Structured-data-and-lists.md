@@ -4,6 +4,7 @@
 * [Contact Information](#contact-information)
 * [Researcher Information](#researcher-information)
 * [Disease](#disease)
+* [Vendor](#vendor)
 
 ### Lists
 * [Sex](#sex)
@@ -13,7 +14,6 @@
 * [Collection Type](#collection-type)
 * [Inclusion Criteria](#inclusion-criteria)
 * [Omics Technology](#omics-technology)
-* [Vendor](#vendor)
 
 
 
@@ -54,6 +54,23 @@
 | MIABIS-2.0-17C| Disease Ontology Code| Text| Disease code from the selected Disease Ontology Version e.g. C61| 
 | MIABIS-2.0-17D| Disease Ontology Description| Text| Description from the selected Disease Ontology Code e.g : Malignant neoplasm of prostate| 
 | MIABIS-2.0-17E| Disease Free Text| Text| Explanation about disease or symptom in case of unknown disease or insufficient information| 
+
+#### Vendor
+#### MIABIS-2.0-nn
+
+| Attribute Code| Attribute Name| Allowed Values| Description| 
+|---|---|---|---|
+| MIABIS-2.0-nnA | Name | Text | Legal name of the Vendor |
+| MIABIS-2.0-nnB | Website | URL | Website of the Vendor |
+
+Example
+
+| Name| Website| 
+|---|---|
+| Affymetrix| http://www.affymetrix.com/estore/| 
+| Life Technologies| http://www.lifetechnologies.com/se/en/home.html| 
+| Roche Applied Science| http://www.roche-applied-science.com/| 
+| Illumina| http://www.illumina.com/| 
 
 ### Lists
 
@@ -163,17 +180,6 @@
 | Metabolomics| The identification, quantification, and characterization of the small molecule metabolites in the metabolome (i.e., the set of all small molecule metabolites found in a specific cell, organ, or organism).| Methods in Molecular Biology 593| DOI:10.1007/978-1-60327-194-3_1 http://www.springerlink.com/content/w048163633774724/#section=614848&page=1| 
 | Other| | | | 
 
-#### Vendor
-#### MIABIS-42
-
-| Item Name| Definition| Source| Link| 
-|---|---|---|---|
-| Affymetrix| | | http://www.affymetrix.com/estore/| 
-| Life Technologies| | | http://www.lifetechnologies.com/se/en/home.html| 
-| Roche Applied Science| | | http://www.roche-applied-science.com/| 
-| Illumina| | | http://www.illumina.com/| 
-| Other| | | | 
-
 #### Ethnic group
 #### MIABIS-50
 
@@ -185,7 +191,3 @@
 | East Asian| | | | 
 | Native American| | | | 
 | Other| | | |
-
-
-
-###hola mundo
