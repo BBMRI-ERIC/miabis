@@ -56,7 +56,7 @@
 | MIABIS-2.0-17E| Disease Free Text| Text| Explanation about disease or symptom in case of unknown disease or insufficient information| 
 
 #### Vendor
-#### MIABIS-2.0-nn
+#### MIABIS-2.0-nn (proposal)
 
 | Attribute Code| Attribute Name| Allowed Values| Description| 
 |---|---|---|---|
