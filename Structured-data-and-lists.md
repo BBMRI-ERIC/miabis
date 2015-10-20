@@ -181,11 +181,11 @@ Example
 | microRNA| A type of RNA found in cells and in blood. MicroRNAs are smaller than many other types of RNA and can bind to messenger RNAs (mRNAs) to block them from making proteins. MicroRNAs are being studied in the diagnosis (NCI) and treatment of cancer.| NCI| | RNA |
 | Whole blood| Blood that has not been separated into its various components; blood that has not been modified except for the addition of an anticoagulant.| NCI| | Blood |
 | Peripheral blood cells| A general term describing the three cellular components of blood (white blood cells, red blood cells, and platelets), all which are made in the bone marrow.| Lymphoma Information Network Glossary| | 
-| Plasma| Plasma is the fluid (acellular) portion of the circulating blood, as distinguished from the serum that is the fluid portion of the blood obtained by removal of the fibrin clot and blood cells after coagulation.| NCI| | 
-| Serum| The clear portion of the blood that remains after the removal of the blood cells and the clotting proteins.| NCI| | Blood |
+| Plasma| Plasma is the fluid (acellular) portion of the circulating blood, as distinguished from the serum that is the fluid portion of the blood obtained by removal of the fibrin clot and blood cells after coagulation.| NCI| | Plasma |
+| Serum| The clear portion of the blood that remains after the removal of the blood cells and the clotting proteins.| NCI| | Serum |
 | Tissue, cryo preserved| An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function. Preserved by freezing in liquid nitrogen| NCI| | Tissue (Frozen) |
-| Tissue, paraffin preserved| Tissue that is preserved and embedded in paraffin.| NCI| | 
-| Cell lines| Cells of a single type (human, animal, or plant) that have been adapted to grow continuously in the laboratory and are used in research.| NCI| | Tissue (FFPE) |
+| Tissue, paraffin preserved| Tissue that is preserved and embedded in paraffin.| NCI| | Tissue (FFPE) |
+| Cell lines| Cells of a single type (human, animal, or plant) that have been adapted to grow continuously in the laboratory and are used in research.| NCI| | Immortalized cells |
 | Urine| The fluid that is excreted by the kidneys. It is stored in the bladder and discharged through the urethra.| NCI| | Urine |
 | Saliva| A clear liquid secreted into the mouth by the salivary glands and mucous glands of the mouth; moistens the mouth and starts the digestion of starches.| NCI| | Saliva |
 | Faeces| The material discharged from the bowel during defecation. It consists of undigested food, intestinal mucus, epithelial cells, and bacteria.| NCI| | Faeces |
