@@ -95,79 +95,79 @@ Example
   <td>Blood</td>
   <td>Blood that has not been separated into its various components; blood that has not been modified except for the addition of an anticoagulant.</td>
   <td>NCI</td>
-  </td></td>
+  <td></td>
 </tr>
 <tr>
   <td>DNA</td>
   <td>A long linear double-stranded polymer formed from nucleotides attached to a deoxyribose backbone and found in the nucleus of a cell; associated with the transmission of genetic information.</td>
   <td>NCI</td>
-  </td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Faeces</td>
   <td>The material discharged from the bowel during defecation. It consists of undigested food, intestinal mucus, epithelial cells, and bacteria.</td>
   <td>NCI</td>
-  </td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Immortalized Cell Lines</td>
   <td>Cells of a single type (human, animal, or plant) that have been adapted to grow continuously in the laboratory and are used in research.</td>
   <td>NCI</td>
-  </td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Isolated Pathogen</td>
   <td>An isolated biological agent causing disease; a disease producer e.g. virus, bacterium, prion, other microorganism etc.</td>
   <td>NCI</td>
-  </td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Other</td>
   <td>Any other type of material taken from a biological entity, e.g. amniotic fluid, cerebrospinal fluid (CSV), mitochondrial RNA.</td>
   <td>NCI</td>
-  </td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Plasma</td>
   <td>Plasma is the fluid (acellular) portion of the circulating blood, as distinguished from the serum that is the fluid portion of the blood obtained by removal of the fibrin clot and blood cells after coagulation.</td>
   <td>NCI</td>
-  </td></td>
+  <td></td>
 </tr>
 <tr>
   <td>RNA</td>
   <td>One of two types of nucleic acid made by cells. RNA contains information that has been copied from DNA (the other type of nucleic acid). Cells make several different forms of RNA, and each form has a specific job in the cell. Many forms of RNA have functions related to making proteins. RNA is also the genetic material of some viruses instead of DNA. RNA can be made in the laboratory and used in research studies. Also called ribonucleic acid.</td>
   <td>NCI</td>
-  </td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Saliva</td>
   <td>A clear liquid secreted into the mouth by the salivary glands and mucous glands of the mouth; moistens the mouth and starts the digestion of starches.</td>
   <td>NCI</td>
-  </td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Serum</td>
   <td>The clear portion of the blood that remains after the removal of the blood cells and the clotting proteins.</td>
   <td>NCI</td>
-  </td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Tissue (Frozen)</td>
   <td>An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function.</td>
   <td></td>
-  </td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Tissue (FFPE)</td>
   <td> Tissue, formalin fixated and paraffin preserved or equivalent.</td>
   <td></td>
-  </td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Urine</td>
   <td>The fluid that is excreted by the kidneys. It is stored in the bladder and discharged through the urethra.</td>
   <td>NCI</td>
-  </td></td>
+  <td></td>
 </tr>
 </table>
 
