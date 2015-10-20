@@ -185,7 +185,7 @@ Example
 | Serum| The clear portion of the blood that remains after the removal of the blood cells and the clotting proteins.| NCI| | Serum |
 | Tissue, cryo preserved| An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function. Preserved by freezing in liquid nitrogen| NCI| | Tissue (Frozen) |
 | Tissue, paraffin preserved| Tissue that is preserved and embedded in paraffin.| NCI| | Tissue (FFPE) |
-| Cell lines| Cells of a single type (human, animal, or plant) that have been adapted to grow continuously in the laboratory and are used in research.| NCI| | Immortalized cells |
+| Cell lines| Cells of a single type (human, animal, or plant) that have been adapted to grow continuously in the laboratory and are used in research.| NCI| | Immortalized Cell Lines |
 | Urine| The fluid that is excreted by the kidneys. It is stored in the bladder and discharged through the urethra.| NCI| | Urine |
 | Saliva| A clear liquid secreted into the mouth by the salivary glands and mucous glands of the mouth; moistens the mouth and starts the digestion of starches.| NCI| | Saliva |
 | Faeces| The material discharged from the bowel during defecation. It consists of undigested food, intestinal mucus, epithelial cells, and bacteria.| NCI| | Faeces |
