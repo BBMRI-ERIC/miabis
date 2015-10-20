@@ -174,7 +174,7 @@ Example
 <p>Until September the following list was in use, there is a one way transformation to the new list above.</p>
 
 | Item Name| Definition| Source| Link| New value |
-|---|---|---|---|
+|---|---|---|---|---|
 | DNA| A long linear double-stranded polymer formed from nucleotides attached to a deoxyribose backbone and found in the nucleus of a cell; associated with the transmission of genetic information.| NCI| | DNA |
 | RNA| One of two types of nucleic acid made by cells. RNA contains information that has been copied from DNA (the other type of nucleic acid). Cells make several different forms of RNA, and each form has a specific job in the cell. Many forms of RNA have functions related to making proteins. RNA is also the genetic material of some viruses instead of DNA. RNA can be made in the laboratory and used in research studies. Also called ribonucleic acid.| NCI| | RNA | 
 | cDNA/mRNA| Single-stranded DNA that is complementary to messenger RNA or DNA that has been synthesized from messenger RNA by reverse transcriptase/A class of RNA molecule containing protein-coding information in its nucleotide sequence that can be translated into the amino acid sequence of a protein.| NCI| | | RNA |
