@@ -190,7 +190,7 @@ Example
 | Saliva| A clear liquid secreted into the mouth by the salivary glands and mucous glands of the mouth; moistens the mouth and starts the digestion of starches.| NCI| | Saliva |
 | Faeces| The material discharged from the bowel during defecation. It consists of undigested food, intestinal mucus, epithelial cells, and bacteria.| NCI| | Faeces |
 | Pathogen| A biological agent causing disease; a disease producer e.g. virus, bacterium, prion, other microorganism etc.| | | Isolated Pathogen |
-| Other| Any other type of material taken from a biological entity, e.g. amniotic fluid, cerebrospinal fluid (CSV), mitochondrial RNA.| Other |
+| Other| Any other type of material taken from a biological entity, e.g. amniotic fluid, cerebrospinal fluid (CSV), mitochondrial RNA.| | Other |
 
 ####Storage temperature
 #### MIABIS-2.0-15
