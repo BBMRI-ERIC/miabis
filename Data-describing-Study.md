@@ -12,7 +12,7 @@ A proper definition for the term "Study" in the context of biobanks is difficult
 | MIABIS-2.0-18| Principal Investigator| Text| The name of the person responsible for the study e.g. the principal investigator| 
 | MIABIS-2.0-07| Contact information| Structured data| Contact information for the contact person of the study [MIABIS-2.0-07](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#contact-information) and [MIABIS-2.0-23](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#researcher-information)| 
 | MIABIS-2.0-19| Study design| Text list| The design of the study. Can be one or several values: [MIABIS-2.0-19](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#study-design)| 
-| MIABIS-2.0-09| Sex| Text list| The sex of the study participants. Can be one or more of the following values: Male, Female, Unknown, Undiferrentiated [MIABIS-2.0-09](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#sex)| 
+| MIABIS-2.0-09| Sex| Text list| The sex of the study participants. Can be one or more of the following values: Male, Female, Unknown, Undifferentiated [MIABIS-2.0-09](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#sex)| 
 | MIABIS-2.0-10| Age Low| Integer| Age of the youngest study participant at time of inclusion| 
 | MIABIS-2.0-11| Age High| Integer| Age of the oldest study participant at time of inclusion| 
 | MIABIS-2.0-12| Age Unit| Text list| Unit defining Age Low and Age High. Can be one of the following values: years, months, weeks, days| 
