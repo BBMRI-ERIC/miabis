@@ -42,6 +42,7 @@
 <tr><td>QMS3.5</td><td>PDs/SOPs accession management</td><td>Y/N/u/ns*</td><td>Availability of Process Descriptions (PD) and/or Standard Operating Procedures (SOPs) for accession management e.g. receipt and handling of biological material for deposit</td></tr>
 <tr><td>QMS3.6</td><td>PDs/SOPs Quality check on biological material for deposit</td><td>Y/N/u/ns*</td><td>Availability of Process Descriptions (PD) and/or Standard Operating Procedures (SOPs) for quality check on samples for deposit e.g. performing authentication tests, stability test..</td></tr>
 <tr><td>QMS3.7</td><td>PDs/SOPs supply chain management</td><td>Y/N/u/ns*</td><td>Availability of Process Descriptions (PD) and Standard Operating Procedures (SOPs) for supply chain management, e.g. audit of suppliers</td></tr>
+<tr><td>QMS3.8</td><td>PDs/SOPs Identification and control of non-conformities</td><td>Y/N/u/ns*</td><td>Availability of Process Descriptions (PD) and Standard Operating Procedures (SOPs) o identify and manage non- conformities of the QMS including sample management</td></tr>
 </table>
 
 <h3>QMS4: Quality Management System</h3>
