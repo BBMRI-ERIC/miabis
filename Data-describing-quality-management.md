@@ -25,7 +25,7 @@
 <tr><td>QMS2.3</td><td>SOPs data quality</td><td>Y/N/u/ns*</td><td>Availability of Standard Operating Procedures (SOPs) for data quality tests and improvements, e.g. data cleaning, control of missing information and definition of NULL values.</td></tr>
 <tr><td>QMS2.4</td><td>SOPs data storage </td><td>Y/N/u/ns*</td><td>Availability of Standard Operating Procedures (SOPs) for long term data storage and backup.</td></tr>
 <tr><td>QMS2.5</td><td>SOPs data security </td><td>Y/N/u/ns*</td><td>Availability of Standard Operating Procedures (SOPs) for data security</td><td> </td></tr>
-<tr><td>QMS2.6</td><td>SOPs data protection</td><td>Y/N/u/ns*</td><td>Availability of Standard Operating Procedures (SOPs) for data data protection</td></tr>
+<tr><td>QMS2.6</td><td>SOPs data protection</td><td>Y/N/u/ns*</td><td>Availability of Standard Operating Procedures (SOPs) for data protection</td></tr>
 </table>
 
 <h3>QMS3: Organisational requirements</h3>
