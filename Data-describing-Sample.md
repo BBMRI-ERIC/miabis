@@ -8,3 +8,4 @@
 | MIABIS-42| Storage temperature| Text list| The long term storage temperature at which the samples are stored after preparation. Can be several values: [MIABIS-2.0-15](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#storage-temperature)| 
 | MIABIS-43| Sampled time| Date| The time when the sample is taken according to ISO 8601 i.e. YYYYMMDDThhmm| 
 | MIABIS-44| Anatomical site| Structured list| The anatomical position of the body where the solid sample was taken from. MIABIS-44| 
+| MIABIS-45| Sample Collection ID| Text| ID of the sample collection to which the sample belongs to. | 
