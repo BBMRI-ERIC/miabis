@@ -8,7 +8,6 @@
 | MIABIS-46| Sex| Text list| The sex of the participant. Can be one of the following values: MIABIS-13| 
 | MIABIS-47| Categories of data collected| Structured data| The type of data that is associated with the participant. Can be several values MIABIS-21| 
 | MIABIS-48| Survey Data| Text| Description of surveys for the participant| 
-| MIABIS-49| Ethnic Group| Text list| The participant's ethic group or ethnic classification. Can be one of several values: MIABIS-50| 
 | MIABIS-50| Death Date| Date| If applicable/known. Date in ISO-standard (8601) time format for date of death| 
 | MIABIS-51| Death Cause| Text| If applicable/known. Cause of death| 
 | MIABIS-42| Contact information| Structured data| MIABIS-03| 
