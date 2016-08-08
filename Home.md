@@ -6,7 +6,9 @@ The attributes are defined in accordance with epidemiological literature and ter
 
 MIABIS 2.0 Core consists of three main components: "Biobank", "Samples Collection" and "Study". Additional components currently under evaluation include, Biological Experiment, Participant, Rare diseases, Samples and Quality.
 
-## Core components of MIABIS 2.0 (as defined within the MIABIS working group):
+MIABIS is designed by working group with participants from several BBMRI-ERIC national nodes as well as other research institutions. 
+
+## MIABIS 2.0 Core:
 
 * [Data describing Biobank](https://github.com/MIABIS/miabis/wiki/Data-describing-Biobank)
 * [Data describing Sample Collection] (https://github.com/MIABIS/miabis/wiki/Data-describing-Sample-Collection)
