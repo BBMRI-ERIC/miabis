@@ -9,4 +9,4 @@
 | MIABIS-40| Processed data| Boolean| An indication if any processed data is available for sharing. Can be "Yes" or "No"| 
 | MIABIS-41| URL to raw data| Text| URL to the raw data. If applicable| 
 | MIABIS-42| URL to processed data| Text| URL to the processed data. If applicable| 
-| MIABIS-43| Analysis pipeline| Text| What types of analyses have been done, what software has been used to analyze the data etc. Free text| 
+| MIABIS-43| Analysis pipeline| Text list| What types of analyses have been done, what software has been used to analyze the data etc. Free text| 
