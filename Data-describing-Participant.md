@@ -10,4 +10,4 @@
 | MIABIS-48| Survey Data| Text| Description of surveys for the participant| 
 | MIABIS-50| Death Date| Date| If applicable/known. Date in ISO-standard (8601) time format for date of death| 
 | MIABIS-51| Death Cause| Text| If applicable/known. Cause of death| 
-| MIABIS-42| Contact information| Structured data| MIABIS-03| 
+| MIABIS-42| Contact information| Structured data| [MIABIS-2.0-07](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#contact-information)| 
