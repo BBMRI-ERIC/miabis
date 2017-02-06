@@ -1,3 +1,4 @@
+
 # MIABIS: Minimum Information About BIobank data Sharing (version 2.0)
 
 MIABIS 2.0 represents the minimum information required to initiate collaborations between biobanks and to enable the exchange of biological samples and data. The aim is to facilitate the reuse of bio-resources and associated data by harmonizing biobanking and biomedical research.
