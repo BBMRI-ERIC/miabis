@@ -1,4 +1,4 @@
-## MIABIS proposal for Participant
+## MIABIS proposal for Sample Donor
 
 
 | Attribute Code| Attribute Name| Allowed Values| Description| 
