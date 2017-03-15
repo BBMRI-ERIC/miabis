@@ -21,7 +21,7 @@ MIABIS is designed by working group with participants from several BBMRI-ERIC na
 * [Data describing Sample](https://github.com/MIABIS/miabis/wiki/Data-describing-Sample)
 * [Data describing Quality](https://github.com/MIABIS/miabis/wiki/Data-describing-Sample-Quality)
 * [Data describing Biological Experiment](https://github.com/MIABIS/miabis/wiki/Data-describing-Biological-Experiment)
-* [Data describing Sample Donor](https://github.com/MIABIS/miabis/wiki/Data-describing-Saple-Donor)
+* [Data describing Sample Donor](https://github.com/MIABIS/miabis/wiki/Data-describing-Sample-Donor)
 * [Data describing Rare diseases](https://github.com/MIABIS/miabis/wiki/Data-describing-Rare-Diseases)
 
 ## Structured data and lists:
