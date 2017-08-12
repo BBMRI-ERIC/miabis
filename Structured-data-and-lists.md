@@ -21,7 +21,7 @@
 
 ***
 
-###Contact information
+### Contact information
 #### MIABIS-2.0-07
 
 | Attribute Code| Attribute Name| Allowed Values| Description|
@@ -35,7 +35,7 @@
 | MIABIS-2.0-07-G| City| Text| City of the Contact person| 
 | MIABIS-2.0-07-H| Country| Text| Country of the Contact person| 
 
-###Researcher information
+### Researcher information
 #### MIABIS-2.0-23
 
 | Attribute Code| Attribute Name| Allowed Values| Description| 
