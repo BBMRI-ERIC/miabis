@@ -83,7 +83,7 @@ Example
 | Male| male| | | 
 | Female| female| | | 
 | Unknown| a proper value is applicable but not known| | | 
-| Undifferentiated| undifferentiated, the gender could not be uniquely identified such as hermaprhodite| | 
+| Undifferentiated| undifferentiated, the gender could not be uniquely identified such as hermaphrodite| | 
 
 #### Material type
 #### MIABIS-2.0-14
