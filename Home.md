@@ -9,7 +9,6 @@ The work on the MIABIS community standards follows the new MIABIS governance mod
 MIABIS Core 2.0 represents the minimum information required to initiate collaborations between biobanks and to enable the exchange of biological samples and data. The aim is to facilitate the reuse of bio-resources and associated data by harmonizing biobanking and biomedical research. The attributes are defined in accordance with epidemiological literature and terminology.
 
 MIABIS Core 2.0 consists of three main components: "Biobank", "Samples Collection" and "Study". 
-
 * [Data describing Biobank](https://github.com/MIABIS/miabis/wiki/Data-describing-Biobank)
 * [Data describing Sample Collection](https://github.com/MIABIS/miabis/wiki/Data-describing-Sample-Collection)
 * [Data describing Study](https://github.com/MIABIS/miabis/wiki/Data-describing-Study)
@@ -26,9 +25,8 @@ MIABIS Core 2.0 consists of three main components: "Biobank", "Samples Collectio
 * [Data describing Rare diseases](https://github.com/MIABIS/miabis/wiki/Data-describing-Rare-Diseases)
 
 ## Structured data and lists:
-
 * [Structured data and lists](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists)
 
 ## Machine readable implementations:
-
+* [MIABIS XML implementation] (https://github.com/MIABIS/miabis-xml)
 * [Database implementation](https://github.com/MIABIS/miabis/wiki/Database-implementation)
