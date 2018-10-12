@@ -1,8 +1,6 @@
 ## Definition
 
-A proper definition for the term "Study" in the context of biobanks is difficult to find in literature (Fransson MN et al. Toward a common language for biobanking., Eur J Hum Genet. 2014 Apr 9. doi: 10.1038/ejhg.2014.45). We choose to present the NCI definition for Study".
-
-"A detailed examination, analysis or critical inspection of a subject designed to discover facts about it" (NCI)
+For MIABIS Core 2.0 purpose, Study represents a set of samples brought together in the context of a research study. A study can combine samples from several sample collections and from several biobanks. One sample can be included in multiple studies. (Merino-Martinez et al. Biopreserv Biobank. 2016; 14(4):298-306).
 
 | Attribute Code| Attribute Name| Allowed Values| Description| 
 |---|---|---|---|
