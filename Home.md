@@ -15,10 +15,10 @@ MIABIS Core 2.0 consists of three main components: "Biobank", "Samples Collectio
 * [Data describing Study](https://github.com/MIABIS/miabis/wiki/Data-describing-Study)
 * [Entire list of attributes](https://github.com/MIABIS/miabis/wiki/Entire-list-of-attributes)
 
-## Additional components (currently under active development):
+## Additional components (under active development):
 * [Data describing Sample](https://github.com/MIABIS/miabis/wiki/Data-describing-Sample)
 * [Data describing Sample Donor](https://github.com/MIABIS/miabis/wiki/Data-describing-Sample-Donor)
-* [Data describing SOPs]
+* Data describing SOPs
 
 ## Additional suggested components (for which working groups have not been established yet):
 * [Data describing Quality](https://github.com/MIABIS/miabis/wiki/Data-describing-Sample-Quality)
