@@ -1,10 +1,6 @@
 ## Definition
 
-A proper definition for the term "Sample collection" in the context of biobanks is difficult to find in literature (Fransson MN et al. Toward a common language for biobanking., Eur J Hum Genet. 2014 Apr 9. doi: 10.1038/ejhg.2014.45). We choose to present two definitions for "Sample collection"; One by the Swedish Association of Local Authorities and Regions and one by Oxford English Dictionary as described by Fransson MN et al.
-
-1. "A collection of samples with at least one common characteristic" (Swedish Association of Local Authorities and Regions)
-
-2. "A number of samples collected or gathered together, viewed as a whole" (Oxford English Dictionary)
+For MIABIS Core 2.0 purpose, Sample Collection represents a set of samples with at least one common characteristic (Merino-Martinez et al. Biopreserv Biobank. 2016; 14(4):298-306).
 
 | Attribute Code| Attribute Name| Allowed Values| Description |
 |---|---|---|---|
