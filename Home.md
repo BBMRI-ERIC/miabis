@@ -31,5 +31,4 @@ MIABIS Core 2.0 consists of three main components: "Biobank", "Samples Collectio
 
 ## Machine readable implementations:
 
-* XML Schema definition
 * [Database implementation](https://github.com/MIABIS/miabis/wiki/Database-implementation)
