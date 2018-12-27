@@ -1,13 +1,12 @@
 ## MIABIS proposal for Sample Donor
 
+**NOTE!** The attribute list for Sample Donor is **tentative** and might still be subject to any additional changes.
 
-| Attribute Code| Attribute Name| Allowed Values| Description| 
-|---|---|---|---|
-| MIABIS-44| Personal Identification Number| ASCII| Personal ID number to be used for registry linkages, e.g. social security number or national registration number| 
-| MIABIS-45| Birth date| Date| Date in ISO-standard (8601) time format for participant birth date| 
-| MIABIS-46| Sex| Text list| The sex of the participant. Can be one of the following values: MIABIS-13| 
-| MIABIS-47| Categories of data collected| Structured data| The type of data that is associated with the participant. Can be several values MIABIS-21| 
-| MIABIS-48| Survey Data| Text| Description of surveys for the participant| 
-| MIABIS-50| Death Date| Date| If applicable/known. Date in ISO-standard (8601) time format for date of death| 
-| MIABIS-51| Death Cause| Text| If applicable/known. Cause of death| 
-| MIABIS-42| Contact information| Structured data| [MIABIS-2.0-07](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#contact-information)| 
+In the proposal for extending MIABIS with Sample and Sample Donor components, Sample Donor has been defined as  a person whose sample is or has been stored in a sample collection in a biobank.
+
+| Attribute Code| Attribute Name| Allowed Values| Description| Constraints|
+|---|---|---|---|---|
+| MIABIS-SAMPLEDONOR-01| Sample donor ID| Coded String, ASCII| Sample donor ID. Unique ID-code of the sample donor within the sample collection/biobank| Pseudonymized, alphanumeric|
+| MIABIS-SAMPLEDONOR-02| Sex| Text list| Biological sex of the person. Can be one of the following values: MIABIS-13| |
+| MIABIS-SAMPLEDONOR-03| Data categories| Structured data| The data categories from which data from the person is available. Can be several values (list modified after MIABIS-21).| |
+| MIABIS-SAMPLEDONOR-04| Birth year| Text string, ISO8601| Birth year of the sample donor.| |
