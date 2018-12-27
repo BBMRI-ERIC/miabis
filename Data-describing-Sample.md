@@ -1,11 +1,19 @@
 ## MIABIS proposal for samples
 
-| Attribute Code| Attribute Name| Allowed Values| Description| 
-|---|---|---|---|
-| MIABIS-39| Sample ID| Text| Unique ID of the sample within a sample collection, often represented by the sample barcode; text identifier, recommendation maximum 30 characters.| 
-| MIABIS-40| Parent sample ID| Text| Unique ID within a sample collection of a parent sample. Only if the sample has a parent sample i.e. if the sample itself is an aliquot or a derivative from another sample.| 
-| MIABIS-41| Material type| Text list| The biospecimen type saved from a biological entity for testing, diagnostic, propagation, treatment or research purposes. Can be one of the following values values [MIABIS-2.0-14](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#material-type)| 
-| MIABIS-42| Storage temperature| Text list| The long term storage temperature at which the sample is stored after preparation. Can be one of the following values: [MIABIS-2.0-15](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#storage-temperature)| 
-| MIABIS-43| Sampled time| Date| The time when the sample is taken according to ISO 8601 i.e. YYYYMMDDThhmm| 
-| MIABIS-44| Anatomical site| Structured data| The anatomical position of the body where the solid sample was taken from. MIABIS-44| 
-| MIABIS-45| Sample Collection ID| Text| ID of the sample collection to which the sample belongs to. | 
+**NOTE!** The attribute list for Sample Donor is **tentative** and might still be subject to any additional changes.
+
+In the proposal for extending MIABIS with Sample and Sample Donor components, the Sample component aims to capture information on the current status of samples stored in a given biobank. A sample is obtained from a single sample donor, but it is also possible that a biobank will store pooled samples.
+
+| Attribute Code| Attribute Name| Allowed Values| Description| Constraints|
+|---|---|---|---|---|
+| MIABIS-SAMPLE-01| Sample ID| Text| Unique ID of the sample within a sample collection, often represented by the sample barcode; text identifier. Sample ID meant for sharing.|The biospecimen type saved from a biological entity for testing, diagnostic, propagation, treatment or research purposes.|
+| MIABIS-SAMPLE-02| Detailed material type| Text list| Unique ID within a sample collection of a parent sample. Only if the sample has a parent sample i.e. if the sample itself is an aliquot or a derivative from another sample.| 
+| MIABIS-SAMPLE-03| Sample storage temperature| Text list| The long term storage temperature at which the sample is stored after preparation. Based on SPREC v3 and [MIABIS-2.0-15](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#storage-temperature)| 
+| MIABIS-SAMPLE-04| Sample creation date and time| Date, ISO8601| The date and time (YYYYMMDDThhmm) when the sample was created in the form currently described in MIABIS-SAMPLE-02 Detailed material type. Could be also only date or year| 
+| MIABIS-SAMPLE-05| Anatomical site ontology| String| Name of ontology used for describing the anatomical source of the sampled material, e.g. ICD-O-3 topography code| MIABIS-SAMPLE-05 and MIABIS-SAMPLE-06 are required if any ontology information is provided|
+| MIABIS-SAMPLE-06| Anatomical site ontology version| Coded string| Version of selected ontology for Anatomical site| MIABIS-SAMPLE-05 and MIABIS-SAMPLE-06 are required if any ontology information is provided|
+| MIABIS-SAMPLE-07| Anatomical site ontology code| Coded string| Anatomical site code from the selected Anatomical site ontology version| MIABIS-SAMPLE-05 and MIABIS-SAMPLE-06 are required if any ontology information is provided|
+| MIABIS-SAMPLE-08| Anatomical site ontology description| String| Description from the selected Anatomical site ontology code| MIABIS-SAMPLE-05 and MIABIS-SAMPLE-06 are required if any ontology information is provided|
+| MIABIS-SAMPLE-09| Anatomical site free text| String| Explanation about Anatomical site or in case of unknown Anatomical site or insufficient information| MIABIS-SAMPLE-05 and MIABIS-SAMPLE-06 are required if any ontology information is provided|
+| MIABIS-10| Sample content diagnosis| Text list| The ICD-10 diagnosis code describing content of the sample, such as whether the sample contains cancerous material | 
+| MIABIS-11| Use restrictions| Text list| The restrictions that may change the availability of the samples donated by the sample donor| 
