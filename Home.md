@@ -21,8 +21,6 @@ MIABIS Core 2.0 consists of three main components: "Biobank", "Samples Collectio
 
 ## Additional suggested components (for which working groups have not been established yet):
 * [Data describing Quality](https://github.com/MIABIS/miabis/wiki/Data-describing-Sample-Quality)
-* [Data describing Biological Experiment](https://github.com/MIABIS/miabis/wiki/Data-describing-Biological-Experiment)
-* [Data describing Rare diseases](https://github.com/MIABIS/miabis/wiki/Data-describing-Rare-Diseases)
 
 ## Structured data and lists:
 * [Structured data and lists](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists)
