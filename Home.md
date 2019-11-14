@@ -23,9 +23,7 @@ MIABIS Core is currently being updated to version 3.0. The update will include a
 
 ## Additional components (under active development):
 * Data describing SOPs
-
-## Additional suggested components (for which working groups have not been established yet):
-* [Data describing Quality](https://github.com/MIABIS/miabis/wiki/Data-describing-Sample-Quality)
+* Data describing image collections
 
 ## Structured data and lists:
 * [Structured data and lists](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists)
