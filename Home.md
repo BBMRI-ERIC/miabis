@@ -14,6 +14,8 @@ MIABIS Core 2.0 consists of three main components: "Biobank", "Samples Collectio
 * [Data describing Study](https://github.com/MIABIS/miabis/wiki/Data-describing-Study)
 * [Entire list of attributes](https://github.com/MIABIS/miabis/wiki/Entire-list-of-attributes)
 
+MIABIS Core is currently being updated to version 3.0. The update will include addition of a 'network' -component, and overall additional updates which have been identified by BBMRI-ERIC CS-IT working group. If you want to join the work, please send an e-mail to: contact@bbmri-eric.eu .
+
 ## Additional components (under active development):
 * [Data describing Sample](https://github.com/MIABIS/miabis/wiki/Data-describing-Sample)
 * [Data describing Sample Donor](https://github.com/MIABIS/miabis/wiki/Data-describing-Sample-Donor)
