@@ -1,7 +1,7 @@
 # MIABIS: Minimum Information About BIobank data Sharing
 
 The Minimum Information About BIobank data Sharing (MIABIS) aims to standardize data elements used to describe biobanks, research on samples and associated data. The MIABIS Community Standards work on several granularity levels, with the aim to support interoperability between biobanks sharing their data. 
-General attributes to describe biobanks, sample collections and studies at an aggregated/metadata level are defined in MIABIS Core 2.0. New MIABIS modules describing samples, sample donors and events at individual level have been approved by BBMRI-ERIC and are described here. 
+General attributes to describe biobanks, sample collections and studies at an aggregated/metadata level are defined in MIABIS Core 2.0 ((Merino-Martinez et al., 2016). New MIABIS modules describing samples and sample donors at individual level have been approved by BBMRI-ERIC and are described here (Eklund et al., 2020).
 
 The work on the MIABIS community standards follows the new MIABIS governance model introduced in 2016 by [BBMRI-ERIC](http://www.bbmri-eric.eu/). The new governance model splits the MIABIS definition work into focused modules, each module having an initial pre-defined scope which is based on given use cases. The finalized MIABIS modules are accepted by the Management Committee of BBMRI-ERIC. MIABIS modules are developed by working groups with voluntary participants from different BBMRI-ERIC national nodes as well as other domain experts. 
 
@@ -19,7 +19,6 @@ MIABIS Core is currently being updated to version 3.0. The update will include a
 ## Additional components accepted by BBMRI-ERIC:
 * [Data describing Sample](https://github.com/MIABIS/miabis/wiki/Data-describing-Sample)
 * [Data describing Sample Donor](https://github.com/MIABIS/miabis/wiki/Data-describing-Sample-Donor)
-* Data describing Event
 
 ## Additional components (under active development):
 * Data describing SOPs

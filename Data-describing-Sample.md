@@ -1,8 +1,6 @@
-## MIABIS proposal for samples
+## Definition
 
-**NOTE!** The attribute list for Sample Donor is **tentative** and might still be subject to any additional changes.
-
-In the proposal for extending MIABIS with Sample and Sample Donor components, the Sample component aims to capture information on the current status of samples stored in a given biobank. A sample is obtained from a single sample donor, but it is also possible that a biobank will store pooled samples.
+Introduced in MIABIS Core 3.0, Sample represents current status of samples stored in a given biobank. A sample is obtained from a single sample donor, but it is also possible that a biobank will store pooled samples (Eklund et al. Biopreserv Biobank. 2020; 0(0): 1-10).
 
 | Attribute Code| Attribute Name| Allowed Values| Description| Constraints|
 |---|---|---|---|---|
