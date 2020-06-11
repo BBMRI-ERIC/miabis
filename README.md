@@ -18,7 +18,7 @@ MIABIS Core is currently being updated to version 3.0. The update will include a
 
 ## MIABIS Individual-level components 1.0 ([Eklund et al., 2020](https://www.liebertpub.com/doi/10.1089/bio.2019.0129)):
 * [Data describing Sample](Data-describing-Sample.md)
-* [Data describing Sample Donor](/ata-describing-Sample-Donor.md)
+* [Data describing Sample Donor](Data-describing-Sample-Donor.md)
 * [Data describing Event](Data-describing-Event.md)
 * [List of attributes](MIABIS-inidividual-components-list-of-attributes.md)
 
