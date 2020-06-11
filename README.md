@@ -9,26 +9,26 @@ The work on the MIABIS community standards follows the new MIABIS governance mod
 MIABIS Core 2.0 represents the minimum information required to initiate collaborations between biobanks and to enable the exchange of biological samples and data. The aim is to facilitate the reuse of bio-resources and associated data by harmonizing biobanking and biomedical research. The attributes are defined in accordance with epidemiological literature and terminology.
 
 MIABIS Core 2.0 consists of three main components: "Biobank", "Samples Collection" and "Study". 
-* [Data describing Biobank](https://github.com/py5gol/test-miabis/Data-describing-Biobank)
-* [Data describing Sample Collection](https://github.com/py5gol/test-miabis/Data-describing-Sample-Collection)
-* [Data describing Study](https://github.com/py5gol/test-miabis/Data-describing-Study)
-* [List of attributes](https://github.com/py5gol/test-miabis/Entire-list-of-attributes)
+* [Data describing Biobank](Data-describing-Biobank.md)
+* [Data describing Sample Collection](Data-describing-Sample-Collection.md)
+* [Data describing Study](Data-describing-Study.md)
+* [List of attributes](Entire-list-of-attributes.md)
 
 MIABIS Core is currently being updated to version 3.0. The update will include addition of a 'network' -component, and overall additional updates which have been identified by BBMRI-ERIC CS-IT working group. If you want to join the work, please send an e-mail to: contact@bbmri-eric.eu .
 
 ## MIABIS Individual-level components 1.0 ([Eklund et al., 2020](https://www.liebertpub.com/doi/10.1089/bio.2019.0129)):
-* [Data describing Sample](https://github.com/py5gol/test-miabis/Data-describing-Sample)
-* [Data describing Sample Donor](https://github.com/py5gol/test-miabis/Data-describing-Sample-Donor)
-* [Data describing Event](https://github.com/py5gol/test-miabis/Data-describing-Event)
-* [List of attributes](https://github.com/py5gol/test-miabis/MIABIS-inidividual-components-list-of-attributes)
+* [Data describing Sample](Data-describing-Sample.md)
+* [Data describing Sample Donor](/ata-describing-Sample-Donor.md)
+* [Data describing Event](Data-describing-Event.md)
+* [List of attributes](MIABIS-inidividual-components-list-of-attributes.md)
 
 ## Additional components (under active development):
 * Data describing SOPs
 * Data describing image collections
 
 ## Structured data and lists:
-* [Structured data and lists](https://github.com/py5gol/test-miabis/Structured-data-and-lists)
+* [Structured data and lists](Structured-data-and-lists.md)
 
 ## Machine readable implementations:
-* [MIABIS XML implementation](https://github.com/py5gol/test-miabis/miabis-xml)
-* [Database implementation](https://github.com/py5gol/test-miabis/Database-implementation)
+* [MIABIS XML implementation](miabis-xml.md)
+* [Database implementation](Database-implementation.md)
