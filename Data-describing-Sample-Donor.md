@@ -1,8 +1,7 @@
-## MIABIS proposal for Sample Donor
+## Definition
 
-**NOTE!** The attribute list for Sample Donor is **tentative** and might still be subject to any additional changes.
+Introduced in 2020 ([Eklund et al., 2020](https://www.liebertpub.com/doi/10.1089/bio.2019.0129)), the component <strong>Sample donor</strong> is a person who is a source of either a biological material or a digital representation of a biological entity such as an image. 
 
-In the proposal for extending MIABIS with Sample and Sample Donor components, Sample Donor has been defined as  a person whose sample is or has been stored in a sample collection in a biobank.
 
 | Attribute Code| Attribute Name| Allowed Values| Description| Constraints| Cardinality|
 |---|---|---|---|---|---|
