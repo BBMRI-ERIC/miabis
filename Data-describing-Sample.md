@@ -2,7 +2,7 @@
 
 Introduced in MIABIS Core 3.0, Sample represents current status of samples stored in a given biobank. A sample is obtained from a single sample donor, but it is also possible that a biobank will store pooled samples (Eklund et al. Biopreserv Biobank. 2020; 0(0): 1-10).
 
-| Attribute Code| Attribute Name| Allowed Values| Description| Constraints| Cardinality|
+| Attribute Code | Attribute Name | Allowed Values | Description | Constraints | Cardinality| 
 |---|---|---|---|---|
 | MIABIS-SAMPLE-01| Sample ID| Coded string| Unique ID of the sample within a sample collection, often represented by the sample barcode; text identifier. Sample ID meant for sharing. |Pseudonymized, alphanumeric. It is recommended that sample IDs will be persistent within a given biobank. | 1|
 | MIABIS-SAMPLE-02| Detailed sample type| Text list| The sample type saved from a biological entity for testing diagnostic, propagation, treatment or research purposes| | 1|
