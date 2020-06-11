@@ -17,9 +17,9 @@ MIABIS Core 2.0 consists of three main components: "Biobank", "Samples Collectio
 MIABIS Core is currently being updated to version 3.0. The update will include addition of a 'network' -component, and overall additional updates which have been identified by BBMRI-ERIC CS-IT working group. If you want to join the work, please send an e-mail to: contact@bbmri-eric.eu .
 
 ## MIABIS Individual-level components 1.0 ([Eklund et al., 2020](https://www.liebertpub.com/doi/10.1089/bio.2019.0129)):
-* [Data describing Sample](https://github.com/MIABIS/miabis/wiki/Data-describing-Sample)
-* [Data describing Sample Donor](https://github.com/MIABIS/miabis/wiki/Data-describing-Sample-Donor)
-* [Data describing Event](https://github.com/MIABIS/miabis/wiki/Data-describing-Event)
+* [Data describing Sample](Data-describing-Sample)
+* [Data describing Sample Donor](Data-describing-Sample-Donor)
+* [Data describing Event](Data-describing-Event)
 
 ## Additional components (under active development):
 * Data describing SOPs
