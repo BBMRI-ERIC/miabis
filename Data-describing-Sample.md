@@ -1,6 +1,6 @@
 ## Definition
 
-Introduced in MIABIS Core 3.0, Sample represents current status of samples stored in a given biobank. A sample is obtained from a single sample donor, but it is also possible that a biobank will store pooled samples (Eklund et al. Biopreserv Biobank. 2020; 0(0): 1-10).
+Introduced in 2020 ([Eklund et al., 2020](https://www.liebertpub.com/doi/10.1089/bio.2019.0129)), the component <strong>Sample</strong> is a portion or quantity of biological material that is collected from a sample donor, or which is a digital representation of a biological entity of the sample donor, such as an image. 
 
 | Attribute Code | Attribute Name | Allowed Values | Description | Constraints | Cardinality | 
 | --- | --- | --- | --- | --- | --- |
