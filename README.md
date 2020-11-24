@@ -32,3 +32,7 @@ MIABIS Core is currently being updated to version 3.0. The update will include a
 ## Machine readable implementations:
 * [MIABIS XML implementation](miabis-xml.md)
 * [Database implementation](Database-implementation.md)
+
+## Quality Check Script Extensions:
+Repository for scripts to support the operations of the BBMRI-ERIC Directory
+* [molgenis-app-bbmri-eric-scripts](https://github.com/esthervanenckevort/molgenis-app-bbmri-eric-scripts)
