@@ -8,5 +8,5 @@ For MIABIS Core 2.0 purpose, Biobank is defined as **an organization or an organ
 | MIABIS-2.0-04 | URL | Text | Textual string of letters with the complete http-address for the biobank|
 | MIABIS-2.0-05 | Juristic Person | Text | Textual string of letters denoting the juristic person e.g. a university, concern, county council etc. for the biobank|
 | MIABIS-2.0-06 | Country | Text | ISO-standard (3166 alpha2), two letter code for the country of the biobank|
-| MIABIS-2.0-07 | Contact Information | Structured data | Contact information for the contact person of the biobank [MIABIS-2.0-07](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#contact-information)|
+| MIABIS-2.0-07 | Contact Information | Structured data | Contact information for the contact person of the biobank [MIABIS-2.0-07](Structured-data-and-lists.md#contact-information)|
 | MIABIS-2.0-08 | Description | Text | Textual string of letters with a description about the biobank in English.|
