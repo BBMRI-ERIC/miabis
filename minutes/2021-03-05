@@ -4,8 +4,8 @@ Attendees: Andrzej Strug, Aneas Hodselsmans, Blazej Marciniak, Cäcilia Engels, 
 
 # Introduction to the "star model" (MN)
  - star model is no typical relational data model for normalisation generally used to reduce redundancy
- - the star model is customary in data ware houses, where it is optimal for querying data: simple, fast, redundant
- - the model emploies with dimension-tables and facts-tables working towards aggregation 
+ - the star model is commonly used in data ware houses, where it is optimal for querying data: simple, fast, redundant
+ - the model is designed so that one facts-table carries the aggregation measures whereas several dimension tables carry the filter criteria 
  - https://www.youtube.com/watch?v=q77B-G8CA24
  - the star model was chosen to accommodate pre-defined queries
 
