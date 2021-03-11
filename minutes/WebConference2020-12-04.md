@@ -1,6 +1,6 @@
 Participants: AS, NE, MN, CE, BG, GA, KS, ND, PH, (RB)
 
-# Star model for MIABIS
+## Star model for MIABIS
 Facts with dimensions: Which dimensions do we need and what characterises them?
 Start with small set of dimensions: 
  - **Disease** (diagnosis)
@@ -8,7 +8,7 @@ Start with small set of dimensions:
  - **Sample** (type, temperature)
  - **OMICS** (?)
  
- # The declared goal for this model is, that any biobank is able to fill in some information
+ ## The declared goal for this model is, that any biobank is able to fill in some information
 
 (KS = Kaisa Silander, NE = Niina Eklund, GA = Gabi Anton, MN = Michael Neumann, CE = Cäcilia Engels, AS = Andrzel Strug)
 
