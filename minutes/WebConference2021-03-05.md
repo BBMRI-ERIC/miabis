@@ -2,14 +2,16 @@ MIABIS working group update 05.03.21
 
 Attendees: Andrzej Strug, Aneas Hodselsmans, Blazej Marciniak, Cäcilia Engels, Christoph Döllinger, EJ. Vinke, Gabi Anton (GA), Glerean Enrico, Hans Demski, Joanna Vella, Jörg Geiger, Kristjan Metsalu, Michael Neumann (MN), Noemi Deppenwiese, Lauri Pakonnen, Kaisa Silander, Tomas Snackerstrom, Zdenka Dudová
 
-## Introduction to the "star model" (MN)
+## Introduction to the "star model" (MN) 
+[]
  - star model is no typical relational data model for normalisation generally used to reduce redundancy
  - the star model is commonly used in data ware houses, where it is optimal for querying data: simple, fast, redundant
  - the model is designed so that one facts-table carries the aggregation measures whereas several dimension tables carry the filter criteria 
  - https://www.youtube.com/watch?v=q77B-G8CA24
  - the star model was chosen to accommodate pre-defined queries
 
-## Introduction to the dimensions and facts-tables already assembled from MIABIS (GA)
+## Introduction to the dimensions and facts-tables already assembled from MIABIS (GA) 
+[MIABISCorev3update_20210405.pdf]
  - as dimensions for the first aggregations were chosen: disease (better: diagnosis?); donor, sample an OMICS
  - for these dimensions the facts from the given MIABIS were allottet (see below) and further suggestions made
  - facts for diagnosis: ontology (version, code, description, freetext); assessment date; certainty of diagnosis; any further suggestions or value lists?
