@@ -11,7 +11,7 @@ Attendees: Andrzej Strug, Aneas Hodselsmans, Blazej Marciniak, Cäcilia Engels, 
  - the star model was chosen to accommodate pre-defined queries
 
 ## Introduction to the dimensions and facts-tables already assembled from MIABIS (GA) 
-[I'm a reference-style link][MIABISCorev3update_20210405.pdf]
+[MIABISCorev3update_20210405.pdf]
  - as dimensions for the first aggregations were chosen: disease (better: diagnosis?); donor, sample an OMICS
  - for these dimensions the facts from the given MIABIS were allottet (see below) and further suggestions made
  - facts for diagnosis: ontology (version, code, description, freetext); assessment date; certainty of diagnosis; any further suggestions or value lists?
