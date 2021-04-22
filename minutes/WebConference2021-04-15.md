@@ -10,7 +10,7 @@ Range for MIABIS core 3.0: organisational-level (networks, biobanks, collections
 ## Use case: Directory 
 To be implemented within Molgenis technology in the BBMRI-ERIC Directory & Biobank Finder (RD-Connect)
 
-# Open questions: 
+### Open questions: 
  - Can "collection" be replaced by the different filters? Or is there another definition (ownership, consent, contact point)?
  - Is the term "data objects" needed, or can there just be the data objects give: OMICS, imaging, etc. and further upcoming "data objects".
  - Who (except for the Directory) will employ MIABIS? Sample Locator, BP-Query,...?
