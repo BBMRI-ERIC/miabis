@@ -17,6 +17,6 @@ To be implemented within Molgenis technology in the BBMRI-ERIC Directory & Bioba
  - Which existing terminologies can be used? OMOP https://www.ohdsi.org/data-standardization/the-common-data-model/, FHIR https://www.hl7.org/fhir/resourcelist.html, SCT, DICOM,...?
 
 **Homework** ☝️
-@AS: Gather data for imaging -> as input into discussion
-@CE: Ask Petr concerning the possibility to use SCT for MIABIS? / gather sample material types (SCT) / gather clinical data for donor description -> as input into discussion
-@NE & AS: Mapping of current directory to future MIABIS
+ - @AS: Gather data for imaging -> as input into discussion
+ - @CE: Ask Petr concerning the possibility to use SCT for MIABIS? / gather sample material types (SCT) / gather clinical data for donor description -> as input into discussion
+ - @NE & AS: Mapping of current directory to future MIABIS
