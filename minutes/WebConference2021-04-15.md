@@ -8,7 +8,7 @@ MIABIS-work: sort out terminology to give biobanks the tools to describe their d
 Range for MIABIS core 3.0: organisational-level (networks, biobanks, collections/studies) + content-level (samples + omics + donor) https://www.liebertpub.com/doi/10.1089/bio.2019.0129
 
 ## Use case: Directory 
-To be implemented within Molgenis technology in the BBMRI-ERIC Directory & Biobank Finder (RD-Connect)
+MIABIS to be implemented within Molgenis technology in the BBMRI-ERIC Directory & Biobank Finder (RD-Connect)
 
 ### Open questions: 
  - Can "collection" be replaced by the different filters? Or is there another definition (ownership, consent, contact point)?
