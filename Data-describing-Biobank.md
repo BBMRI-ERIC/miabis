@@ -1,4 +1,4 @@
-For MIABIS Core 2.0 purpose, Biobank is defined as **an organization or an organizational unit** that stores samples and data related to the samples. In MIABIS Core 2.0 biobanks do not contain samples directly, but they are hosting sample collections. On the level of biobanks, only attributes related to the organizational aspect of the biobanks are represented. (Merino-Martinez et al. Biopreserv Biobank. 2016; 14(4):298-306). 
+For MIABIS Core 2.0 purpose, Biobank is defined as **an organization or an organizational unit** that stores samples and data related to the samples. In MIABIS Core 2.0 biobanks do not contain samples directly, but they are hosting sample collections. On the level of biobanks, only attributes related to the organizational aspect of the biobanks are represented. (Merino-Martinez et al. Biopreserv Biobank. 2016; 14(4):298-306 https://pubmed.ncbi.nlm.nih.gov/26977825/). 
 
 | Attribute Code | Attribute Name | Allowed Values | Description|
 |---|---|---|---|
