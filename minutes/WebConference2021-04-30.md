@@ -11,8 +11,8 @@ The group agrees that this would not contradict the postulate of MIABIS to inclu
 The list is grouped into "bioprocessing capabilities" vs. "technical and organisational capabilities" other groupings discussed were: data storage vs. data analytics
 
 What is the exact purpose to list "biobank capabilities" in the Directory? (F.e. Swedish biobanks distinguish between the biobank = bank and additional analysis = collaborative lab)
-**-> provide sample processing for storage**
-**-> provide service to procure/extract data**
+1. **-> provide sample processing for storage**
+2. **-> provide service to procure/extract data**
 
 **Homework** ☝️ 
 @CE: Create a voting table for the list of "Biobank capabilities" and send to the entire MIABIS WG for vote of which truly (and only!) biobank-specific sample preparation/processing and storage "capabilities" they offer at their biobanks.
