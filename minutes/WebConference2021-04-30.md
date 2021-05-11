@@ -14,7 +14,9 @@ What is the exact purpose to list "biobank capabilities" in the Directory? (F.e.
 1. **-> provide sample processing for storage**
 2. **-> provide service to procure/extract data**
 
+
 **Homework** ☝️ 
 
 @CE: Create a voting table for the list of "Biobank capabilities" and send to the entire MIABIS WG for vote of which truly (and only!) biobank-specific sample preparation/processing and storage "capabilities" they offer at their biobanks.
+
 @AS: Proposal of a new MIABIS-group to further elaborated the remaining items on the list.
