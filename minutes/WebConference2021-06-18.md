@@ -2,7 +2,7 @@ WebConference2021-06-18
 
 Participants: Aleksandra Jelcic, Andrzej Strug , Cecilia Engels, Gabi Anton, Kaisa Silander, Luciano Milanesi, Michael Neumann (MN), Niina Eklund, Noemi Deppenwiese, Petr Holub, Ronny Baber, Tomas Snackerstroem, 
 
-RD-Connect registry conformed into the star model (by Philipp, Anja and Robert):
+RD-Connect registry conformed into the star model (by Philipp, Anja and Robert https://docs.google.com/spreadsheets/d/14ZDzZkrBCzoamEvbLMKOOfhfx2lp4dYG/edit#gid=1177687397 ):
  - Excel-Tabs depict dimensions (material, body type,...) with columns for ID, Code and Label
  - Facts table aggregates up to 10000 records
  - Search in facts table can be shown, as anticipated
