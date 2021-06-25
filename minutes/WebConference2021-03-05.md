@@ -1,6 +1,6 @@
 MIABIS working group update 05.03.21
 
-Attendees: Andrzej Strug, Aneas Hodselsmans, Blazej Marciniak, Cäcilia Engels, Christoph Döllinger, EJ. Vinke, Gabi Anton (GA), Glerean Enrico, Hans Demski, Joanna Vella, Jörg Geiger, Kristjan Metsalu, Michael Neumann (MN), Noemi Deppenwiese, Lauri Pakonnen, Kaisa Silander, Tomas Snackerstrom, Zdenka Dudová
+Participants: Andrzej Strug, Aneas Hodselsmans, Blazej Marciniak, Cäcilia Engels, Christoph Döllinger, EJ. Vinke, Gabi Anton (GA), Glerean Enrico, Hans Demski, Joanna Vella, Jörg Geiger, Kristjan Metsalu, Michael Neumann (MN), Noemi Deppenwiese, Lauri Pakonnen, Kaisa Silander, Tomas Snackerstrom, Zdenka Dudová
 
 ## Introduction to the "star model" (MN) 
 [2021-03-05_StarSchema](https://github.com/BBMRI-ERIC/miabis/blob/master/minutes/2021-03-05_StarSchema.pdf)
