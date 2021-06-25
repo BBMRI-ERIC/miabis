@@ -1,6 +1,6 @@
 MIABIS working group update 15.04.21
 
-Attendees: Andrzej Strug (AS), Cäcilia Engels (CE), Enrico Glerean (EG), Gabi Anton (GA), Heimo Müller (HM), Michael Hummel (MH), Michael Neumann (MN), Niina Eklund (NE), Robert Rehis (RR), Ronny Baber (RB), Zdenka Dudová (ZD), 
+Participants: Andrzej Strug (AS), Cäcilia Engels (CE), Enrico Glerean (EG), Gabi Anton (GA), Heimo Müller (HM), Michael Hummel (MH), Michael Neumann (MN), Niina Eklund (NE), Robert Rehis (RR), Ronny Baber (RB), Zdenka Dudová (ZD), 
 
 ## MIABIS scope: 
 "data describing" (just describing the attributes in a modelled way) -> Directory is the use case/implementation for "data sharing"
