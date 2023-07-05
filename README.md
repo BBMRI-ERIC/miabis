@@ -5,10 +5,8 @@ The Minimum Information About BIobank data Sharing (MIABIS) aims to standardise 
 The work on the MIABIS terminology work follows the new MIABIS governance model introduced by [BBMRI-ERIC](http://www.bbmri-eric.eu/) in 2016. The new governance model divides the MIABIS definition work into focused components, with each component having an initial predefined scope which is based on given use cases. The finalised MIABIS components and their entities will be approved by the of BBMRI-ERIC Management Committee. MIABIS components are developed by working groups with volunteer participants from different BBMRI-ERIC National Nodes as well as interested domain experts.
 
 MIABIS data standard is constantly being updated.
-
-•	If you want to join the work, please send an email to: miabis@lists.bbmri-eric.eu 
-
-•	If you have any issues, you would like the MIABIS team to consider, please submit them as an issue this GitHub page.
+* If you want to join the work, please send an email to: miabis@lists.bbmri-eric.eu 
+* If you have any issues, you would like the MIABIS team to consider, please submit them as an issue this GitHub page.
 
 
 ## MIABIS Core:
@@ -21,17 +19,14 @@ MIABIS Core consists of four main entities: "Biobank", "Collection", “Research
 * [List of all attributes](Entire-list-of-attributes.md)
 
 Additional aggregate-level components have been prepared for Imaging (DICOM-MIABIS) and for Standard Operating Prodecures (SOPs).
-
-•	Data describing image collections ([Scapicchio et al., 2021](https://eurradiolexp.springeropen.com/articles/10.1186/s41747-021-00214-4)).
-
-•	Data describing SOPs (in preparation)
+* Data describing image collections ([Scapicchio et al., 2021](https://eurradiolexp.springeropen.com/articles/10.1186/s41747-021-00214-4)).
+* Data describing SOPs (in preparation)
 
 
 ## MIABIS Individual-level components:
 The MIABIS Core terminology consists of three entities describing biobanks, sample collections, and studies, where information on samples and sample donors is provided in an aggregated form. However, there is also a need to describe samples and sample donors at an individual level to enable more sophisticated queries. Therefore, the MIABIS terminology has been extended to include components describing information on samples, donors, and events at a more specific manner
 
 Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https://doi.org/10.1089/bio.2019.0129)):
-
 * [Data describing Sample](Data-describing-Sample.md)
 * [Data describing Sample Donor](Data-describing-Sample-Donor.md)
 * [Data describing Event](Data-describing-Event.md)
@@ -39,8 +34,8 @@ Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https
 
 
 ## Additional components (under active development):
-•	Data describing dataset type 
-•	Data describing biobank capabilities 
+* Data describing dataset type 
+* Data describing biobank capabilities 
 
 
 ## MIABIS Entity-Relationship Diagram
