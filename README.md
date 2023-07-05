@@ -51,7 +51,3 @@ The MiABIS Entity-Relationship Diagram represents relationships between differen
 
 ## Structured data and lists:
 * [Structured data and lists](Structured-data-and-lists.md)
-
-## Machine readable implementations:
-* [MIABIS XML implementation](miabis-xml.md)
-* [Database implementation](Database-implementation.md)
