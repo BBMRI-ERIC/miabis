@@ -1,4 +1,4 @@
-For MIABIS Core 2.0 purpose, Biobank is defined as **an organization or an organizational unit** that stores samples and data related to the samples. In MIABIS Core 2.0 biobanks do not contain samples directly, but they are hosting sample collections. On the level of biobanks, only attributes related to the organizational aspect of the biobanks are represented. (Merino-Martinez et al. Biopreserv Biobank. 2016; 14(4):298-306). 
+For MIABIS Core 2.0 purpose, Biobank is defined as **an organization or an organizational unit** that stores samples and data related to the samples. In MIABIS Core 2.0 biobanks do not contain samples directly, but they are hosting sample collections. On the level of biobanks, only attributes related to the organizational aspect of the biobanks are represented. (Merino-Martinez et al. Biopreserv Biobank. 2016; 14(4):298-306 https://pubmed.ncbi.nlm.nih.gov/26977825/). 
 
 | Attribute Code | Attribute Name | Allowed Values | Description|
 |---|---|---|---|
@@ -8,5 +8,5 @@ For MIABIS Core 2.0 purpose, Biobank is defined as **an organization or an organ
 | MIABIS-2.0-04 | URL | Text | Textual string of letters with the complete http-address for the biobank|
 | MIABIS-2.0-05 | Juristic Person | Text | Textual string of letters denoting the juristic person e.g. a university, concern, county council etc. for the biobank|
 | MIABIS-2.0-06 | Country | Text | ISO-standard (3166 alpha2), two letter code for the country of the biobank|
-| MIABIS-2.0-07 | Contact Information | Structured data | Contact information for the contact person of the biobank [MIABIS-2.0-07](https://github.com/MIABIS/miabis/wiki/Structured-data-and-lists#contact-information)|
+| MIABIS-2.0-07 | Contact Information | Structured data | Contact information for the contact person of the biobank [MIABIS-2.0-07](https://github.com/BBMRI-ERIC/miabis/blob/master/Structured-data-and-lists.md#contact-information)|
 | MIABIS-2.0-08 | Description | Text | Textual string of letters with a description about the biobank in English.|
