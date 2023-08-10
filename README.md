@@ -46,3 +46,10 @@ The MiABIS Entity-Relationship Diagram represents relationships between differen
 
 ## Structured data and lists:
 * [Structured data and lists](Structured-data-and-lists.md)
+
+## Machine readable implementations:
+* [Database implementation](Database-implementation.md)
+
+## Quality Check Script Extensions:
+Repository for scripts to support the operations of the BBMRI-ERIC Directory
+* [molgenis-app-bbmri-eric-scripts](https://github.com/esthervanenckevort/molgenis-app-bbmri-eric-scripts)
