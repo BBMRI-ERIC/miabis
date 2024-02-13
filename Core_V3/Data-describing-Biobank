@@ -1,7 +1,9 @@
+#Data describing Biobank entity
 ## Definition
 
 For MIABIS Core 3.0 purpose, Research resource represents a set of samples and/or data items used and/or analyzed in a common context in past or current research. A research resource may combine material from multiple collections and from multiple biobanks. (Eklund et al. Biopreserv Biobank. 2024. [in press]).
 
+##Attribute list
 
 | Attribute Code | Attribute Name | Allowed Values | Description | Constraints | Cardinality |
 |---|---|---|---|---|---|
