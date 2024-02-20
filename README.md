@@ -13,10 +13,9 @@ MIABIS data standard is constantly being updated.
 MIABIS Core represents the minimum information required to initiate collaboration with biobanks and to enable the exchange of biological samples and data. The aim is to facilitate the re-use of biological resources and associated data by harmonising biobanking and biomedical research attributes. The attributes are defined in accordance with epidemiological literature and terminology.  MIABIS Core 3.0 has been developed with 32 attributes describing Biobanks, Collections, Research Resources and Networks according to a modular structure that makes it easier to adhere to and to extend the terminology (Eklund et al., 2023. Manuscript submitted).
 
 MIABIS Core consists of four main entities: "Biobank", "Collection", “Research Resource” and "Network".
-* [Data describing Biobank](Data-describing-Biobank.md)
-* [Data describing Sample Collection](Data-describing-Sample-Collection.md)
-* [Data describing Study](Data-describing-Study.md)
-* [List of all attributes](Entire-list-of-attributes.md)
+* [Data describing Biobank](Core/V3/Data-describing-Biobank.md)
+* [Data describing Sample Collection](Core/V2/Data-describing-Sample-Collection.md)
+* [Data describing Study](Core/V2/Data-describing-Study.md)
 
 Additional aggregate-level components have been prepared for Imaging (DICOM-MIABIS) and for Standard Operating Prodecures (SOPs).
 * Data describing image collections ([Scapicchio et al., 2021](https://eurradiolexp.springeropen.com/articles/10.1186/s41747-021-00214-4)).
@@ -27,10 +26,9 @@ Additional aggregate-level components have been prepared for Imaging (DICOM-MIAB
 The MIABIS Core terminology consists of three entities describing biobanks, sample collections, and studies, where information on samples and sample donors is provided in an aggregated form. However, there is also a need to describe samples and sample donors at an individual level to enable more sophisticated queries. Therefore, the MIABIS terminology has been extended to include components describing information on samples, donors, and events at a more specific manner
 
 Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https://doi.org/10.1089/bio.2019.0129)):
-* [Data describing Sample](Data-describing-Sample.md)
-* [Data describing Sample Donor](Data-describing-Sample-Donor.md)
-* [Data describing Event](Data-describing-Event.md)
-* [List of attributes](MIABIS-inidividual-components-list-of-attributes.md)
+* [Data describing Sample](Components/Individual/Sample+SampleDonor+Event/V1/Data-describing-Sample.md)
+* [Data describing Sample Donor](Components/Individual/Sample+SampleDonor+Event/V1/Data-describing-Donor.md)
+* [Data describing Event](Components/Individual/Sample+SampleDonor+Event/V1/Data-describing-Event.md)
 
 
 ## Additional components (under active development):
