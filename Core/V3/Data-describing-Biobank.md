@@ -5,7 +5,7 @@ For MIABIS Core 3.0 purposes, Biobank is defined as **a legal entity or part of 
 
 ## Attribute list
 
-| Attribute Code | Attribute Name | Allowed Values | Description | Constraints| 
+| Attribute Code | Attribute Name | Allowed Data | Description | Constraints| 
 |---|---|---|---|---|
 | MIABIS-BIOBANK-01 | ID | Text | ID of the biobank.|The ID is technical and given by the implementation. Implementation will provide instructions on how to form the ID.
 | MIABIS-BIOBANK-02 | Acronym | Text | Short name in use for the biobank. If applicable.|
