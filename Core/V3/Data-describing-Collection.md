@@ -6,7 +6,7 @@ For MIABIS Core 3.0 purpose, Collection represents a set of samples and/or data 
 
 ## Attribute list
 
-| Attribute Code | Attribute Name | Allowed Values | Description | Constraints | Cardinality |
+| Attribute Code | Attribute Name | Allowed Data | Description | Constraints | Cardinality |
 |---|---|---|---|---|---|
 | MIABIS-COLLECTION-01| ID| Text| ID of the collection.| The ID is technical and given by the implementation. Implementation will provide instructions on how to form the ID. | 1
 | MIABIS-COLLECTION-02| Acronym| Text| Short name in use for the collection. If applicable.| |0..1
