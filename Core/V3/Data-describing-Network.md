@@ -6,7 +6,7 @@ For MIABIS Core v3 purposes, Network is defined as a group of interconnected bio
 
 ## Attribute list
 
-|Attribute Code|Attribute Name|Allowed Values|Description|Constraints|Cardinality
+|Attribute Code | Attribute Name | Allowed Data | Description | Constraints | Cardinality
 |---|---|---|---|---|---|
 |MIABIS-NETWORK-01| ID| Text| ID of the network.| The ID is technical and given by the implementation. Implementation will provide instructions on how to form the ID| 1
 |MIABIS-NETWORK-02| Acronym| Text| Short name in use for the network. If applicable.| | 0..1
