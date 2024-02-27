@@ -26,9 +26,9 @@ Two additional aggregate-level components have been prepared for Imaging (DICOM-
 In response to the need for more detailed information, MIABIS has extended its terminology to include individual-level components, describing samples, sample donors, and events. These entities enhance the ability to perform sophisticated queries. Ongoing developments include an additional component describing molecular pathology.
 
 Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https://doi.org/10.1089/bio.2019.0129)):
-* [Data describing Sample](Components/Individual/Sample+SampleDonor+Event/V1/Data-describing-Sample.md)
-* [Data describing Sample Donor](Components/Individual/Sample+SampleDonor+Event/V1/Data-describing-Donor.md)
-* [Data describing Event](Components/Individual/Sample+SampleDonor+Event/V1/Data-describing-Event.md)
+* [Data describing Sample](Components/individual-level/Sample+SampleDonor+Event/V1/Data-describing-Sample.md)
+* [Data describing Sample Donor](Components/individual-level/Sample+SampleDonor+Event/V1/Data-describing-Donor.md)
+* [Data describing Event](Components/individual-level/Sample+SampleDonor+Event/V1/Data-describing-Event.md)
 
 ## MIABIS Entity-Relationship Diagram
 The MiABIS Entity-Relationship Diagram represents relationships between different MIABIS Components and Entities included in those components.
