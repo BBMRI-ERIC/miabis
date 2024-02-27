@@ -5,7 +5,7 @@ The Minimum Information About Biobank Data Sharing (MIABIS) initiative aims to s
 The MIABIS governance model, established by BBMRI-ERIC in 2016, organizes the work on definitions into focused components, each with a predefined scope based on specific use cases and involving working groups with participants from BBMRI-ERIC National Nodes and domain experts. The final approval of MIABIS components and entities rests with the BBMRI-ERIC Management Committee.
 
 The MIABIS data standard is constantly being updated.
-* If you want to join the work, please send an email to: miabis@lists.bbmri-eric.eu 
+* please feel free, to join our work and get into contact via miabis@lists.bbmri-eric.eu 
 * If you have any issues, you would like the MIABIS team to consider, please submit them as an issue to this GitHub page.
 
 
