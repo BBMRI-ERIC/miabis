@@ -10,9 +10,9 @@ The MIABIS data standard is constantly being updated. Please feel free, to join 
 ## MIABIS Core
 The MIABIS Core, crucial for initiating collaboration and enabling sample and data exchange, comprises four main entities: Biobank, Collection, Research Resource, and Network. MIABIS Core 3.0 (Eklund et al. 2023 in press) further refines these attributes, providing a modular structure for easy adherence and extension.
 * [Data describing Biobank](Core/V3/Data-describing-Biobank.md)
-* [Data describing Collection](Core/V2/Data-describing-Sample-Collection.md)
-* [Data describing Network](Core/V2/Data-describing-Study.md)
-* [Data describing Research Resource](Core/V2/Data-describing-Study.md)
+* [Data describing Collection](Core/V3/Data-describing-Collection.md)
+* [Data describing Network](Core/V3/Data-describing-Network.md)
+* [Data describing Research Resource](Core/V2/Data-describing-ResearchResource.md)
 
 ## MIABIS aggregate-level components 
 
@@ -33,7 +33,7 @@ Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https
 ## MIABIS Entity-Relationship Diagram
 The MiABIS Entity-Relationship Diagram represents relationships between different MIABIS Components and Entities included in those components.
 
-![image](https://github.com/BBMRI-ERIC/miabis/assets/45455227/d57a0e7d-3e09-46e6-8d3a-a91bd9e0b724)
+![image](https://github.com/BBMRI-ERIC/miabis/assets/MIABIS_ERD)
 
 
 ## Structured data and lists:
