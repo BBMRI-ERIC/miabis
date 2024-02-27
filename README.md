@@ -33,7 +33,7 @@ Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https
 ## MIABIS Entity-Relationship Diagram
 The MiABIS Entity-Relationship Diagram represents relationships between different MIABIS Components and Entities included in those components.
 
-![image](https://github.com/BBMRI-ERIC/miabis/assets/MIABIS_ERD)
+![image](assets/MIABIS_ERD.png)
 
 
 ## Structured data and lists:
