@@ -12,7 +12,7 @@ The MIABIS Core, crucial for initiating collaboration and enabling sample and da
 * [Data describing Biobank](Core/V3/Data-describing-Biobank.md)
 * [Data describing Collection](Core/V3/Data-describing-Collection.md)
 * [Data describing Network](Core/V3/Data-describing-Network.md)
-* [Data describing Research Resource](Core/V2/Data-describing-ResearchResource.md)
+* [Data describing Research Resource](Core/V3/Data-describing-ResearchResource.md)
 
 ## MIABIS aggregate-level components 
 
@@ -27,7 +27,7 @@ In response to the need for more detailed information, MIABIS has extended its t
 
 Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https://doi.org/10.1089/bio.2019.0129)):
 * [Data describing Sample](Components/individual-level/Sample+SampleDonor+Event/V1/Data-describing-Sample.md)
-* [Data describing Sample Donor](Components/individual-level/Sample+SampleDonor+Event/V1/Data-describing-Donor.md)
+* [Data describing Sample Donor](Components/individual-level/Sample+SampleDonor+Event/V1/Data-describing-Sample-Donor.md)
 * [Data describing Event](Components/individual-level/Sample+SampleDonor+Event/V1/Data-describing-Event.md)
 * Data describing Digital Pahology (under active development)
 
