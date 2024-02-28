@@ -12,7 +12,7 @@ The MIABIS Core, crucial for initiating collaboration and enabling sample and da
 * [Data describing Biobank](Core/V3/Data-describing-Biobank.md)
 * [Data describing Collection](Core/V3/Data-describing-Collection.md)
 * [Data describing Network](Core/V3/Data-describing-Network.md)
-* [Data describing Research Resource](Core/V2/Data-describing-ResearchResource.md)
+* [Data describing Research Resource](Core/V3/Data-describing-ResearchResource.md)
 
 ## MIABIS aggregate-level components 
 
