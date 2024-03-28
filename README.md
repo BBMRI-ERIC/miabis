@@ -41,6 +41,7 @@ The MIABIS Entity-Relationship Diagram represents relationships between differen
 * [Structured data and lists](Structured-data-and-lists.md)
 
 ## Machine readable implementations:
+* [OpenSpecimen MIABIS v3 integration](https://github.com/BiobankCy/MIABIS_v3_OpenSpecimen_Integration)
 * [Database implementation](Database-implementation.md)
 
 ## Quality Check Script Extensions:
