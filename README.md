@@ -8,7 +8,7 @@ The MIABIS data standard is constantly being updated. Please feel free, to join 
 
 
 ## MIABIS Core
-The MIABIS Core, crucial for initiating collaboration and enabling sample and data exchange, comprises four main entities: Biobank, Collection, Research Resource, and Network. MIABIS Core 3.0 ([Eklund et al., 2024](https://www.liebertpub.com/doi/full/10.1089/bio.2023.0074)) further refines these attributes, providing a modular structure for easy adherence and extension.
+The MIABIS Core, crucial for initiating collaboration and enabling sample and data exchange, comprises four main entities: Biobank, Collection, Research Resource, and Network. MIABIS Core 3.0 ([Eklund et al., 2024](https://www.liebertpub.com/doi/full/10.1089/bio.2023.0074)) further refines these attributes, providing a modular structure for easy adherence and extension. 
 * [Data describing Biobank](Core/V3/Data-describing-Biobank.md)
 * [Data describing Collection](Core/V3/Data-describing-Collection.md)
 * [Data describing Network](Core/V3/Data-describing-Network.md)
@@ -35,6 +35,20 @@ Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https
 The MIABIS Entity-Relationship Diagram represents relationships between different MIABIS Components and entities included in those components.
 
 ![image](assets/MIABIS_ERD(1.1).jpg)
+
+
+### Product Owners 
+The MIABIS standard is constantly evolving and we welcome your feedback. You can reach us at the collective email address miabis@lists.bbmri-eric.eu. - If you have specific questions, please directly address the following responsibles. 
+
+ - MIABIS in general - Niina Eklund (and Cäcilia Engels)
+ - Core - Cäcilia Engels
+ - Sample, Donor and Event - Niina Eklund
+ - Dataset Types - Gabi Anton
+ - Omics - Kaisa Silander
+ - Imaging - Heimo Müller 
+ - Digital Pathology - Heimo Müller
+ - Biobank Capabilities - Andrzej Strug
+ - Data models and implementations - Michael Neumann
 
 
 ## Structured data and lists:
