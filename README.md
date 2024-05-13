@@ -34,7 +34,7 @@ Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https
 ## MIABIS Entity-Relationship Diagram
 The MIABIS Entity-Relationship Diagram represents relationships between different MIABIS Components and entities included in those components.
 
-![image](assets/MIABIS_ERD.png)
+![image](assets/MIABIS_ERD-Poster.png)
 
 
 ### Product Owners 
