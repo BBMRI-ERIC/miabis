@@ -50,6 +50,11 @@ The MIABIS standard is constantly evolving and we welcome your feedback. You can
  - Biobank Capabilities - Andrzej Strug
  - Data models and implementations - Michael Neumann
 
+## Use Cases of MIABIS
+ - BBMRI-ERIC Directory https://directory.bbmri-eric.eu/#/catalogue
+ - BBMRI-ERIC Federated Search https://locator.bbmri-eric.eu/
+ - GBN Sample Locator https://samplelocator.bbmri.de/
+ - MII Core Data Set extension-modul Biobank/ Biosample https://simplifier.net/medizininformatikinitiative-modulbiobank
 
 ## Structured data and lists:
 * [Structured data and lists](Structured-data-and-lists.md)
