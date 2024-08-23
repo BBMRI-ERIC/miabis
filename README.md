@@ -34,7 +34,7 @@ Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https
 
 ## All attributes, structured data and lists
 * [all attributes](all-attributes.md)
-* [all structured data](all-structured-data.md)
+* [all structured data](all-structured-data.md) 
 * [all lists]
 
 ## MIABIS Entity-Relationship Diagram
