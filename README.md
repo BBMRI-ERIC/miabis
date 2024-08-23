@@ -29,7 +29,7 @@ Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https
 * [Data describing Sample](Sample+SampleDonor+Events/V1/Data-describing-Sample.md)
 * [Data describing Sample Donor](Sample+SampleDonor+Events/V1/Data-describing-Sample-Donor.md)
 * [Data describing Event](Sample+SampleDonor+Events/V1/Data-describing-Event.md)
-* Data describing Digital Pahology (under active development)
+* [Data describing Digital Pathology](DigitalPathology/README.md) - under active development
 
 ## MIABIS Entity-Relationship Diagram
 The MIABIS Entity-Relationship Diagram represents relationships between different MIABIS Components and entities included in those components.
