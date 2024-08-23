@@ -2,7 +2,9 @@
 
 ## Definition
 
-For MIABIS Core v3 purposes, Network is defined as a group of interconnected biobanks, collections and/or research resources with defined common governance. Networks are another layer of organisational unit that can consist of biobanks, collections, research resources or a mixture of all of the above. Via Network entity this new level of orgnisational aspects can be described. Similar to biobank, networks do not contain samples and data directly, as they are embedded in collections (Eklund et al. Biopres biobank. 2024 [in press]). 
+For MIABIS Core v3 purposes, Network is defined as a group of interconnected biobanks, collections and/or research resources with defined common governance. Networks are another layer of organisational unit that can consist of biobanks, collections, research resources or a mixture of all of the above. Via Network entity this new level of orgnisational aspects can be described. Similar to biobank, networks do not contain samples and data directly, as they are embedded in collections. 
+
+The Network is first introduced in Core v3 by [Eklund et al. 2024](https://doi.org/10.1089/bio.2023.0074). 
 
 ## Attribute list
 
