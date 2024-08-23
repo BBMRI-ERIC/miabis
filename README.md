@@ -9,10 +9,10 @@ The MIABIS data standard is constantly being updated. Please feel free, to join 
 
 ## MIABIS Core
 The MIABIS Core, crucial for initiating collaboration and enabling sample and data exchange, comprises four main entities: Biobank, Collection, Research Resource, and Network. MIABIS Core 3.0 ([Eklund et al., 2024](https://www.liebertpub.com/doi/full/10.1089/bio.2023.0074)) further refines these attributes, providing a modular structure for easy adherence and extension. 
-* [Data describing Biobank](Core/V3/Data-describing-Biobank.md)
-* [Data describing Collection](Core/V3/Data-describing-Collection.md)
-* [Data describing Network](Core/V3/Data-describing-Network.md)
-* [Data describing Research Resource](Core/V3/Data-describing-ResearchResource.md)
+* [Data describing Biobank](00Core/V3/Data-describing-Biobank.mdd)
+* [Data describing Collection](00Core/V3/Data-describing-Collection.md)
+* [Data describing Network](00Core/V3/Data-describing-Network.md)
+* [Data describing Research Resource](00Core/V3/Data-describing-ResearchResource.md)
 
 ## MIABIS aggregate-level components 
 
@@ -26,15 +26,15 @@ Two additional aggregate-level components have been prepared for Imaging (DICOM-
 In response to the need for more detailed information, MIABIS has extended its terminology to include individual-level components, describing samples, sample donors, and events. These entities enhance the ability to perform sophisticated queries. Ongoing developments include an additional component describing molecular pathology.
 
 Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https://doi.org/10.1089/bio.2019.0129)):
-* [Data describing Sample](Components/individual-level/Sample+SampleDonor+Event/V1/Data-describing-Sample.md)
-* [Data describing Sample Donor](Components/individual-level/Sample+SampleDonor+Event/V1/Data-describing-Sample-Donor.md)
-* [Data describing Event](Components/individual-level/Sample+SampleDonor+Event/V1/Data-describing-Event.md)
+* [Data describing Sample](Sample+SampleDonor+Event/V1/Data-describing-Sample.md)
+* [Data describing Sample Donor](Sample+SampleDonor+Event/V1/Data-describing-Sample-Donor.md)
+* [Data describing Event](Sample+SampleDonor+Events/V1/Data-describing-Event.md)
 * Data describing Digital Pahology (under active development)
 
 ## MIABIS Entity-Relationship Diagram
 The MIABIS Entity-Relationship Diagram represents relationships between different MIABIS Components and entities included in those components.
 
-![image](assets/MIABIS_ERD-Poster.png)
+![image](drafts/assets/MIABIS_ERD-Poster.png)
 
 
 ### Product Owners 
@@ -43,21 +43,21 @@ The MIABIS standard is constantly evolving and we welcome your feedback. You can
  - MIABIS in general - Niina Eklund (and Cäcilia Engels)
  - Core - Cäcilia Engels
  - Sample, Donor and Event - Niina Eklund
- - Dataset Types - Gabi Anton
- - Omics - Kaisa Silander
- - Imaging - Heimo Müller 
+ - Dataset Types - Gabi Anton (with: Omics - Kaisa Silander; Imaging - Heimo Müller) 
  - Digital Pathology - Heimo Müller
- - Biobank Capabilities - Andrzej Strug
+ - Biobank Services - Andrzej Strug
  - Data models and implementations - Michael Neumann
 
 ## Use Cases of MIABIS
- - BBMRI-ERIC Directory https://directory.bbmri-eric.eu/#/catalogue
+ - BBMRI-ERIC Directory https://directory.bbmri-eric.eu/
  - BBMRI-ERIC Federated Search https://locator.bbmri-eric.eu/
  - GBN Sample Locator https://samplelocator.bbmri.de/
  - MII Core Data Set extension-modul Biobank/ Biosample https://simplifier.net/medizininformatikinitiative-modulbiobank
 
-## Structured data and lists:
-* [Structured data and lists](Structured-data-and-lists.md)
+## All attributes, structured data and lists:
+* [all attributes](all-attributes.md)
+* [all lists]
+* [all structured data]
 
 ## Machine readable implementations:
 * [OpenSpecimen MIABIS v3 integration](https://github.com/BiobankCy/MIABIS_v3_OpenSpecimen_Integration)
