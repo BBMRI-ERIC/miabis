@@ -4,7 +4,7 @@
 
 For MIABIS Core 3.0 purpose, Collection represents a set of samples and/or data items collected and/or derived in a common context and stored under a common stewardship and available for future research.
 
-The MIABIS v2 Sample Collection was renamed as Collection to make it more inclusive and generic, and to allow description of data collections in Core v3 [Eklund et al. 2024](https://doi.org/10.1089/bio.2023.0074). 
+The MIABIS v2 Sample Collection was renamed as Collection to make it more inclusive and generic, and to allow description of data collections in Core v3 by [Eklund et al. 2024](https://doi.org/10.1089/bio.2023.0074). 
 
 ## Attribute list
 
