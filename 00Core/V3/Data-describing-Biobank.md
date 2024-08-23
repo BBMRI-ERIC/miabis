@@ -1,7 +1,9 @@
 # Data describing Biobank entity
 
 ## Definition
-For MIABIS Core 3.0 purposes, Biobank is defined as **a legal entity or part of a legal entity that performs biobanking**, making the description aligned with ISO 20387:2018. In MIABIS biobank is an entity that stores samples and data related to the samples. In MIABIS Core 3.0 biobanks do not contain samples and data directly, as they are hosting sample collections to which the samples and data are embedded in. On the level of biobanks, only attributes related to the organizational aspect of the biobanks are represented (Eklund et al. Biopreserv Biobank. 2024; ,[in press]). 
+For MIABIS Core 3.0 purposes, Biobank is defined as **a legal entity or part of a legal entity that performs biobanking**, making the description aligned with ISO 20387:2018. In MIABIS biobank is an entity that stores samples and data related to the samples. In MIABIS Core 3.0 biobanks do not contain samples and data directly, as they are hosting sample collections to which the samples and data are embedded in. On the level of biobanks, only attributes related to the organizational aspect of the biobanks are represented.
+
+The Biobank has stayed almost the same since MIABIS v1, here in Core v3 by [Eklund et al. 2024](https://doi.org/10.1089/bio.2023.0074) some new attributes highlighting the biobank services and quality are introduced. 
 
 ## Attribute list
 
