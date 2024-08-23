@@ -18,8 +18,8 @@ The MIABIS Core, crucial for initiating collaboration and enabling sample and da
 
 Two additional aggregate-level components have been prepared for Imaging (DICOM-MIABIS) and for Standard Operating Prodecures (SOPs). Ongoing developments include additional components describing dataset types and biobank capabilities, contributing to the continuous evolution of the MIABIS data standard.
 * Data describing Image Collections ([Scapicchio et al., 2021](https://eurradiolexp.springeropen.com/articles/10.1186/s41747-021-00214-4)).
-* Data describing Dataset Types (under active development)
-* Data describing Biobank Capabilities (under active development)
+* [Data describing Dataset Types](DatasetTypes/README.md) - under active development
+* [Data describing Biobank Services](BiobankServices/README.md) - under active development
 * Data describing SOPs (in preparation)
 
 ## MIABIS individual-level components
