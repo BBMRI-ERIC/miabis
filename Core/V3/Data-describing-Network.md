@@ -13,7 +13,7 @@ For MIABIS Core v3 purposes, Network is defined as a group of interconnected bio
 |MIABIS-NETWORK-03| Name| Text| Name of the network (preferably in English).|||1
 |MIABIS-NETWORK-04| URL| Text| Complete http-address for the Network.||| 0..1
 |MIABIS-NETWORK-05| Juristic person| Text| Juristic person i.e. a university, concern, county council etc. for the network.|||1
-|MIABIS-NETWORK-06| Country| Text| Two letter code for the country of the Network.||ISO-standard 3166 alpha2. In the Network component multiple values are allowed|1..n
+|MIABIS-NETWORK-06| Country| Text| Two letter code for the country of the Network.||ISO-standard 3166 alpha2. In the Network multiple values are allowed|1..n
 |MIABIS-NETWORK-07| Contact information| Text| Contact information for the contact person/person responsible of the Network.|Free text description of the network. Recommendation max. 2000 char.| (Structured attribute) [MIABIS-NETWORK-07](https://github.com/BBMRI-ERIC/miabis/blob/master/Structured-data-and-lists.md#contact-information).| 1
 |MIABIS-NETWORK-08| Description| Text| Description of the network in English.||| 0..1
 |MIABIS-NETWORK-09| Network status| Enumerated values| The state of the network functions.|| Active, Ended, Other| 1
