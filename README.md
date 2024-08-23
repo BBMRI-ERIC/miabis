@@ -31,6 +31,11 @@ Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https
 * [Data describing Event](Sample+SampleDonor+Events/V1/Data-describing-Event.md)
 * [Data describing Digital Pathology](DigitalPathology/README.md) - under active development
 
+## all attributes, structured data and lists:
+* [all attributes](all-attributes.md)
+* [all lists]
+* [all structured data]
+
 ## MIABIS Entity-Relationship Diagram
 The MIABIS Entity-Relationship Diagram represents relationships between different MIABIS Components and entities included in those components.
 
@@ -52,17 +57,12 @@ The MIABIS standard is constantly evolving and we welcome your feedback. You can
  - BBMRI-ERIC Directory https://directory.bbmri-eric.eu/
  - BBMRI-ERIC Federated Search https://locator.bbmri-eric.eu/
  - GBN Sample Locator https://samplelocator.bbmri.de/
- - MIABIS on FHIR https://simplifier.net/miabis/~resources?category=Profile and (https://github.com/BBMRI-cz/miabis-on-fhir)
- - MII Core Data Set extension-modul Biobank/ Biosample https://simplifier.net/medizininformatikinitiative-modulbiobank
-
-## All attributes, structured data and lists:
-* [all attributes](all-attributes.md)
-* [all lists]
-* [all structured data]
-
-## Machine readable implementations:
+ 
+### Machine readable implementations
 * [OpenSpecimen MIABIS v3 integration](https://github.com/BiobankCy/MIABIS_v3_OpenSpecimen_Integration)
 * [Database implementation](Database-implementation.md)
+* [MIABIS on FHIR](https://simplifier.net/miabis/~resources?category=Profile) https://github.com/BBMRI-cz/miabis-on-fhir
+* [Medical Informatics Initiative Germany: FHIR Core Data Set Modul Biobank/Biosample](https://simplifier.net/medizininformatikinitiative-modulbiobank)
 
 ## Quality Check Script Extensions:
 Repository for scripts to support the operations of the BBMRI-ERIC Directory
