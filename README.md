@@ -25,13 +25,14 @@ Two additional aggregate-level components have been prepared for Imaging (DICOM-
 ## MIABIS individual-level components
 In response to the need for more detailed information, MIABIS has extended its terminology to include individual-level components, describing samples, sample donors, and events. These entities enhance the ability to perform sophisticated queries. Ongoing developments include an additional component describing molecular pathology.
 
-Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https://doi.org/10.1089/bio.2019.0129)):
+Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https://doi.org/10.1089/bio.2019.0129))
 * [Data describing Sample](Sample+SampleDonor+Events/V1/Data-describing-Sample.md)
 * [Data describing Sample Donor](Sample+SampleDonor+Events/V1/Data-describing-Sample-Donor.md)
 * [Data describing Event](Sample+SampleDonor+Events/V1/Data-describing-Event.md)
-* [Data describing Digital Pathology](DigitalPathology/README.md) - under active development
 
-## all attributes, structured data and lists:
+[Data describing Digital Pathology](DigitalPathology/README.md) - under active development
+
+## All attributes, structured data and lists
 * [all attributes](all-attributes.md)
 * [all lists]
 * [all structured data]
@@ -44,7 +45,6 @@ The MIABIS Entity-Relationship Diagram represents relationships between differen
 
 ### Product Owners 
 The MIABIS standard is constantly evolving and we welcome your feedback. You can reach us at the collective email address miabis@lists.bbmri-eric.eu. - If you have specific questions, please directly address the following responsibles. 
-
  - MIABIS in general - Niina Eklund (and Cäcilia Engels)
  - Core - Cäcilia Engels
  - Sample, Donor and Event - Niina Eklund
