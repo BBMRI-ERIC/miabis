@@ -2,6 +2,11 @@
 
 Structured data is a set of attributes grouped together and that are used to describe the same topic in more detail. The attributes embedded in the structured attributes are described here together with their entity-specific attribute codes.
 
+* [Contact Information](#contact-information)
+* [Disease](#disease)
+* [Anatomical site](#anatomical-site)
+
+
 ## Contact information
 
 | Attribute Name| Data type | Description | Constraints | Attribute Code_BIOBANK | Attribute Code_COLLECTION | Attribute Code_RESEARCHRESOURCE | Attribute Code_NETWORK |
