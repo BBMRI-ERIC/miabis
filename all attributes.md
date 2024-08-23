@@ -1,4 +1,4 @@
-### All attributes
+# All attributes
 
 Here are listed all the attributes currently forming MIABIS terminology. The table shows attribute names, descriptions and the entities they belong to. The attribute codes are left out from the table and can be found in the entity-specific tables. 
 
