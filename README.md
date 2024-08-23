@@ -48,10 +48,11 @@ The MIABIS standard is constantly evolving and we welcome your feedback. You can
  - Biobank Services - Andrzej Strug
  - Data models and implementations - Michael Neumann
 
-## Use Cases of MIABIS
+## MIABIS Use Cases & Implementations
  - BBMRI-ERIC Directory https://directory.bbmri-eric.eu/
  - BBMRI-ERIC Federated Search https://locator.bbmri-eric.eu/
  - GBN Sample Locator https://samplelocator.bbmri.de/
+ - MIABIS on FHIR https://simplifier.net/miabis/~resources?category=Profile and (https://github.com/BBMRI-cz/miabis-on-fhir)
  - MII Core Data Set extension-modul Biobank/ Biosample https://simplifier.net/medizininformatikinitiative-modulbiobank
 
 ## All attributes, structured data and lists:
