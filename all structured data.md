@@ -1,6 +1,6 @@
 # All structured data
 
-Structured data is a set of attributes grouped together and that are used to describe the same topic in more detail. The attributes embedded in the structured attributes are described here together with their entity-specific attribute codes.
+Structured data is a set of attributes that are grouped together and used to describe the same subject in more detail. The attributes embedded in the structured attributes are described here together with their entity-specific attribute codes.
 
 * [Contact Information](#contact-information)
 * [Disease](#disease)
