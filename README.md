@@ -33,8 +33,8 @@ Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https
 [Data describing Digital Pathology](DigitalPathology/README.md) - under active development
 
 ## All attributes, structured data and lists
-* [all attributes](all-attributes.md)
-* [all structured data](all-structured-data.md) 
+* [all attributes](https://github.com/BBMRI-ERIC/miabis/blob/8deeead2e8e5c8c3faa42761db2939d523be21e3/all%20attributes.md)
+* [all structured data](https://github.com/BBMRI-ERIC/miabis/blob/8deeead2e8e5c8c3faa42761db2939d523be21e3/all%20structured%20data.md) 
 * [all lists]
 
 ## MIABIS Entity-Relationship Diagram
@@ -61,7 +61,7 @@ The MIABIS standard is constantly evolving and we welcome your feedback. You can
 ### Machine readable implementations
 * [OpenSpecimen MIABIS v3 integration](https://github.com/BiobankCy/MIABIS_v3_OpenSpecimen_Integration)
 * [Database implementation](Database-implementation.md)
-* [MIABIS on FHIR](https://simplifier.net/miabis/~resources?category=Profile) https://github.com/BBMRI-cz/miabis-on-fhir
+* [MIABIS on FHIR](https://simplifier.net/miabis/~resources?category=Profile) or on GitHub: https://github.com/BBMRI-cz/miabis-on-fhir
 * [Medical Informatics Initiative Germany: FHIR Core Data Set Modul Biobank/Biosample](https://simplifier.net/medizininformatikinitiative-modulbiobank)
 
 ## Quality Check Script Extensions:
