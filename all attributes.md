@@ -17,7 +17,8 @@ Description | Description of the [entity] in English | Biobank, Collection, Rese
 Common collaboration topics | Topics that the [entity] partners collaborate on. Can be multiple values: Common charter, Common SOPs, Common data access policy, Common sample access, policy, Common MTA, Common image access policy, Common image MTA, Common representation, Common URL, Other. | Network
 Network type | Type or main collaboration area of the network. Can be one or more of the following values: BBMRI-ERIC National Node network, Biobank network, Collection network, Disease-specific network, Project network, Rare Disease network, Other | Network
 Sample source | The source from which the samples were collected or isolated. Can be one of the following values: Human, Animal, Environment | Collection, Research resource
-Sex | The biological sex of the individuals in the [entity]. Can be one or more of the following values: Male, Female, Unknown, Undifferentiated, Not applicable | Collection, Research resource, Sample donor
+Storage temperature | The long-term storage temperature at which the sample is stored after preparation, based on SPREC | Collection
+The long-term storage temperature at which the sample is stored after preparation, based on SPREC v3.Sex | The biological sex of the individuals in the [entity]. Can be one or more of the following values: Male, Female, Unknown, Undifferentiated, Not applicable | Collection, Research resource, Sample donor
 Age | Age at the time of the event | Event
 Age Low | Age of youngest sample donor at time of sample donation | Collection, Research resource
 Age High | Age of oldest sample donor at time of sample donation | Collection, Research resource
