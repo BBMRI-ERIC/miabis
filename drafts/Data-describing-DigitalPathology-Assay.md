@@ -23,8 +23,7 @@ Chromogenic Substrate Name | Identifies the name of a chromogenic compound used 
 Fluorophore Substance Name | Identifies the name of a fluorescent material used in an assay | 0:n | Controlled Value Set e.g., DAPI, 4′,6-diamidino-2-phenylindole; Phalloidin; | none |
 FISH Signal Pattern | Describes a spatial location of fluorescent probes or signals | 0:1 | Controlled Value Set : Deletion probes; Amplification probes; Dual-colour breakapart probes; Deletion/fusion probes; Tri-colour breakapart probes; Translocation, dual fusion probes; Other | none |
 FISH Probe Identifier | Identifies the name of a probe(s) used in FISH assays mainly provides a gene name or specific DNA segment | 0:n | Controlled Value Set, e.g., BCL2 Break Apart FISH Probe | Is there a probe registry similar to the antibody registry? |
-Counter Labeling | Provides information on the counter labeling technique used to highlight certain cellular or tissue structures as a complementary method to the principal labeling to be analyzed | 1:n | Controlled Value Set, e.g 1) Hematoxylin commonly used to label nuclei as an essential step of IHC procedures that are compatible with bright-field microscopy.
-2) DAPI labels nuclei for procedures that are compatible with dark-field microscopy | This attribute is a “macro” type |
+Counter Labeling | Provides information on the counter labeling technique used to highlight certain cellular or tissue structures as a complementary method to the principal labeling to be analyzed | 1:n | Controlled Value Set, e.g 1) Hematoxylin commonly used to label nuclei as an essential step of IHC procedures that are compatible with bright-field microscopy. 2) DAPI labels nuclei for procedures that are compatible with dark-field microscopy | This attribute is a “macro” type |
 
 
 
