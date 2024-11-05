@@ -1,5 +1,11 @@
+## Definition
+
+
+In balloting, currently
+
 
 Attribute Name | Description | Cardinality | Allowed Value | Comment | 
+|---|---|---|---|---|
 Collection Procedure | Describes performed procedure to obtain physical bio-specimen from a donor for diagnostic or research purposes | 1:1 | Controlled Value Set based on CID 8109. Specimen Collection Procedure | Values as Biopsy, Excision, Scraping, ... Bronchoalveolar lavage/washing, Cytobrush, Body Fluids collection, CSF (Cerebrospinal fluid) Collection are not included in the DICOM CID
 Sample Type | Extends the MIABIS sample type with general anatomical and physical description of a collected bio-specimen | 1:1 | Controlled Value Set based on CID 8103. Anatomic Pathology Specimen Type | Values as e.g. Entire body, Tissue specimen, Smear sample Is CID 8103 enough? How to extend the MIABIS sample type attributes? |
 Sample Relationships | Describes relationships between samples and samples, containers and images. | 0:n | (named) link to other entities | Should we provided named relationships? e.g., derivedFrom; sectionOf; Should we allow relations of “brothers”? e.g derivedFromTheSameBlock; derivedFromTheSamePrimarySampe; Can this be a concept used in different domains? e.g., a block is derived from a primary but also a scan is derived from a container; |
