@@ -18,3 +18,8 @@ The fields of medicine and pathology are increasingly relying on Digital Patholo
  - **Assay Attributes**: Attributes related to the container, hierarchy of mounted specimens and processing details.
  - **Scanning and File Attributes**: Attributes of the scanning process and the file format.
  - **Segmentation / Annotation Attributes** (planned)
+
+## Partners and Liaisons
+ - ESDIP: Standardization and Interoperability Committee
+ - EMPAIA International Association: AI APIs and Test Suites
+ - ISO TC212 - Medical laboratories and in vitro diagnostic systems: ISO/AWI 24051-2: Medical Laboratories — Part 2: Digital Pathology and AI-Based Image Analysis 
