@@ -38,18 +38,18 @@ Network
 #### Bioprocessing and Analytical Capabilities
 | Attribute Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Biochemical analyses | | | MIABIS-BIOBANK-11 |
-| Genomics | | | MIABIS-BIOBANK-11 |
-| Nucleic acid extraction | | | MIABIS-BIOBANK-11 |
-| Proteomics | | | MIABIS-BIOBANK-11 |
-| Metabolomics | | | MIABIS-BIOBANK-11 |
-| Histology | | | MIABIS-BIOBANK-11 |
-| Cell-lines processing | | | MIABIS-BIOBANK-11 |
-| Virology | | | MIABIS-BIOBANK-11 |
-| Sample processing | | | MIABIS-BIOBANK-11 | 
-| Sample shipping | | | MIABIS-BIOBANK-11 |
-| Sample quality control services | | | MIABIS-BIOBANK-11 |
-| Other | | | MIABIS-BIOBANK-11 |
+| Biochemical analyses | The biobank can offer to clients the following bioprocessing/analytical service: Biochemical analyses | | MIABIS-BIOBANK-11 |
+| Genomics | The biobank can offer to clients the following bioprocessing/analytical service: Genomics | | MIABIS-BIOBANK-11 |
+| Nucleic acid extraction | The biobank can offer to clients the following bioprocessing/analytical service: Nucleic acid extraction | | MIABIS-BIOBANK-11 |
+| Proteomics | The biobank can offer to clients the following bioprocessing/analytical service: Proteomics | | MIABIS-BIOBANK-11 |
+| Metabolomics | The biobank can offer to clients the following bioprocessing/analytical service: Metabolomics | | MIABIS-BIOBANK-11 |
+| Histology | The biobank can offer to clients the following bioprocessing/analytical service: Histology | | MIABIS-BIOBANK-11 |
+| Cell-lines processing | The biobank can offer to clients the following bioprocessing/analytical service: Cell-lines processing | | MIABIS-BIOBANK-11 |
+| Virology | The biobank can offer to clients the following bioprocessing/analytical service: Virology | | MIABIS-BIOBANK-11 |
+| Sample processing | The biobank can offer to clients the following bioprocessing/analytical service: Sample processing | | MIABIS-BIOBANK-11 | 
+| Sample shipping | The biobank can offer to clients the following bioprocessing/analytical service: Sample shipping | | MIABIS-BIOBANK-11 |
+| Sample quality control services | The biobank can offer to clients the following bioprocessing/analytical service: Sample quality control services | | MIABIS-BIOBANK-11 |
+| Other | The biobank can offer to clients the following bioprocessing/analytical service: Other services | | MIABIS-BIOBANK-11 |
 
 #### Collection Design
 | Attribute Name | Definition | Source [Link] | Attribute Codes |
@@ -70,16 +70,16 @@ Network
 #### Common Collaboration Topics
 | Attribute Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Common charter | | | MIABIS-NETWORK-11 |
-| Common SOPs | | | MIABIS-NETWORK-11 |
-| Common data access policy | | | MIABIS-NETWORK-11 |
-| Common sample access policy | | | MIABIS-NETWORK-11 |
-| Common MTA | | | MIABIS-NETWORK-11 |
-| Common image access policy | | | MIABIS-NETWORK-11 |
-| Common image MTA | | | MIABIS-NETWORK-11 |
-| Common representation | | | MIABIS-NETWORK-11 |
-| Common URL | | | MIABIS-NETWORK-11 |
-| Other | | | MIABIS-NETWORK-11 |
+| Common charter | Network partners have a common charter | | MIABIS-NETWORK-11 |
+| Common SOPs | Network partners have common Standard Operating Procedures (SOPs) | | MIABIS-NETWORK-11 |
+| Common data access policy | Network partners have a common data access policy | | MIABIS-NETWORK-11 |
+| Common sample access policy | Network partners have a common sample access policy | | MIABIS-NETWORK-11 |
+| Common MTA | Network partners have a common Material Transfer Agreement (MTA) | | MIABIS-NETWORK-11 |
+| Common image access policy | Network partners have a common image access policy | | MIABIS-NETWORK-11 |
+| Common image MTA | Network partners have a common image MTA | | MIABIS-NETWORK-11 |
+| Common representation | Network partners have a common representation | | MIABIS-NETWORK-11 |
+| Common URL | Network partners have a common URL | | MIABIS-NETWORK-11 |
+| Other | Network partners have other collaboration topic/s. | | MIABIS-NETWORK-11 |
 
 #### Component Status
 | Attribute Name | Definition | Source [Link] | Attribute Codes |
@@ -91,20 +91,20 @@ Network
 #### Dataset Type
 | Attribute Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Lifestyle dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Environmental dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Physiological dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Biochemical dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Clinical dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Psychological dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Genomic dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Proteomic dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Metabolomic dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Body (Radiological) image | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Whole slide image | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Photo image | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Genealogical records | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Other | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Lifestyle dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Lifestyle dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Environmental dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Environmental dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Physiological dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Physiological dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Biochemical dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Biochemical dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Clinical dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Clinical dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Psychological dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Psychological dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Genomic dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Genomic dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Proteomic dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Proteomic dataset| | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Metabolomic dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Metabolomic dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Body (Radiological) image | Type of datasets obtained or otherwise derived from donors or their specimens: Body (Radiological) image | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Whole slide image | Type of datasets obtained or otherwise derived from donors or their specimens: Whole slide image | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Photo image | Type of datasets obtained or otherwise derived from donors or their specimens: Photo image | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Genealogical records | Type of datasets obtained or otherwise derived from donors or their specimens: Genealogical records| | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Other | Type of datasets obtained or otherwise derived from donors or their specimens: Other | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
 
 #### Inclusion Criteria
 | Attribute Name | Definition | Source [Link] | Attribute Codes |
@@ -125,10 +125,10 @@ Network
 #### Infrastructural Capabilities
 | Attribute Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Sample storage | | | MIABIS-BIOBANK-09 |
-| Data storage | | | MIABIS-BIOBANK-09 |
-| Biosafety abilities | | | MIABIS-BIOBANK-09 |
-| Other | | | MIABIS-BIOBANK-09 |
+| Sample storage | The biobank can offer clients sample storage services. | | MIABIS-BIOBANK-09 |
+| Data storage | The biobank can offer clients data storage services. | | MIABIS-BIOBANK-09 |
+| Biosafety abilities | The biobank has biosafety abilities to offer to clients. | | MIABIS-BIOBANK-09 |
+| Other | The biobank has other abilities to offer to clients. | | MIABIS-BIOBANK-09 |
 
 #### Network Type
 | Attribute Name | Definition | Source [Link] | Attribute Codes |
@@ -144,23 +144,23 @@ Network
 #### Organisational Capabilities
 | Attribute Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Recontact with donors | | | MIABIS-BIOBANK-10 |
-| Facilitating clinical trials | | | MIABIS-BIOBANK-10 |
-| Setting up prospective collections | | | MIABIS-BIOBANK-10 |
-| Access to omics data | | | MIABIS-BIOBANK-10 |
-| Access to laboratory analysis data | | | MIABIS-BIOBANK-10 |
-| Access to donors'clinical data | | | MIABIS-BIOBANK-10 |
-| Access to pathology archive | | | MIABIS-BIOBANK-10 |
-| Access to radiology archive | | | MIABIS-BIOBANK-10 |
-| Access to national medical registries | | | MIABIS-BIOBANK-10 |
-| Other | | | MIABIS-BIOBANK-10 |
+| Recontact with donors | The biobank can provide the following service to support clients: Recontact with donors | | MIABIS-BIOBANK-10 |
+| Facilitating clinical trials | The biobank can provide the following service to support clients: Facilitating clinical trials | | MIABIS-BIOBANK-10 |
+| Setting up prospective collections | The biobank can provide the following service to support clients: Setting up prospective collections | | MIABIS-BIOBANK-10 |
+| Access to omics data | The biobank can provide the following service to support clients: Access to omics data | | MIABIS-BIOBANK-10 |
+| Access to laboratory analysis data | The biobank can provide the following service to support clients: Access to laboratory analysis data | | MIABIS-BIOBANK-10 |
+| Access to donor's clinical data | The biobank can provide the following service to support clients: Access to donor's clinical data | | MIABIS-BIOBANK-10 |
+| Access to pathology archive | The biobank can provide the following service to support clients: Access to pathology archive | | MIABIS-BIOBANK-10 |
+| Access to radiology archive | The biobank can provide the following service to support clients: Access to radiology archive | | MIABIS-BIOBANK-10 |
+| Access to national medical registries | The biobank can provide the following service to support clients: Access to national medical registries | | MIABIS-BIOBANK-10 |
+| Other | The biobank can provide the following service to support clients: Other | | MIABIS-BIOBANK-10 |
 
 #### Quality Management Standard
 | Attribute Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| ISO 20387 | | | MIABIS-BIOBANK-12 |
-| ISO 9001 | | | MIABIS-BIOBANK-12 |
-| Other | | | MIABIS-BIOBANK-12 |
+| ISO 20387 | The biobank is certified or accredited for the following standard: ISO 20387 | | MIABIS-BIOBANK-12 |
+| ISO 9001 | The biobank is certified or accredited for the following standard: ISO 9001 | | MIABIS-BIOBANK-12 |
+| Other | The biobank is certified or accredited for the following standard: other standard/s | | MIABIS-BIOBANK-12 |
 
 #### Sample Collection Setting
 | Attribute Name | Definition | Source [Link] | Attribute Codes |
