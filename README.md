@@ -37,7 +37,7 @@ Data describing Sample, Sample Donor and Event v1.0 ([Eklund et al., 2020](https
 ## All attributes, structured data and lists
 * [all attributes](https://github.com/BBMRI-ERIC/miabis/blob/8deeead2e8e5c8c3faa42761db2939d523be21e3/all%20attributes.md)
 * [all structured data](https://github.com/BBMRI-ERIC/miabis/blob/8deeead2e8e5c8c3faa42761db2939d523be21e3/all%20structured%20data.md) 
-* [all lists]
+* [all lists](https://github.com/BBMRI-ERIC/miabis/blob/master/all%20lists.md)
 
 ## MIABIS Entity-Relationship Diagram
 The MIABIS Entity-Relationship Diagram represents relationships between different MIABIS Components and entities included in those components.
