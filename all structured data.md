@@ -2,10 +2,21 @@
 
 Structured data is a set of attributes that are grouped together and used to describe the same subject in more detail. The attributes embedded in the structured attributes are described here together with their entity-specific attribute codes.
 
+* [Anatomical site](#anatomical-site)
 * [Contact Information](#contact-information)
 * [Disease](#disease)
-* [Anatomical site](#anatomical-site)
 
+
+## Anatomical site
+
+| Attribute Name  | Data type | Description | Constraints | Attribute Code_SAMPLE |
+|-----|-----|-----|-----|-----|
+| Anatomical site ontology             | Text      | Name of ontology used for describing the anatomical source of the sample material, for example, ICD-O-3 topography code | MIABIS-SAMPLE-05-01 and MIABIS-SAMPLE-05-02 are required if any ontology information is provided | MIABIS-SAMPLE-05-01 |
+| Anatomical site ontology version     | Text      | Version of selected ontology for anatomical site | MIABIS-SAMPLE-05-01 and MIABIS-SAMPLE-05-02 are required if any ontology information is provided | MIABIS-SAMPLE-05-02 |
+| Anatomical site ontology code        | Text      | Anatomical site code from the selected anatomical site ontology version |    | MIABIS-SAMPLE-05-03   |
+| Anatomical site ontology description | Text      | Description from the selected anatomical site ontology code |    | MIABIS-SAMPLE-05-04   |
+| Anatomical site free text            | Text      | Explanation about Anatomical site in case of unknown Anatomical site or insufficient information  |    | MIABIS-SAMPLE-05-05   |
+----
 
 ## Contact information
 
@@ -25,7 +36,6 @@ Structured data is a set of attributes that are grouped together and used to des
 
 ----
 
-
 ## Disease
 
 | Attribute Name | Data type | Description | Constraints | Attribute Code_COLLECTION | Attribute Code_RESEARCHRESOURCE |
@@ -39,13 +49,5 @@ Structured data is a set of attributes that are grouped together and used to des
 ---
 
 
-## Anatomical site
 
-| Attribute Name  | Data type | Description | Constraints | Attribute Code_SAMPLE |
-|-----|-----|-----|-----|-----|
-| Anatomical site ontology             | Text      | Name of ontology used for describing the anatomical source of the sample material, for example, ICD-O-3 topography code | MIABIS-SAMPLE-05-01 and MIABIS-SAMPLE-05-02 are required if any ontology information is provided | MIABIS-SAMPLE-05-01 |
-| Anatomical site ontology version     | Text      | Version of selected ontology for anatomical site | MIABIS-SAMPLE-05-01 and MIABIS-SAMPLE-05-02 are required if any ontology information is provided | MIABIS-SAMPLE-05-02 |
-| Anatomical site ontology code        | Text      | Anatomical site code from the selected anatomical site ontology version |    | MIABIS-SAMPLE-05-03   |
-| Anatomical site ontology description | Text      | Description from the selected anatomical site ontology code |    | MIABIS-SAMPLE-05-04   |
-| Anatomical site free text            | Text      | Explanation about Anatomical site in case of unknown Anatomical site or insufficient information  |    | MIABIS-SAMPLE-05-05   |
 
