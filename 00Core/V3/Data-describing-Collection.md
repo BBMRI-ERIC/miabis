@@ -14,7 +14,7 @@ The MIABIS v2 Sample Collection was renamed as Collection to make it more inclus
 | MIABIS-COLLECTION-02| Acronym| Text| Short name in use for the collection. If applicable.|||0..1
 | MIABIS-COLLECTION-03| Name| Text| Name of the collection (preferably in English).|||1
 | MIABIS-COLLECTION-04| URL| Text| Complete http-address for the collection.||| 0..1
-| MIABIS-COLLECTION-05| Contact Information| Structured data| Complete http-address for the collection ||[MIABIS-COLLECTION-07](https://github.com/BBMRI-ERIC/miabis/blob/master/Structured-data-and-lists.md#contact-information).| 1
+| MIABIS-COLLECTION-05| Contact Information| Structured data| Contact information for the contact person/person responsible of the collection (Structured attribute).||[MIABIS-COLLECTION-05](https://github.com/BBMRI-ERIC/miabis/blob/master/Structured-data-and-lists.md#contact-information).| 1
 | MIABIS-COLLECTION-06| Description| Text| Description of the collection in English.| Free text description of the Collection. Recommendation max. 2000 char.||1
 | MIABIS-COLLECTION-07| Sample source| Enumerated values| The source from which the samples were collected or isolated.|| Human, Animal, Environment.|0..1
 | MIABIS-COLLECTION-08| Sex| Enumerated values| The sex of the individuals in the collection.||Male, Female, Unknown, Undifferentiated, Not applicable.|1..n
