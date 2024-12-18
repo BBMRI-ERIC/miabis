@@ -1,215 +1,223 @@
-### Index
+### All lists
 
+Sample
+* [Sample Type](#sample-type)
 
-### Lists
-* [Sex](#sex)
-* [Material Type](#material-type)
-* [Storage Temperature](#storage-temperature)
-* [Data categories](#data-categories)
-* [Collection Type](#collection-type)
+Collection/Research Resource
+* [Age Unit](age-unit)
+* [Collection Design](#collection-design)
+* [Component Status](#component-status)
+* [Dataset Type](#dataset-type)
 * [Inclusion Criteria](#inclusion-criteria)
-* [Omics Technology](#omics-technology)
+* [Sample Collection Setting](#sample-collection-setting)
+* [Sample Source](#sample-source)
+* [Sex](#sex)
+* [Storage Temperature](#storage-temperature)
+* [Use & Access Condition](#use-and-access-condition)
 
+Biobank
+* [Bioprocessing and Analytical Capabilities](#bioprocessing-and-analytical-capabilities)
+* [Infrastructural Capabilities](#infrastructural-capabilities)
+* [Organisational Capabilities](#organisational-capabilities)
+* [Quality Management Standard](#quality-management-standard)
+
+Network
+* [Common Collaboration Topics](#common-collaboration-topics)
+* [Network Type](#network-type)
 
 ***
-#### Sex
-#### MIABIS-2.0-09
-
-| Item Name| Definition| Source| Link| 
+#### Age Unit
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Male| male| | | 
-| Female| female| | | 
-| Unknown| a proper value is applicable but not known| | | 
-| Undifferentiated| undifferentiated, the gender could not be uniquely identified such as hermaphrodite| | 
+| Years | | | MIABIS-COLLECTION-11, MIABIS-COLLECTION-12, MIABIS-RESEARCHRESOURCE-09, MIABIS-RESEARCHRESOURCE-10 |
+| Months | | | MIABIS-COLLECTION-11, MIABIS-COLLECTION-12, MIABIS-RESEARCHRESOURCE-09, MIABIS-RESEARCHRESOURCE-10 |
+| Weeks | | | MIABIS-COLLECTION-11, MIABIS-COLLECTION-12, MIABIS-RESEARCHRESOURCE-09, MIABIS-RESEARCHRESOURCE-10 |
+| Days | | | MIABIS-COLLECTION-11, MIABIS-COLLECTION-12, MIABIS-RESEARCHRESOURCE-09, MIABIS-RESEARCHRESOURCE-10 |
+| Gestational weeks | | | MIABIS-COLLECTION-11, MIABIS-COLLECTION-12, MIABIS-RESEARCHRESOURCE-09, MIABIS-RESEARCHRESOURCE-10 |
 
-#### Material type
-#### MIABIS-2.0-14
-<table>
-</thead>
-<tr><th>Item Name</th><th>Definition</th><th>Source</th><th>Link</th></tr>
-</thead>
-<tr>
-  <td>Blood</td>
-  <td>Blood that has not been separated into its various components; blood that has not been modified except for the addition of an anticoagulant.</td>
-  <td>NCI</td>
-  <td></td>
-</tr>
-<tr>
-  <td>DNA</td>
-  <td>A long linear double-stranded polymer formed from nucleotides attached to a deoxyribose backbone and found in the nucleus of a cell; associated with the transmission of genetic information.</td>
-  <td>NCI</td>
-  <td></td>
-</tr>
-<tr>
-  <td>Faeces</td>
-  <td>The material discharged from the bowel during defecation. It consists of undigested food, intestinal mucus, epithelial cells, and bacteria.</td>
-  <td>NCI</td>
-  <td></td>
-</tr>
-<tr>
-  <td>Immortalized Cell Lines</td>
-  <td>Cells of a single type (human, animal, or plant) that have been adapted to grow continuously in the laboratory and are used in research.</td>
-  <td>NCI</td>
-  <td></td>
-</tr>
-<tr>
-  <td>Isolated Pathogen</td>
-  <td>An isolated biological agent causing disease; a disease producer e.g. virus, bacterium, prion, other microorganism etc.</td>
-  <td>NCI</td>
-  <td></td>
-</tr>
-<tr>
-  <td>Other</td>
-  <td>Any other type of material taken from a biological entity, e.g. amniotic fluid, cerebrospinal fluid (CSV), mitochondrial RNA.</td>
-  <td>NCI</td>
-  <td></td>
-</tr>
-<tr>
-  <td>Plasma</td>
-  <td>Plasma is the fluid (acellular) portion of the circulating blood, as distinguished from the serum that is the fluid portion of the blood obtained by removal of the fibrin clot and blood cells after coagulation.</td>
-  <td>NCI</td>
-  <td></td>
-</tr>
-<tr>
-  <td>RNA</td>
-  <td>One of two types of nucleic acid made by cells. RNA contains information that has been copied from DNA (the other type of nucleic acid). Cells make several different forms of RNA, and each form has a specific job in the cell. Many forms of RNA have functions related to making proteins. RNA is also the genetic material of some viruses instead of DNA. RNA can be made in the laboratory and used in research studies. Also called ribonucleic acid.</td>
-  <td>NCI</td>
-  <td></td>
-</tr>
-<tr>
-  <td>Saliva</td>
-  <td>A clear liquid secreted into the mouth by the salivary glands and mucous glands of the mouth; moistens the mouth and starts the digestion of starches.</td>
-  <td>NCI</td>
-  <td></td>
-</tr>
-<tr>
-  <td>Serum</td>
-  <td>The clear portion of the blood that remains after the removal of the blood cells and the clotting proteins.</td>
-  <td>NCI</td>
-  <td></td>
-</tr>
-<tr>
-  <td>Tissue (Frozen)</td>
-  <td>An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function.</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Tissue (FFPE)</td>
-  <td> Tissue, formalin fixated and paraffin preserved or equivalent.</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Urine</td>
-  <td>The fluid that is excreted by the kidneys. It is stored in the bladder and discharged through the urethra.</td>
-  <td>NCI</td>
-  <td></td>
-</tr>
-</table>
-
-<p>Until September the following list was in use, there is a one way transformation to the new list above.</p>
-
-| Item Name| Definition| Source| Link| New value |
-|---|---|---|---|---|
-| DNA| A long linear double-stranded polymer formed from nucleotides attached to a deoxyribose backbone and found in the nucleus of a cell; associated with the transmission of genetic information.| NCI| | DNA |
-| RNA| One of two types of nucleic acid made by cells. RNA contains information that has been copied from DNA (the other type of nucleic acid). Cells make several different forms of RNA, and each form has a specific job in the cell. Many forms of RNA have functions related to making proteins. RNA is also the genetic material of some viruses instead of DNA. RNA can be made in the laboratory and used in research studies. Also called ribonucleic acid.| NCI| | RNA | 
-| cDNA/mRNA| Single-stranded DNA that is complementary to messenger RNA or DNA that has been synthesized from messenger RNA by reverse transcriptase/A class of RNA molecule containing protein-coding information in its nucleotide sequence that can be translated into the amino acid sequence of a protein.| NCI| | RNA |
-| microRNA| A type of RNA found in cells and in blood. MicroRNAs are smaller than many other types of RNA and can bind to messenger RNAs (mRNAs) to block them from making proteins. MicroRNAs are being studied in the diagnosis (NCI) and treatment of cancer.| NCI| | RNA |
-| Whole blood| Blood that has not been separated into its various components; blood that has not been modified except for the addition of an anticoagulant.| NCI| | Blood |
-| Peripheral blood cells| A general term describing the three cellular components of blood (white blood cells, red blood cells, and platelets), all which are made in the bone marrow.| Lymphoma Information Network Glossary| | Blood |
-| Plasma| Plasma is the fluid (acellular) portion of the circulating blood, as distinguished from the serum that is the fluid portion of the blood obtained by removal of the fibrin clot and blood cells after coagulation.| NCI| | Plasma |
-| Serum| The clear portion of the blood that remains after the removal of the blood cells and the clotting proteins.| NCI| | Serum |
-| Tissue, cryo preserved| An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function. Preserved by freezing in liquid nitrogen| NCI| | Tissue (Frozen) |
-| Tissue, paraffin preserved| Tissue that is preserved and embedded in paraffin.| NCI| | Tissue (FFPE) |
-| Cell lines| Cells of a single type (human, animal, or plant) that have been adapted to grow continuously in the laboratory and are used in research.| NCI| | Immortalized Cell Lines |
-| Urine| The fluid that is excreted by the kidneys. It is stored in the bladder and discharged through the urethra.| NCI| | Urine |
-| Saliva| A clear liquid secreted into the mouth by the salivary glands and mucous glands of the mouth; moistens the mouth and starts the digestion of starches.| NCI| | Saliva |
-| Faeces| The material discharged from the bowel during defecation. It consists of undigested food, intestinal mucus, epithelial cells, and bacteria.| NCI| | Faeces |
-| Pathogen| A biological agent causing disease; a disease producer e.g. virus, bacterium, prion, other microorganism etc.| | | Isolated Pathogen |
-| Other| Any other type of material taken from a biological entity, e.g. amniotic fluid, cerebrospinal fluid (CSV), mitochondrial RNA.| | | Other |
-
-#### Storage temperature
-#### MIABIS-2.0-15
-
-
-| Item Name| Definition| Source| Link| 
+#### Bioprocessing and Analytical Capabilities
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| RT| Room temperature| SPREC 2.0| |
-| 2 °C to 10°C| between 2 °C and 10 °C| SPREC 2.0| | 
-| -18 °C to -35 °C| between -18 °C and -35 °C| SPREC 2.0| | 
-| -60 °C to -85 °C| between -60 °C and -85 °C| SPREC 2.0| | 
-| LN| liquid nitrogen, -150 °C to -196 °C| | | 
-| Other, specify| any other temperature or long time storage information| | | 
+| Biochemical analyses | | | MIABIS-BIOBANK-11 |
+| Genomics | | | MIABIS-BIOBANK-11 |
+| Nucleic acid extraction | | | MIABIS-BIOBANK-11 |
+| Proteomics | | | MIABIS-BIOBANK-11 |
+| Metabolomics | | | MIABIS-BIOBANK-11 |
+| Histology | | | MIABIS-BIOBANK-11 |
+| Cell-lines processing | | | MIABIS-BIOBANK-11 |
+| Virology | | | MIABIS-BIOBANK-11 |
+| Sample processing | | | MIABIS-BIOBANK-11 | 
+| Sample shipping | | | MIABIS-BIOBANK-11 |
+| Sample quality control services | | | MIABIS-BIOBANK-11 |
+| Other | | | MIABIS-BIOBANK-11 |
 
-#### Data Categories
-#### MIABIS-2.0-13
-
-| Item Name| Definition| Source| Link| 
+#### Collection Design
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Biological samples| Y/N if biological samples are collected from the participants in the sample collection/study| | | 
-| Survey data| Y/N if information from surveys are collected from the participants in the sample collection/study| | | 
-| Imaging data| Y/N if imaging data are collected from the participants in the sample collection/study| | | 
-| Medical records| Y/N if medical records are collected from the participants in the sample collection/study| | | 
-| National registries| Y/N if register data is associated to the participants in the sample collection/study| | | 
-| Genealogical records| Y/N if genealogical records are associated with the participants in the sample collection/study| | | 
-| Physiological/Biochemical measurements| Y/N if Measurements/tests performed during a clinical/home visit and from samples taken from donor| | | 
-| Other| Other| | | 
+| Case-control | A case-control study design compares two groups of subjects: those with the disease or condition under study (cases) and a very similar group of subjects who do not have the disease or condition (controls).| [EMBL (EFO)](http://www.ebi.ac.uk/efo/EFO_0001427) | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 |
+| Cross-sectional | A type of observational study that involves data collection from a population, or a representative subset, at one specific point in time.| |  MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 | 
+| Longitudinal cohort | Research studies involving repeated observations of the same entity over time. In the biobank context, longitudinal studies sample a group of people in a given time period, and study them at intervals by the acquisition and analyses of data and/or samples over time.| [P3G](http://www.p3gobservatory.org/lexicon/list.htm#l) | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 | 
+| Twin-study | Twin studies measure the contribution of genetics (as opposed to environment) to a given trait or condition of interest.| | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 | 
+| Quality control study | A quality control testing study design type is where some aspect of the experiment is quality controlled for the purposes of quality assurance.| [EMBL (EFO)](http://www.ebi.ac.uk/efo/EFO_0001774) | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 |
+| Population-based cohort| Study done at the population level or among the population groups, generally to find the cause, incidence or spread of the disease or to see the response to the treatment, nutrition or environment.| | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 | 
+| Disease specific cohort | A study or biobank for which material and information is collected from subjects that have already developed a particular disease.| [EMBL (EFO)](http://www.ebi.ac.uk/efo/EFO_0001430) | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 |
+| Birth cohort | A corhort study for which the subjects are followed from the time of birth usually including information about gestation and follow up.| | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 | 
+| Microbial collection (if applicable with resistance data) | An entity consisting of biological material and/or data relevant for microbiological research. | | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 |
+| Reference collection | An entity consisting of biological material and/or data relevant for microbiological research. | | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 |
+| Rare disease collection | An entity consisting of biological material and/or data relevant for microbiological research. | | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 |
+| Other | An entity consisting of biological material and/or data relevant for microbiological research. | | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 | 
 
-#### Collection type
-#### MIABIS-2.0-16 and Study design: MIABIS-2.0-19
-
-| Item Name| Definition| Source| Link| 
+#### Common Collaboration Topics
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Case-control| A case-control study design compares two groups of subjects: those with the disease or condition under study (cases) and a very similar group of subjects who do not have the disease or condition (controls).| EMBL (EFO)| http://www.ebi.ac.uk/efo/EFO_0001427| 
-| Cohort| A form of longitudinal study for the analysis of risk factors following a group of people who do not have a disease, and uses correlations to determine the absolute risk of subject contraction.| Wikipedia (rewritten)| | 
-| Cross-sectional| A type of observational study that involves data collection from a population, or a representative subset, at one specific point in time.| Wikipedia| | 
-| Longitudinal| Research studies involving repeated observations of the same entity over time. In the biobank context, longitudinal studies sample a group of people in a given time period, and study them at intervals by the acquisition and analyses of data and/or samples over time.| P3G| http://www.p3gobservatory.org/lexicon/list.htm#l| 
-| Twin-study| Twin studies measure the contribution of genetics (as opposed to environment) to a given trait or condition of interest.| | | 
-| Quality control| A quality control testing study design type is where some aspect of the experiment is quality controlled for the purposes of quality assurance.| EMBL (EFO)| http://www.ebi.ac.uk/efo/EFO_0001774| 
-| Population-based| Study done at the population level or among the population groups, generally to find the cause, incidence or spread of the disease or to see the response to the treatment, nutrition or environment.| Wikipedia (rewritten)| | 
-| Disease specific| A study or biobank for which material and information is collected from subjects that have already developed a particular disease.| EMBL (EFO)| http://www.ebi.ac.uk/efo/EFO_0001430| 
-| Birth cohort| A corhort study for which the subjects are followed from the time of birth usually including information about gestation and follow up.| | | 
-| Other| | | 
+| Common charter | | | MIABIS-NETWORK-11 |
+| Common SOPs | | | MIABIS-NETWORK-11 |
+| Common data access policy | | | MIABIS-NETWORK-11 |
+| Common sample access policy | | | MIABIS-NETWORK-11 |
+| Common MTA | | | MIABIS-NETWORK-11 |
+| Common image access policy | | | MIABIS-NETWORK-11 |
+| Common image MTA | | | MIABIS-NETWORK-11 |
+| Common representation | | | MIABIS-NETWORK-11 |
+| Common URL | | | MIABIS-NETWORK-11 |
+| Other | | | MIABIS-NETWORK-11 |
 
+#### Component Status
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
+|---|---|---|---|
+| Active | The [Collection, Research resource, Network]'s functions are active | | MIABIS-COLLECTION-20, MIABIS-NETWORK-09 |
+| Ended | The [Collection, Research resource, Network]'s functions have ended | | MIABIS-COLLECTION-20, MIABIS-NETWORK-09 |
+| Other | The status of the [Collection, Research resource, Network]'s functions is other than active/ended | | MIABIS-COLLECTION-20, MIABIS-NETWORK-09 |
+
+#### Dataset Type
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
+|---|---|---|---|
+| Lifestyle dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Environmental dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Physiological dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Biochemical dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Clinical dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Psychological dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Genomic dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Proteomic dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Metabolomic dataset | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Body (Radiological) image | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Whole slide image | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Photo image | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Genealogical records | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Other | | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
 
 #### Inclusion Criteria
-#### MIABIS-2.0-22
-
-| Item Name| Definition| Source| Link| 
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Health status| | | | 
-| Hospital patient| | | | 
-| Use of medication| | | | 
-| Gravidity| | | | 
-| Age group| | | | 
-| Familial status| | | | 
-| Sex| | | | 
-| Country of residence| | | | 
-| Ethnic origin| | | | 
-| Population representative sampling| | | | 
-| Lifestyle/Exposure| | | | 
-| Other| | | | 
+| Health status | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
+| Hospital patient | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
+| Use of medication | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
+| Gravidity | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
+| Age group | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
+| Familial status | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
+| Sex | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
+| Country of residence | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
+| Ethnic origin | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
+| Population representative sampling | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
+| Lifestyle/Exposure | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
+| Other | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
 
-#### Omics Technology
-#### MIABIS-40
-
-| Item Name| Definition| Source| Link| 
+#### Infrastructural Capabilities
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Genomics| The study of an organism's entire genome.| Methods in Molecular Biology 593| DOI:10.1007/978-1-60327-194-3_1 http://www.springerlink.com/content/w048163633774724/#section=614848&page=1| 
-| Transcriptomics| The study of the transcription, i.e., the expression levels of mRNAs in a given organism, tissue, etc. (under a specific set of conditions).| Methods in Molecular Biology 593| DOI:10.1007/978-1-60327-194-3_1 http://www.springerlink.com/content/w048163633774724/#section=614848&page=1| 
-| Proteomics| The study of proteins, their structures, and their functions, namely the study of the proteome.| Methods in Molecular Biology 593| DOI:10.1007/978-1-60327-194-3_1 http://www.springerlink.com/content/w048163633774724/#section=614848&page=1| 
-| Metabolomics| The identification, quantification, and characterization of the small molecule metabolites in the metabolome (i.e., the set of all small molecule metabolites found in a specific cell, organ, or organism).| Methods in Molecular Biology 593| DOI:10.1007/978-1-60327-194-3_1 http://www.springerlink.com/content/w048163633774724/#section=614848&page=1| 
-| Other| | | | 
+| Sample storage | | | MIABIS-BIOBANK-09 |
+| Data storage | | | MIABIS-BIOBANK-09 |
+| Biosafety abilities | | | MIABIS-BIOBANK-09 |
+| Other | | | MIABIS-BIOBANK-09 |
 
-#### Ethnic group
-#### MIABIS-50
-
-| Item Name| Definition| Source| Link| 
+#### Network Type
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| African| | | | 
-| Caucasian| | | | 
-| Pacific Islander| | | | 
-| East Asian| | | | 
-| Native American| | | | 
-| Other| | | |
+| BBMRI-ERIC National Node network | BBMRI-ERIC National Node network |  | MIABIS-NETWORK-12 |
+| Biobank network | Biobank network | | MIABIS-NETWORK-12 |
+| Collection network | Collection network | | MIABIS-NETWORK-12 |
+| Disease-specific network | Disease-specific network | | MIABIS-NETWORK-12 |
+| Project network | Project network | | MIABIS-NETWORK-12 |
+| Rare Disease network | Rare Disease network | | MIABIS-NETWORK-12 |
+| Other | Other type of network/collaboration | | MIABIS-NETWORK-12 |
+
+#### Organisational Capabilities
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
+|---|---|---|---|
+| Recontact with donors | | | MIABIS-BIOBANK-10 |
+| Facilitating clinical trials | | | MIABIS-BIOBANK-10 |
+| Setting up prospective collections | | | MIABIS-BIOBANK-10 |
+| Access to omics data | | | MIABIS-BIOBANK-10 |
+| Access to laboratory analysis data | | | MIABIS-BIOBANK-10 |
+| Access to donors'clinical data | | | MIABIS-BIOBANK-10 |
+| Access to pathology archive | | | MIABIS-BIOBANK-10 |
+| Access to radiology archive | | | MIABIS-BIOBANK-10 |
+| Access to national medical registries | | | MIABIS-BIOBANK-10 |
+| Other | | | MIABIS-BIOBANK-10 |
+
+#### Quality Management Standard
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
+|---|---|---|---|
+| ISO 20387 | | | MIABIS-BIOBANK-12 |
+| ISO 9001 | | | MIABIS-BIOBANK-12 |
+| Other | | | MIABIS-BIOBANK-12 |
+
+#### Sample Collection Setting
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
+|---|---|---|---|
+| Routine health care setting | | | MIABIS-COLLECTION-17, MIABIS-RESEARCHRESOURCE-17 |
+| Clinical trial | | | MIABIS-COLLECTION-17, MIABIS-RESEARCHRESOURCE-17 |
+| Research study | | | MIABIS-COLLECTION-17, MIABIS-RESEARCHRESOURCE-17 |
+| Public health/population based study | | | MIABIS-COLLECTION-17, MIABIS-RESEARCHRESOURCE-17 |
+| Museum and/or archeological collection | | | MIABIS-COLLECTION-17, MIABIS-RESEARCHRESOURCE-17 |
+| Environment | | | MIABIS-COLLECTION-17, MIABIS-RESEARCHRESOURCE-17 |
+| Unknown | | | MIABIS-COLLECTION-17, MIABIS-RESEARCHRESOURCE-17 |
+| Other | | | MIABIS-COLLECTION-17, MIABIS-RESEARCHRESOURCE-17 |
+
+#### Sample Source
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
+|---|---|---|---|
+| Human | The samples were collected or isolated from humans | | MIABIS-COLLECTION-07, MIABIS-RESEARCHRESOURCE-07 | 
+| Animal | The samples were collected or isolated from animals | | MIABIS-COLLECTION-07, MIABIS-RESEARCHRESOURCE-07 |
+| Environmental | The samples were collected or isolated from the envoronment | | MIABIS-COLLECTION-07, MIABIS-RESEARCHRESOURCE-07 |
+| Other | | | |
+
+#### Sample Type
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
+|---|---|---|---|
+| Amniotic Fluid | A specimen that is derived from amniotic fluid.| [OBIB](http://purl.obolibrary.org/obo/OBI_0002500) | MIABIS-SAMPLE-02 |
+| Other | | | |
+
+#### Sex
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
+|---|---|---|---|
+| Male | male | | MIABIS-COLLECTION-08, MIABIS-RESEARCHRESOURCE-08 | 
+| Female| female | | MIABIS-COLLECTION-08, MIABIS-RESEARCHRESOURCE-08 |
+| Unknown | a proper value is applicable but not known | | MIABIS-COLLECTION-08, MIABIS-RESEARCHRESOURCE-08 |
+| Undifferentiated | undifferentiated, the gender could not be uniquely identified such as hermaphrodite | | MIABIS-COLLECTION-08, MIABIS-RESEARCHRESOURCE-08 |
+| Not applicable | The samples have no applicable sex (to enable description of non-human samples) | | MIABIS-COLLECTION-08, MIABIS-RESEARCHRESOURCE-08 |
+
+#### Storage Temperature
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
+|---|---|---|---|
+| RT | Room temperature| SPREC V4.0 | MIABIS-SAMPLE-02 |
+| 2 °C to 10°C | between 2 °C and 10 °C | SPREC V4.0 | MIABIS-SAMPLE-02 | 
+| -18 °C to -35 °C | between -18 °C and -35 °C | SPREC V4.0 | MIABIS-SAMPLE-02 | 
+| -60 °C to -85 °C | between -60 °C and -85 °C | SPREC V4.0 | MIABIS-SAMPLE-02 | 
+| LN | liquid nitrogen vapour-phase | | MIABIS-SAMPLE-02 |
+| LN | liquid nitrogen liquid-phase | | MIABIS-SAMPLE-02 | 
+| Other | any other temperature or long time storage information| SPREC V4.0 | MIABIS-SAMPLE-02 | 
+
+#### Use and Access Condition
+| Attribute Name | Definition | Source [Link] | Attribute Codes |
+|---|---|---|---|
+| Commercial use | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
+| Collaboration | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
+| Specific research use | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
+| Genetic data use | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
+| Outside EU access | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
+| Xenograft | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
+| Other animal work | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
+| Other | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
+
+
