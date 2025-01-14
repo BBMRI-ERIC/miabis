@@ -14,10 +14,11 @@ The fields of medicine and pathology are increasingly relying on Digital Patholo
  3. Implementation of reference examples within BBMRI-ERIC hosted datasets, such as the [BBMRI-ERIC Colorectal Cancer Cohort](https://www.bbmri-eric.eu/scientific-collaboration/colorectal-cancer-cohort/) 
 
 ## Groups of Attributes
- - **Donor and Sample Attributes**: Attributes related to the patient, study, and series, primarily including elements from the MIABIS sample and donor components.
- - **Assay Attributes**: Attributes related to the container, hierarchy of mounted specimens and processing details.
- - **Scanning and File Attributes**: Attributes of the scanning process and the file format.
- - **Segmentation / Annotation Attributes** (planned)
+ - [Assay Attributes](drafts/Data-describing-DigitalPathology-Assay.md): Attributes related to the container, hierarchy of mounted specimens and processing details.
+ - [Scan Attributes](drafts/Data-describing-DigitalPathology-Scan.md): Attributes descriptive of the scanning process.
+ - [File Attributes](drafts/Data-describing_DigitalPathology-File.md): Attributes descriptive of the file format.
+ - Donor and Sample Attributes: Attributes related to the patient, study, and series, primarily including elements from the MIABIS sample and donor components.
+ - Segmentation / Annotation Attributes (planned)
 
 ## Partners and Liaisons
  - ESDIP: Standardization and Interoperability Committee
