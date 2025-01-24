@@ -8,3 +8,6 @@ Introduced in 2020 ([Eklund et al., 2020](https://www.liebertpub.com/doi/10.1089
 | MIABIS-EVENT-02| Event date and time| yyyy-mm-ddThh:mm:ss| The date and time of the event. Coding ISO8601. Can also be partial, for example YYYY| Use either age at event or event date, not both. Date of birth ir required when event date is used.| 0|
 | MIABIS-EVENT-03| Age at event| Decimal| Age at the time of the event| Use either age at event or event date and time, not both| 0|
 | MIABIS-EVENT-04| Age at event unit| List: years, months, weeks, days, gestational weeks| Unit defining age at event| When age at event is provided, age unit is required| 0|
+| MIABIS-EVENT-05| Event name | ...| ...| ...| ...|
+| MIABIS-EVENT-06| Event description| ...| ...| ...| ...|
+| MIABIS-EVENT-0| Event contact information | ...| ...| ...| ...|
