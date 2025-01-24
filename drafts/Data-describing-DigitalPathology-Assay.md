@@ -2,7 +2,7 @@
 
 ## Definition
 
-Assay describes the medium in which the sample is placed and dyed as basis for microscopic analysis
+Assay attributes (container, preparation steps, …) covers various aspects related to container (glass slide) and laboratory preparation steps.
 
 | Attribute Code                  | Attribute Name                 | Description                                                                                                                                                       | Data type         | Allowed values                                                                                                                                                                                                                                                                                                                                                          | Constraints | Cardinality |
 | ------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
