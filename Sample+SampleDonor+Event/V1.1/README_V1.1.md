@@ -35,9 +35,9 @@ Sample
  - Detailed Sample Type: Added 4 new sample types:
  - use restrictions -> use and access conditions (align with Core V3)
  - Sample storage temperature -> storage temperature (aligned with Core V3)
- - Anatomical site attribute -> strutured attribute [LINK]
+ - Anatomical site attribute -> [strutured attribute](https://github.com/BBMRI-ERIC/miabis/blob/master/all%20lists.md)]
  - Added "sample source" -> aligned with Core Core V3
 
 Sample Donor
  - "Sex" -> aligned value list aligned with Core V3
- - "Dataset Type" list -> aligned qith Core V3
+ - "Dataset Type" list -> aligned with Core V3
