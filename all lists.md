@@ -239,8 +239,8 @@ Network
 | Synovial fluid | A specimen that is derived from synovial fluid.| [OBI](http://purl.obolibrary.org/obo/OBI_0002510) | MIABIS-SAMPLE-02, MIABIS-COLLECTION-14 |
 | Tears | Aqueous substance secreted by the lacrimal gland. | [UBERON](http://purl.obolibrary.org/obo/UBERON_0001827) | MIABIS-SAMPLE-02, MIABIS-COLLECTION-14 | 
 | Teeth | Skeletal element within the mouth (or in some species, upper part of the digestive tract) that is composed of dentine and is used in procuring or masticating food. | [UBERON](http://purl.obolibrary.org/obo/UBERON_0001091) | MIABIS-SAMPLE-02, MIABIS-COLLECTION-14 | 
-| Tissue (FFPE) | A specimen that has been fixed in formalin and embedded in paraffin. | [OBI](http://purl.obolibrary.org/obo/OBI_1200000) | MIABIS-SAMPLE-02, MIABIS-COLLECTION-14 |
-| Tissue (frozen) | A specimen that has been frozen in order to store it. | [OBI](http://purl.obolibrary.org/obo/OBI_0000922) | MIABIS-SAMPLE-02, MIABIS-COLLECTION-14 |
+| Tissue (fixed) | | | MIABIS-SAMPLE-02, MIABIS-COLLECTION-14 |
+| Tissue (fresh frozen) | A specimen that has been frozen in order to store it. | [OBI](http://purl.obolibrary.org/obo/OBI_0000922) | MIABIS-SAMPLE-02, MIABIS-COLLECTION-14 |
 | Umbilical cord | The connecting cord from the developing embryo to the placenta. | [UBERON](http://purl.obolibrary.org/obo/UBERON_0002331) | MIABIS-SAMPLE-02, MIABIS-COLLECTION-14 |
 | Urine | a portion of urine collected from an organism | [OBI](http://purl.obolibrary.org/obo/OBI_0000651) | MIABIS-SAMPLE-02, MIABIS-COLLECTION-14 | 
 | Urine Sediment |  | | MIABIS-SAMPLE-02, MIABIS-COLLECTION-14 |
