@@ -25,15 +25,11 @@ Implementation of the MIABIS Detailed Sample Type (from the MIABIS component Sam
  - **HL7 FHIR**	https://terminology.hl7.org/3.1.0/CodeSystem-v2-0487.html
 
 ## List of Updates in V1.1
-Event
- - Event name
- - Event description
- - add "contact information" -> "contact person" structured attribute?
 
 Sample
  - Aligned with SPREC V4
- - Detailed Sample Type: Added 4 new sample types:
- - use restrictions -> use and access conditions (align with Core V3)
+ - Detailed Sample Type: Added 4 new sample types and omitted the "aggregated sample type"
+ - Use restrictions -> use and access conditions (align with Core V3)
  - Sample storage temperature -> storage temperature (aligned with Core V3)
  - Anatomical site attribute -> [strutured attribute](https://github.com/BBMRI-ERIC/miabis/blob/master/all%20lists.md)]
  - Added "sample source" -> aligned with Core Core V3
