@@ -28,10 +28,10 @@ Implementation of the MIABIS Detailed Sample Type (from the MIABIS component Sam
 
 Sample
  - Aligned with SPREC V4
- - Detailed Sample Type: Added 4 new sample types and omitted the "aggregated sample type"
+ - Detailed sample type: Added 4 new sample types (Isolated or enriched exosomes, Isolated Tumor Cell (neoplastic cell), Organoids, Tissue (fresh frozen)) and omitted the "aggregated sample type"
  - Use restrictions -> use and access conditions (align with Core V3)
  - Sample storage temperature -> storage temperature (aligned with Core V3)
- - Anatomical site attribute -> [strutured attribute](https://github.com/BBMRI-ERIC/miabis/blob/master/all%20lists.md)]
+ - Anatomical site attribute -> [structured attribute](https://github.com/BBMRI-ERIC/miabis/blob/master/all%20structured%20data.md#anatomical-site)
  - Added "sample source" -> aligned with Core Core V3
 
 Sample Donor
