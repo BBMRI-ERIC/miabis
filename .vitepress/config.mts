@@ -30,19 +30,19 @@ export default defineConfig({
     sidebar: [
       {text: 'About', link: '/readme'},
       {text: 'Core', collapsed: false,items: [
-          {text: 'About', link: '/00Core/readme'},
+          {text: 'About', link: '/Core/README'},
           {text: 'V3', collapsed: false, items: [
-              {text: 'Network', link: '/00Core/V3/data-describing-network'},
-              {text: 'Biobank', link: '/00Core/V3/data-describing-biobank'},
-              {text: 'Collection', link: '/00Core/V3/data-describing-collection'},
-              {text: 'Research Resource', link: '/00Core/V3/data-describing-researchresource'}
+              {text: 'Network', link: '/Core/V3/Data-describing-Network'},
+              {text: 'Biobank', link: '/Core/V3/Data-describing-Biobank'},
+              {text: 'Collection', link: '/Core/V3/Data-describing-Collection'},
+              {text: 'Research Resource', link: '/Core/V3/Data-describing-ResearchResource'}
             ]},
           {
             text: 'V2',collapsed: true, items: [
-                  {text: 'Study', link: '/00Core/V2/data-describing-study'},
-                  {text: 'Biobank', link: '/00Core/V2/data-describing-biobank'},
-                  {text: 'Collection', link: '/00Core/V2/data-describing-samplecollection'},
-                  {text: 'Database Implementation', link: '/00Core/V3/database-implementation'}
+                  {text: 'Study', link: '/Core/V2/Data-describing-Study'},
+                  {text: 'Biobank', link: '/Core/V2/Data-describing-Biobank'},
+                  {text: 'Collection', link: '/Core/V2/Data-describing-SampleCollection'},
+                  {text: 'Database Implementation', link: '/Core/V2/Database-Implementation'}
                 ]
           }
         ]},
@@ -52,21 +52,21 @@ export default defineConfig({
         items: [
           {text: 'Individual', items: [
               {text: 'V1.1', link: '/Individual/V1.1/readme_v1.1', collapsed: false, items: [
-                  {text: 'Donor', link: '/Individual/V1.1/Data-describing-sample-donor'},
-                  {text: 'Sample', link: '/Individual/V1.1/Data-describing-sample'},
+                  {text: 'Donor', link: '/Individual/V1.1/Data-describing-Sample-Donor'},
+                  {text: 'Sample', link: '/Individual/V1.1/Data-describing-Sample'},
                   {
-                    text: 'Event', link: '/Individual/V1.1/Data-describing-event',
+                    text: 'Event', link: '/Individual/V1.1/Data-describing-Event',
                   }
                 ]},
               {text: 'V1.0', collapsed: true, items: [
-                  {text: 'Donor', link: '/Individual/V1.0/Data-describing-sample-donor'},
-                  {text: 'Sample', link: '/Individual/V1.0/Data-describing-sample'},
+                  {text: 'Donor', link: '/Individual/V1.0/Data-describing-Sample-Donor'},
+                  {text: 'Sample', link: '/Individual/V1.0/Data-describing-Sample'},
                   {
-                    text: 'Event', link: '/Individual/V1.0/Data-describing-event',
+                    text: 'Event', link: '/Individual/V1.0/Data-describing-Event',
                   }
                 ]}
             ]},
-          {text: 'Digital Pathology', link: 'DigitalPathology/readme'},
+          {text: 'Digital Pathology', link: 'DigitalPathology/README'},
         ]
       }
     ],
