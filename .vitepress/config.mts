@@ -6,6 +6,11 @@ export default defineConfig({
 
   themeConfig: {
     logo: {src: '/favicon.ico', width: 24, height: 24},
+      head: [['link', {rel: 'icon', href: '/favicon.ico'}]],
+      cleanUrls: true,
+      lastUpdated: true,
+      ignoreDeadLinks: true,
+      base: process.env.DOCS_BASE || "",
     nav: [
       {text: 'About', link: '/readme'},
       {
