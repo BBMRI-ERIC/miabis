@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Specification
-      link: /readme
+      link: /README
     - theme: alt
       text: Sample and Donor Component
-      link: /api-examples
+      link: /Individual/README
 
 features:
   - title: Standardized Data Model
