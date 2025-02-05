@@ -4,7 +4,8 @@ Sample
 * [Sample Type](#sample-type)
 
 Collection/Research Resource
-* [Age Unit](age-unit)
+
+[//]: # (* [Age Unit]&#40;age-unit&#41;)
 * [Collection Design](#collection-design)
 * [Component Status](#component-status)
 * [Dataset Type](#dataset-type)

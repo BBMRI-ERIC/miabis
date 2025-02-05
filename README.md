@@ -61,10 +61,14 @@ The MIABIS standard is constantly evolving and we welcome your feedback. You can
  - GBN Sample Locator https://samplelocator.bbmri.de/
  
 ### Machine readable implementations
-* [OpenSpecimen MIABIS v3 integration](https://github.com/BiobankCy/MIABIS_v3_OpenSpecimen_Integration)
-* [Database implementation](Database-implementation.md)
-* [MIABIS on FHIR](https://simplifier.net/miabis/~resources?category=Profile) or on GitHub: https://github.com/BBMRI-cz/miabis-on-fhir
-* [Medical Informatics Initiative Germany: FHIR Core Data Set Modul Biobank/Biosample](https://simplifier.net/medizininformatikinitiative-modulbiobank)
+
+[//]: # (* [OpenSpecimen MIABIS v3 integration]&#40;https://github.com/BiobankCy/MIABIS_v3_OpenSpecimen_Integration&#41;)
+
+[//]: # (* [Database implementation]&#40;Database-implementation.md&#41;)
+
+[//]: # (* [MIABIS on FHIR]&#40;https://simplifier.net/miabis/~resources?category=Profile&#41; or on GitHub: https://github.com/BBMRI-cz/miabis-on-fhir)
+
+[//]: # (* [Medical Informatics Initiative Germany: FHIR Core Data Set Modul Biobank/Biosample]&#40;https://simplifier.net/medizininformatikinitiative-modulbiobank&#41;)
 
 ## Quality Check Script Extensions:
 Repository for scripts to support the operations of the BBMRI-ERIC Directory
