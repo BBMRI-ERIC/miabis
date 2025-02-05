@@ -9,7 +9,7 @@ export default defineConfig({
     themeConfig: {
     logo: {src: '/favicon.ico', width: 24, height: 24},
     nav: [
-      {text: 'About', link: '/readme'},
+      {text: 'About', link: '/README'},
       {
         text: 'Publications', items: [
           {
