@@ -1,16 +1,15 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'MIABIS',
-  description: 'Minimum Information About BIobank data Sharing',
-
-  themeConfig: {
+    title: 'MIABIS',
+    description: 'Minimum Information About BIobank data Sharing',
+    head: [['link', {rel: 'icon', href: '/favicon.ico'}]],
+    cleanUrls: true,
+    lastUpdated: true,
+    ignoreDeadLinks: true,
+    base: process.env.DOCS_BASE || "",
+    themeConfig: {
     logo: {src: '/favicon.ico', width: 24, height: 24},
-      head: [['link', {rel: 'icon', href: '/favicon.ico'}]],
-      cleanUrls: true,
-      lastUpdated: true,
-      ignoreDeadLinks: true,
-      base: process.env.DOCS_BASE || "",
     nav: [
       {text: 'About', link: '/readme'},
       {
