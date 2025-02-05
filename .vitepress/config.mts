@@ -71,8 +71,8 @@ export default defineConfig({
       }
     ],
     footer: {
-      message: 'Released under the AGPL-3.0 License.',
-      copyright: 'Copyright© 2019-present BBMRI-ERIC'
+      message: 'TBD',
+      copyright: 'Copyright© 2019-present MIABIS community'
     },
     socialLinks: [
       {icon: 'github', link: 'https://github.com/BBMRI-ERIC/miabis'}
