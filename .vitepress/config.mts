@@ -72,7 +72,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'TBD',
-      copyright: 'Copyright© 2019-present MIABIS community'
+      copyright: 'Copyright© 2016-present MIABIS community'
     },
     socialLinks: [
       {icon: 'github', link: 'https://github.com/BBMRI-ERIC/miabis'}
