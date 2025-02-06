@@ -71,7 +71,6 @@ export default defineConfig({
       }
     ],
     footer: {
-      message: 'TBD',
       copyright: 'Copyright© 2016-present MIABIS community'
     },
     socialLinks: [

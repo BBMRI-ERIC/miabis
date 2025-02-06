@@ -30,6 +30,10 @@ features:
   - title: Future-Proof Framework
     details: Continuously updated to support emerging data types and research methodologies, ensuring long-term relevance.
     icon: 🚀
+  - title: MIABIS on FHIR®
+    details: MIABIS has an official FHIR® representation
+    link: 'https://simplifier.net/miabis'
+    icon: 🔥
 
 ---
 
