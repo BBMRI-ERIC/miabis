@@ -27,6 +27,13 @@ export default defineConfig({
         ]
       },
       {text: 'BBMRI-ERIC', link: 'https://www.bbmri-eric.eu/'}],
+    search: {
+        provider: 'local'
+    },
+    editLink: {
+        pattern: 'https://github.com/bbmri-eric/miabis/edit/master/:path',
+        text: 'Edit this page on GitHub'
+    },
     sidebar: [
       {text: 'About', link: '/readme'},
       {text: 'Core', collapsed: false,items: [
