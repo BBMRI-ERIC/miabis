@@ -64,9 +64,9 @@ Network
 | Disease specific cohort | A study or biobank for which material and information is collected from subjects that have already developed a particular disease.| [EMBL (EFO)](http://www.ebi.ac.uk/efo/EFO_0001430) | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 |
 | Birth cohort | A corhort study for which the subjects are followed from the time of birth usually including information about gestation and follow up.| | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 | 
 | Microbial collection (if applicable with resistance data) | An entity consisting of biological material and/or data relevant for microbiological research. | | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 |
-| Reference collection | An entity consisting of biological material and/or data relevant for microbiological research. | | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 |
-| Rare disease collection | An entity consisting of biological material and/or data relevant for microbiological research. | | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 |
-| Other | An entity consisting of biological material and/or data relevant for microbiological research. | | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 | 
+| Reference collection |  | | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 |
+| Rare disease collection |  | | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 |
+| Other |  | | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 | 
 
 #### Common Collaboration Topics
 | Attribute Name | Definition | Source [Link] | Attribute Codes |
@@ -180,7 +180,7 @@ Network
 |---|---|---|---|
 | Human | The samples were collected or isolated from humans | | MIABIS-COLLECTION-07, MIABIS-RESEARCHRESOURCE-07 | 
 | Animal | The samples were collected or isolated from animals | | MIABIS-COLLECTION-07, MIABIS-RESEARCHRESOURCE-07 |
-| Environmental | The samples were collected or isolated from the envoronment | | MIABIS-COLLECTION-07, MIABIS-RESEARCHRESOURCE-07 |
+| Environmental | The samples were collected or isolated from the environment | | MIABIS-COLLECTION-07, MIABIS-RESEARCHRESOURCE-07 |
 | Other | | | |
 
 #### Sample Type
