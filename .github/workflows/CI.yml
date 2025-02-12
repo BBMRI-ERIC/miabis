@@ -22,8 +22,6 @@ jobs:
           cache-dependency-path: 'package-lock.json'
 
       - name: Build
-        env:
-          DOCS_BASE: "/${{ github.event.repository.name }}/"
         run: make build
 
       - name: Setup Pages
