@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This is a draft, contents may change.
+
 The scope of the "Biobank and Biomolecular Research Services" component aims to improve the MIABIS to help researchers find the right biobank or further biomolecular research services services by adding a new data structure.
 
 | Attribute Code | Attribute Name | Description | Data type | Allowed values| Constraints | Cardinality | 
