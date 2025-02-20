@@ -75,7 +75,14 @@ export default defineConfig({
             ]},
           {text: 'Digital Pathology', link: 'DigitalPathology/README'},
         ]
-      }
+      },
+        {text: 'Drafts', collapsed: false, items: [
+            {text: 'Biobank Services', link: '/drafts/Data-describing-BiobankServices.md'},
+                {text: 'Digital Pathology Assay', link: '/drafts/Data-describing-DigitalPathology-Assay.md'},
+                {text: 'Digital Pathology Scan', link: '/drafts/Data-describing-DigitalPathology-Scan.md'},
+                {text: 'Digital Pathology File', link: '/drafts/Data-describing_DigitalPathology-File.md'},
+                {text: 'All Structured Data', link: '/drafts/MIABIS_v2_all-structured-data.md'}
+            ]}
     ],
     footer: {
       copyright: 'Copyright© 2016-present MIABIS community'

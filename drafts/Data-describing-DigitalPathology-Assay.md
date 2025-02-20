@@ -1,4 +1,5 @@
-+++ currently under review with the BBMRI-ERIC Management Committee (MC) +++
+> [!WARNING]  
+> This is a draft, contents may change.
 
 ## Definition
 
