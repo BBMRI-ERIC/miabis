@@ -74,9 +74,9 @@ export default defineConfig({
       },
         {text: 'Digital Pathology', link: 'DigitalPathology/README', items: [
                 {text: 'V0.1', items: [
-                        {text: 'Digital Pathology Assay', link: '/drafts/Data-describing-DigitalPathology-Assay.md'},
-                        {text: 'Digital Pathology Scan', link: '/drafts/Data-describing-DigitalPathology-Scan.md'},
-                        {text: 'Digital Pathology File', link: '/drafts/Data-describing_DigitalPathology-File.md'},
+                        {text: 'Assay', link: '/drafts/Data-describing-DigitalPathology-Assay.md'},
+                        {text: 'Scan', link: '/drafts/Data-describing-DigitalPathology-Scan.md'},
+                        {text: 'File', link: '/drafts/Data-describing_DigitalPathology-File.md'},
                     ]}
             ]},
     ],
