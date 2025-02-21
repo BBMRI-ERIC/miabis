@@ -36,16 +36,15 @@ export default defineConfig({
     },
     sidebar: [
       {text: 'About', link: '/readme'},
-      {text: 'Core', collapsed: false,items: [
-          {text: 'About', link: '/Core/README'},
-          {text: 'V3', collapsed: false, items: [
+      {text: 'Core', collapsed: false, link: '/Core/README',  items: [
+          {text: 'V3.0', collapsed: false, items: [
               {text: 'Network', link: '/Core/V3/Data-describing-Network'},
               {text: 'Biobank', link: '/Core/V3/Data-describing-Biobank'},
               {text: 'Collection', link: '/Core/V3/Data-describing-Collection'},
               {text: 'Research Resource', link: '/Core/V3/Data-describing-ResearchResource'}
             ]},
           {
-            text: 'V2',collapsed: true, items: [
+            text: 'V2.0',collapsed: true, items: [
                   {text: 'Study', link: '/Core/V2/Data-describing-Study'},
                   {text: 'Biobank', link: '/Core/V2/Data-describing-Biobank'},
                   {text: 'Collection', link: '/Core/V2/Data-describing-SampleCollection'},
@@ -54,10 +53,9 @@ export default defineConfig({
           }
         ]},
       {
-        text: 'Components',
+        text: 'Sample Donor + Sample + Event',
         collapsed: false,
         items: [
-          {text: 'Individual', items: [
               {text: 'V1.1', link: '/Individual/V1.1/readme_v1.1', collapsed: false, items: [
                   {text: 'Donor', link: '/Individual/V1.1/Data-describing-Sample-Donor'},
                   {text: 'Sample', link: '/Individual/V1.1/Data-describing-Sample'},
@@ -71,18 +69,16 @@ export default defineConfig({
                   {
                     text: 'Event', link: '/Individual/V1.0/Data-describing-Event',
                   }
-                ]}
-            ]},
-          {text: 'Digital Pathology', link: 'DigitalPathology/README'},
+                ]},
         ]
       },
-        {text: 'Drafts', collapsed: false, items: [
-            {text: 'Biobank Services', link: '/drafts/Data-describing-BiobankServices.md'},
-                {text: 'Digital Pathology Assay', link: '/drafts/Data-describing-DigitalPathology-Assay.md'},
-                {text: 'Digital Pathology Scan', link: '/drafts/Data-describing-DigitalPathology-Scan.md'},
-                {text: 'Digital Pathology File', link: '/drafts/Data-describing_DigitalPathology-File.md'},
-                {text: 'All Structured Data', link: '/drafts/MIABIS_v2_all-structured-data.md'}
-            ]}
+        {text: 'Digital Pathology', link: 'DigitalPathology/README', items: [
+                {text: 'V0.1', items: [
+                        {text: 'Digital Pathology Assay', link: '/drafts/Data-describing-DigitalPathology-Assay.md'},
+                        {text: 'Digital Pathology Scan', link: '/drafts/Data-describing-DigitalPathology-Scan.md'},
+                        {text: 'Digital Pathology File', link: '/drafts/Data-describing_DigitalPathology-File.md'},
+                    ]}
+            ]},
     ],
     footer: {
       copyright: 'Copyright© 2016-present MIABIS community'
