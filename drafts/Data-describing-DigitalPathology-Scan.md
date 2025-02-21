@@ -1,5 +1,5 @@
 > [!WARNING]  
-> This is a draft, contents may change.
+> This is a draft under the review by the BBMRI-ERIC Management Committee.
 
 ## Definition
 
