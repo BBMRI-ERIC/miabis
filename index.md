@@ -15,30 +15,30 @@ hero:
       link: /README#miabis-use-cases-implementations
 
 features:
-  - title: Standardized Data Model
-    details: MIABIS offers a harmonized data model for biobank data, ensuring consistency and quality across institutions.
+  - title: Standardised Terminology Framework
+    details: MIABIS provides a terminology framework for biobank data sharing, ensuring consistency and interoperability across institutions.
     link: '/README'
     icon: 📋
-  - title: Enhanced Interoperability
-    details: Facilitates seamless data exchange between diverse biobank systems, promoting integration and collaboration.
-    link: '/README#machine-readable-implementations'
-    icon: 🔗
-  - title: Increased Discoverability
-    details: Improves the searchability of biobank samples and datasets, helping researchers quickly locate relevant resources.
+  - title: Increased Findability
+    details: Provides terminology for querying information about biobanks, their samples and datasets, helping researchers to quickly locate relevant resources.
     link: '/README#miabis-use-cases-implementations'
     icon: 🔍
+  - title: Enhanced Interoperability 
+    details: Facilitates data harmonisation across diverse biobank operations, encouriging collaboration.
+    link: '/README#machine-readable-implementations'
+    icon: 🔗
   - title: Modular and Extensible
     details: Designed to be flexible and adaptable, MIABIS can be customized to meet local needs while adhering to international standards.
     link: '/individual/README'
     icon: 🛠
-  - title: Future-Proof Framework
+  - title: Community Driven
+    details: Development is divided into focused components, each with a predefined scope based on specific use cases and the involvement of field experts in working groups. 
+    link: '/README'
+    icon: 👷👷
+  - title: Future-Proof
     details: Continuously updated to support emerging data types and research methodologies, ensuring long-term relevance.
     link: '/README'
     icon: 🚀
-  - title: MIABIS on FHIR®
-    details: MIABIS has an official FHIR® representation
-    link: 'https://simplifier.net/miabis'
-    icon: 🔥
 
 ---
 
