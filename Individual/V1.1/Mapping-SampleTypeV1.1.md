@@ -1,8 +1,26 @@
-## Mapped Specimen descriptions from other standards		
+# Specimen Type mappings
+
+This file contains mappings of codes from SPREC V3.0 and 4.0, SNOMED CT, OMOP and HL7 FHIR for sample type to MIABIS sample type V1.1 and the detailed and aggregated sample type V1.0. 
+
+## Mapping Format
+The mapping is provided as markdown where each row maps a sample type code to the code in one of the other specifications. The columns are:
+
+- `MAIBIS Sample Type V1.1`: The detailed list of sample types in the V1.1.
+- `MAIBIS Aggregate Sample Type V1.0`: The corresponding aggregate sample type in the V1.0.
+
+## How to Use
+You can convert the markdown to a CSV file and load it into your application or use it in a database to convert between the different specifications.
+
+## Limitations
+This mapping covers all MIABIS sample types, but only a subset of the mapped other specifications. For full coverage, refer to the official:
  - **SPREC** V3.0 and V4.0 https://www.liebertpub.com/doi/10.1089/bio.2024.0010
  - **SNOMED CT**	https://browser.ihtsdotools.org/?perspective=full&conceptId1=123038009&edition=MAIN/2023-09-01&release=&languages=en	
  - **OMOP**	https://athena.ohdsi.org/search-terms/terms
  - **HL7 FHIR**	https://terminology.hl7.org/3.1.0/CodeSystem-v2-0487.html 
+
+## Contributions
+Feel free to contribute to this mapping by opening an issue or submitting a pull request.
+
 
 -----------------------------------------------
 
