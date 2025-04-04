@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This is a draft, contents may change.
+
 Add provenance-related information to Event entity in [Sample, Sample Donor and Event](https://github.com/BBMRI-ERIC/miabis/tree/master/Sample%2BSampleDonor%2BEvent).
 This could be achieved by extending the [Event v1.1](https://github.com/BBMRI-ERIC/miabis/blob/5a478a90ad31bc0164d76566ee3d948c76a925a6/Sample%2BSampleDonor%2BEvent/V1/Data-describing-Event.md) list with the following attributes
 
