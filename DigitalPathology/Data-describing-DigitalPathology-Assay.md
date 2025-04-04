@@ -1,6 +1,3 @@
-> [!WARNING]  
-> This is a draft under the review by the BBMRI-ERIC Management Committee.
-
 ## Definition
 
 Assay attributes (container, preparation steps, …) covers various aspects related to container (glass slide) and laboratory preparation steps.
