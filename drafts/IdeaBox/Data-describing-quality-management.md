@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This is a draft, contents may change.
+
 <h3>QMS1: Sample management</h3>
 <p>Availability of Process Descriptions (PD) and/or Standard Operating Procedures (SOPs) for sample management, covering…</p>
 
