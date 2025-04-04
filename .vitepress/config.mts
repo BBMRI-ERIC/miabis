@@ -57,26 +57,26 @@ export default defineConfig({
         collapsed: false,
         items: [
               {text: 'V1.1', link: '/Individual/V1.1/readme_v1.1', collapsed: false, items: [
-                  {text: 'Donor', link: '/Individual/V1.1/Data-describing-Sample-Donor'},
-                  {text: 'Sample', link: '/Individual/V1.1/Data-describing-Sample'},
+                  {text: 'Donor', link: '/Sample+Donor+Event/V1.1/Data-describing-Sample-Donor'},
+                  {text: 'Sample', link: '/Sample+Donor+Event/V1.1/Data-describing-Sample'},
                   {
-                    text: 'Event', link: '/Individual/V1.1/Data-describing-Event',
+                    text: 'Event', link: '/Sample+Donor+Event/V1.1/Data-describing-Event',
                   }
                 ]},
               {text: 'V1.0', collapsed: true, items: [
-                  {text: 'Donor', link: '/Individual/V1.0/Data-describing-Sample-Donor'},
-                  {text: 'Sample', link: '/Individual/V1.0/Data-describing-Sample'},
+                  {text: 'Donor', link: '/Sample+Donor+Event/V1.0/Data-describing-Sample-Donor'},
+                  {text: 'Sample', link: '/Sample+Donor+Event/V1.0/Data-describing-Sample'},
                   {
-                    text: 'Event', link: '/Individual/V1.0/Data-describing-Event',
+                    text: 'Event', link: '/Sample+Donor+Event/V1.0/Data-describing-Event',
                   }
                 ]},
         ]
       },
         {text: 'Digital Pathology', link: 'DigitalPathology/README', items: [
                 {text: 'V0.1', items: [
-                        {text: 'Assay', link: '/drafts/Data-describing-DigitalPathology-Assay.md'},
-                        {text: 'Scan', link: '/drafts/Data-describing-DigitalPathology-Scan.md'},
-                        {text: 'File', link: '/drafts/Data-describing_DigitalPathology-File.md'},
+                        {text: 'Assay', link: '/DigitalPathology/Data-describing-DigitalPathology-Assay.md'},
+                        {text: 'Scan', link: '/DigitalPathology/Data-describing-DigitalPathology-Scan.md'},
+                        {text: 'File', link: '/DigitalPathology/Data-describing_DigitalPathology-File.md'},
                     ]}
             ]},
     ],
