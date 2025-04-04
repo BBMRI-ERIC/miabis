@@ -1,6 +1,3 @@
-> [!WARNING]  
-> This is a draft under the review by the BBMRI-ERIC Management Committee.
-
 ## Definition
 
 Scanning, file and annotation attributes: 
