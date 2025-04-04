@@ -1,4 +1,4 @@
-# Specimen Type mappings
+# Sample Type mappings
 
 This file contains mappings of codes from SPREC V3.0 and 4.0, SNOMED CT, OMOP and HL7 FHIR for sample type to MIABIS sample type V1.1 and the detailed and aggregated sample type V1.0. 
 
