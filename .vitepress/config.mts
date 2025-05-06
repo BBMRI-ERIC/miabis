@@ -56,18 +56,18 @@ export default defineConfig({
         text: 'Sample Donor + Sample + Event',
         collapsed: false,
         items: [
-              {text: 'V1.1', link: '/Individual/V1.1/readme_v1.1', collapsed: false, items: [
-                  {text: 'Donor', link: '/Individual/V1.1/Data-describing-Sample-Donor'},
-                  {text: 'Sample', link: '/Individual/V1.1/Data-describing-Sample'},
+              {text: 'V1.1', link: '/Sample+Donor+Event/V1.1/readme_v1.1', collapsed: false, items: [
+                  {text: 'Donor', link: '/Sample+Donor+Event/V1.1/Data-describing-Sample-Donor'},
+                  {text: 'Sample', link: '/Sample+Donor+Event/V1.1/Data-describing-Sample'},
                   {
-                    text: 'Event', link: '/Individual/V1.1/Data-describing-Event',
+                    text: 'Event', link: '/Sample+Donor+Event/V1.1/Data-describing-Event',
                   }
                 ]},
               {text: 'V1.0', collapsed: true, items: [
-                  {text: 'Donor', link: '/Individual/V1.0/Data-describing-Sample-Donor'},
-                  {text: 'Sample', link: '/Individual/V1.0/Data-describing-Sample'},
+                  {text: 'Donor', link: '/Sample+Donor+Event/V1.0/Data-describing-Sample-Donor'},
+                  {text: 'Sample', link: '/Sample+Donor+Event/V1.0/Data-describing-Sample'},
                   {
-                    text: 'Event', link: '/Individual/V1.0/Data-describing-Event',
+                    text: 'Event', link: '/Sample+Donor+Event/V1.0/Data-describing-Event',
                   }
                 ]},
         ]

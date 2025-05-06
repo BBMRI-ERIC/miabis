@@ -29,7 +29,7 @@ features:
     icon: 🔗
   - title: Modular and Extensible
     details: Designed to be flexible and adaptable, MIABIS can be customized to meet local needs while adhering to international standards.
-    link: '/individual/README'
+    link: '/Sample+Donor+Event/README'
     icon: 🛠
   - title: Community Driven
     details: Development is divided into focused components, each with a predefined scope based on specific use cases and the involvement of field experts in working groups. 
