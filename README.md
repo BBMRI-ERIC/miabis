@@ -19,10 +19,9 @@ The MIABIS Core, crucial for initiating collaboration and enabling sample and da
 ## MIABIS aggregate level components 
 
 Two additional aggregate level components have been prepared for Imaging (DICOM-MIABIS) and for Standard Operating Prodecures (SOPs). Ongoing developments include additional components describing dataset types and biobank capabilities, contributing to the continuous evolution of the MIABIS data standard.
-* Data describing Image Collections ([Scapicchio et al., 2021](https://eurradiolexp.springeropen.com/articles/10.1186/s41747-021-00214-4)).
 * [Data describing Dataset Types](DatasetTypes/README.md) - under active development
 * [Data describing Biobank Services](BiobankServices/README.md) - under active development
-* Data describing SOPs (stalled)
+* Data describing SOPs (on hold)
 
 ## MIABIS individual level components
 In response to the need for more detailed information, MIABIS has extended its terminology to include individual- evel components, describing samples, sample donors, and events. These entities enhance the ability to perform sophisticated queries. Ongoing developments include an additional component describing molecular pathology.
@@ -32,15 +31,15 @@ Data describing Sample, Sample Donor, and Event v1.0 ([Eklund et al., 2020](http
 * [Data describing Sample Donor](https://github.com/BBMRI-ERIC/miabis/blob/5a478a90ad31bc0164d76566ee3d948c76a925a6/Sample%2BSampleDonor%2BEvent/V1/Data-describing-Sample-Donor.md)
 * [Data describing Event](https://github.com/BBMRI-ERIC/miabis/blob/5a478a90ad31bc0164d76566ee3d948c76a925a6/Sample%2BSampleDonor%2BEvent/V1/Data-describing-Event.md)
 
-[Data describing Digital Pathology](DigitalPathology/README.md) - under active development
+Data describing Digital Pathology ([DigitalPathology/README.md](https://github.com/BBMRI-ERIC/miabis/blob/master/DigitalPathology/README.md)) - under active development
 
 ## All attributes, structured data and lists
 * [all attributes](https://github.com/BBMRI-ERIC/miabis/blob/8deeead2e8e5c8c3faa42761db2939d523be21e3/all%20attributes.md)
 * [all structured data](https://github.com/BBMRI-ERIC/miabis/blob/8deeead2e8e5c8c3faa42761db2939d523be21e3/all%20structured%20data.md) 
 * [all lists](https://github.com/BBMRI-ERIC/miabis/blob/master/all%20lists.md)
 
-## MIABIS Entity-Relationship Diagram
-The MIABIS Entity-Relationship Diagram represents relationships between different MIABIS Components and entities included in those components.
+## MIABIS overview
+This MIABIS overview represents where the different MIABIS components sit in relation to each other.
 
 ![image](drafts/assets/MIABIS_ERD-Poster.png)
 
@@ -62,11 +61,13 @@ The MIABIS standard is constantly evolving and we welcome your feedback. You can
  
 ### Machine readable implementations
 
+* [DICOM-MIABIS integration model for biobanks by Scapicchio et al., 2021](https://eurradiolexp.springeropen.com/articles/10.1186/s41747-021-00214-4)
+  
 * [OpenSpecimen MIABIS v3 integration](https://github.com/BiobankCy/MIABIS_v3_OpenSpecimen_Integration)
 
 * [Database implementation](./Core/V2/Database-implementation.md)
 
-* [MIABIS on FHIR](https://simplifier.net/miabis/~resources?category=Profile) or on GitHub: https://github.com/BBMRI-cz/miabis-on-fhir
+* [FHIRised MIABIS](https://simplifier.net/miabis/~resources?category=Profile) or on GitHub: https://github.com/BBMRI-cz/miabis-on-fhir
 
 * [Medical Informatics Initiative Germany: FHIR Core Data Set Modul Biobank/Biosample](https://simplifier.net/medizininformatikinitiative-modulbiobank)
 
