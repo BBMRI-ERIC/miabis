@@ -41,7 +41,7 @@ Data describing Digital Pathology ([DigitalPathology/README.md](https://github.c
 ## MIABIS overview
 This MIABIS overview represents where the different MIABIS components sit in relation to each other.
 
-![image](drafts/assets/MIABIS_ERD-Poster.png)
+![image](drafts/assets/2025 ERD MIABIS general.png)
 
 
 ### Product Owners 
