@@ -35,7 +35,7 @@ export default defineConfig({
         text: 'Edit this page on GitHub'
     },
     sidebar: [
-      {text: 'About', link: '/readme'},
+      {text: 'About', link: '/README'},
       {text: 'Core', collapsed: false, link: '/Core/README',  items: [
           {text: 'V3.0', collapsed: false, items: [
               {text: 'Network', link: '/Core/V3/Data-describing-Network'},
