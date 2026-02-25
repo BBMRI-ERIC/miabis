@@ -19,11 +19,12 @@ By addressing these suggestions, the proposed changes aim to foster improved com
  4. Analysis and consolidation of the survey results within the MIABIS Operations group.
 
 ## Resulting 
-Resulting data describing the Biobanking and Biomolecular Services Component [LINK]
+Resulting data describing the [Biobanking and Biomolecular Services Component](https://github.com/BBMRI-ERIC/miabis/blob/master/BiobankServices/Data-describing-BiobankingBiomolecularServices.md)
 
 ## Collaborative Projects and Networks
  - canSERV: Cutting-Edge Cancer Research Services Across Europe
  - ISIDORe: Integrated Services for Infectious Disease Outbreak Research
+ - EVOLVE: Accelerating datafication for support of EU health priorities, greening of biobanks and integrated approach to “One Health”
  - GBN: German Biobank Network
  - BBMRI.PL: the Polish Biobanking Network
  - BBMRI.IT: the Italian Biobanking Network
