@@ -17,18 +17,21 @@ Collection/Research Resource
 * [Use & Access Condition](#use-and-access-condition)
 
 Biobank
-* [Bioprocessing and Analytical Capabilities](#bioprocessing-and-analytical-capabilities)
-* [Infrastructural Capabilities](#infrastructural-capabilities)
-* [Organisational Capabilities](#organisational-capabilities)
+* ~~[Bioprocessing and Analytical Capabilities](#bioprocessing-and-analytical-capabilities)~~
+* ~~[Infrastructural Capabilities](#infrastructural-capabilities)~~
+* ~~[Organisational Capabilities](#organisational-capabilities)~~
 * [Quality Management Standard](#quality-management-standard)
 
 Network
 * [Common Collaboration Topics](#common-collaboration-topics)
 * [Network Type](#network-type)
 
+Service
+* [Service type](#service-type)
+
 ***
 #### Age Unit
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
 | Years | | | MIABIS-COLLECTION-11, MIABIS-COLLECTION-12, MIABIS-RESEARCHRESOURCE-09, MIABIS-RESEARCHRESOURCE-10 |
 | Months | | | MIABIS-COLLECTION-11, MIABIS-COLLECTION-12, MIABIS-RESEARCHRESOURCE-09, MIABIS-RESEARCHRESOURCE-10 |
@@ -36,24 +39,24 @@ Network
 | Days | | | MIABIS-COLLECTION-11, MIABIS-COLLECTION-12, MIABIS-RESEARCHRESOURCE-09, MIABIS-RESEARCHRESOURCE-10 |
 | Gestational weeks | | | MIABIS-COLLECTION-11, MIABIS-COLLECTION-12, MIABIS-RESEARCHRESOURCE-09, MIABIS-RESEARCHRESOURCE-10 |
 
-#### Bioprocessing and Analytical Capabilities
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+#### ~~Bioprocessing and Analytical Capabilities~~
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Biochemical analyses | The biobank can offer to clients the following bioprocessing/analytical service: Biochemical analyses | | MIABIS-BIOBANK-11 |
-| Genomics | The biobank can offer to clients the following bioprocessing/analytical service: Genomics | | MIABIS-BIOBANK-11 |
-| Nucleic acid extraction | The biobank can offer to clients the following bioprocessing/analytical service: Nucleic acid extraction | | MIABIS-BIOBANK-11 |
-| Proteomics | The biobank can offer to clients the following bioprocessing/analytical service: Proteomics | | MIABIS-BIOBANK-11 |
-| Metabolomics | The biobank can offer to clients the following bioprocessing/analytical service: Metabolomics | | MIABIS-BIOBANK-11 |
-| Histology | The biobank can offer to clients the following bioprocessing/analytical service: Histology | | MIABIS-BIOBANK-11 |
-| Cell-lines processing | The biobank can offer to clients the following bioprocessing/analytical service: Cell-lines processing | | MIABIS-BIOBANK-11 |
-| Virology | The biobank can offer to clients the following bioprocessing/analytical service: Virology | | MIABIS-BIOBANK-11 |
-| Sample processing | The biobank can offer to clients the following bioprocessing/analytical service: Sample processing | | MIABIS-BIOBANK-11 | 
-| Sample shipping | The biobank can offer to clients the following bioprocessing/analytical service: Sample shipping | | MIABIS-BIOBANK-11 |
-| Sample quality control services | The biobank can offer to clients the following bioprocessing/analytical service: Sample quality control services | | MIABIS-BIOBANK-11 |
-| Other | The biobank can offer to clients the following bioprocessing/analytical service: Other services | | MIABIS-BIOBANK-11 |
+| ~~Biochemical analyses~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Biochemical analyses~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Genomics~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Genomics~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Nucleic acid extraction~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Nucleic acid extraction~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Proteomics~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Proteomics~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Metabolomics~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Metabolomics~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Histology~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Histology~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Cell-lines processing~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Cell-lines processing~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Virology~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Virology~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Sample processing~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Sample processing~~ | | ~~MIABIS-BIOBANK-11~~ | 
+| ~~Sample shipping~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Sample shipping~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Sample quality control services~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Sample quality control services~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Other~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Other services~~ | | ~~MIABIS-BIOBANK-11~~ |
 
 #### Collection Design
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
 | Case-control | A case-control study design compares two groups of subjects: those with the disease or condition under study (cases) and a very similar group of subjects who do not have the disease or condition (controls).| [EMBL (EFO)](http://www.ebi.ac.uk/efo/EFO_0001427) | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 |
 | Cross-sectional | A type of observational study that involves data collection from a population, or a representative subset, at one specific point in time.| |  MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 | 
@@ -69,7 +72,7 @@ Network
 | Other |  | | MIABIS-COLLECTION-18, MIABIS-RESEARCHRESOURCE-18 | 
 
 #### Common Collaboration Topics
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
 | Common charter | Network partners have a common charter | | MIABIS-NETWORK-11 |
 | Common SOPs | Network partners have common Standard Operating Procedures (SOPs) | | MIABIS-NETWORK-11 |
@@ -83,14 +86,14 @@ Network
 | Other | Network partners have other collaboration topic/s. | | MIABIS-NETWORK-11 |
 
 #### Component Status
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
 | Active | The [Collection, Research resource, Network]'s functions are active | | MIABIS-COLLECTION-20, MIABIS-NETWORK-09 |
 | Ended | The [Collection, Research resource, Network]'s functions have ended | | MIABIS-COLLECTION-20, MIABIS-NETWORK-09 |
 | Other | The status of the [Collection, Research resource, Network]'s functions is other than active/ended | | MIABIS-COLLECTION-20, MIABIS-NETWORK-09 |
 
 #### Dataset Type
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
 | Lifestyle dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Lifestyle dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
 | Environmental dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Environmental dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
@@ -108,7 +111,7 @@ Network
 | Other | Type of datasets obtained or otherwise derived from donors or their specimens: Other | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
 
 #### Inclusion Criteria
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
 | Health status | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
 | Hospital patient | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
@@ -123,16 +126,16 @@ Network
 | Lifestyle/Exposure | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
 | Other | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
 
-#### Infrastructural Capabilities
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+#### ~~Infrastructural Capabilities~~
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Sample storage | The biobank can offer clients sample storage services. | | MIABIS-BIOBANK-09 |
-| Data storage | The biobank can offer clients data storage services. | | MIABIS-BIOBANK-09 |
-| Biosafety abilities | The biobank has biosafety abilities to offer to clients. | | MIABIS-BIOBANK-09 |
-| Other | The biobank has other abilities to offer to clients. | | MIABIS-BIOBANK-09 |
+| ~~Sample storage~~ | ~~The biobank can offer clients sample storage services.~~ | | ~~MIABIS-BIOBANK-09~~ |
+| ~~Data storage~~ | ~~The biobank can offer clients data storage services.~~ | | ~~MIABIS-BIOBANK-09~~ |
+| ~~Biosafety abilities~~ | ~~The biobank has biosafety abilities to offer to clients.~~ | | ~~MIABIS-BIOBANK-09~~ |
+| ~~Other~~ | ~~The biobank has other abilities to offer to clients.~~ | | ~~MIABIS-BIOBANK-09~~ |
 
 #### Network Type
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
 | BBMRI-ERIC National Node network | BBMRI-ERIC National Node network |  | MIABIS-NETWORK-12 |
 | Biobank network | Biobank network | | MIABIS-NETWORK-12 |
@@ -142,29 +145,29 @@ Network
 | Rare Disease network | Rare Disease network | | MIABIS-NETWORK-12 |
 | Other | Other type of network/collaboration | | MIABIS-NETWORK-12 |
 
-#### Organisational Capabilities
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+#### ~~Organisational Capabilities~~
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Recontact with donors | The biobank can provide the following service to support clients: Recontact with donors | | MIABIS-BIOBANK-10 |
-| Facilitating clinical trials | The biobank can provide the following service to support clients: Facilitating clinical trials | | MIABIS-BIOBANK-10 |
-| Setting up prospective collections | The biobank can provide the following service to support clients: Setting up prospective collections | | MIABIS-BIOBANK-10 |
-| Access to omics data | The biobank can provide the following service to support clients: Access to omics data | | MIABIS-BIOBANK-10 |
-| Access to laboratory analysis data | The biobank can provide the following service to support clients: Access to laboratory analysis data | | MIABIS-BIOBANK-10 |
-| Access to donor's clinical data | The biobank can provide the following service to support clients: Access to donor's clinical data | | MIABIS-BIOBANK-10 |
-| Access to pathology archive | The biobank can provide the following service to support clients: Access to pathology archive | | MIABIS-BIOBANK-10 |
-| Access to radiology archive | The biobank can provide the following service to support clients: Access to radiology archive | | MIABIS-BIOBANK-10 |
-| Access to national medical registries | The biobank can provide the following service to support clients: Access to national medical registries | | MIABIS-BIOBANK-10 |
-| Other | The biobank can provide the following service to support clients: Other | | MIABIS-BIOBANK-10 |
+| ~~Recontact with donors~~ | ~~The biobank can provide the following service to support clients: Recontact with donors~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Facilitating clinical trials~~ | ~~The biobank can provide the following service to support clients: Facilitating clinical trials~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Setting up prospective collections~~ | ~~The biobank can provide the following service to support clients: Setting up prospective collections~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Access to omics data~~ | ~~The biobank can provide the following service to support clients: Access to omics data~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Access to laboratory analysis data~~ | ~~The biobank can provide the following service to support clients: Access to laboratory analysis data~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Access to donor's clinical data~~ | ~~The biobank can provide the following service to support clients: Access to donor's clinical data~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Access to pathology archive~~ | ~~The biobank can provide the following service to support clients: Access to pathology archive~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Access to radiology archive~~ | ~~The biobank can provide the following service to support clients: Access to radiology archive~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Access to national medical registries~~ | ~~The biobank can provide the following service to support clients: Access to national medical registries~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Other~~ | ~~The biobank can provide the following service to support clients: Other~~ | | ~~MIABIS-BIOBANK-10~~ |
 
 #### Quality Management Standard
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
 | ISO 20387 | The biobank is certified or accredited for the following standard: ISO 20387 | | MIABIS-BIOBANK-12 |
 | ISO 9001 | The biobank is certified or accredited for the following standard: ISO 9001 | | MIABIS-BIOBANK-12 |
 | Other | The biobank is certified or accredited for the following standard: other standard/s | | MIABIS-BIOBANK-12 |
 
 #### Sample Collection Setting
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
 | Routine health care setting | | | MIABIS-COLLECTION-17, MIABIS-RESEARCHRESOURCE-17 |
 | Clinical trial | | | MIABIS-COLLECTION-17, MIABIS-RESEARCHRESOURCE-17 |
@@ -176,7 +179,7 @@ Network
 | Other | | | MIABIS-COLLECTION-17, MIABIS-RESEARCHRESOURCE-17 |
 
 #### Sample Source
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
 | Human | The samples were collected or isolated from humans | | MIABIS-COLLECTION-07, MIABIS-RESEARCHRESOURCE-07 | 
 | Animal | The samples were collected or isolated from animals | | MIABIS-COLLECTION-07, MIABIS-RESEARCHRESOURCE-07 |
@@ -184,7 +187,7 @@ Network
 | Other | | | |
 
 #### Sample Type
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 | ---| --- | --- | --- |
 | Amniotic fluid | A specimen that is derived from amniotic fluid. | [OBI](http://purl.obolibrary.org/obo/OBI_0002500) | MIABIS-SAMPLE-02, MIABIS-COLLECTION-14 |
 | Ascites fluid | The serous fluid which accumulates in the peritoneal cavity in ascites. | [UBERON](http://purl.obolibrary.org/obo/UBERON_0007795) | MIABIS-SAMPLE-02, MIABIS-COLLECTION-14 |
@@ -250,8 +253,44 @@ Network
 | Whole blood, dried (e.g. Guthrie cards)  |  | | MIABIS-SAMPLE-02, MIABIS-COLLECTION-14 |
 | Other | Any other type of material taken from a biological entity, e.g. amniotic fluid, cerebrospinal fluid (CSV), mitochondrial RNA. | | MIABIS-SAMPLE-02, MIABIS-COLLECTION-14 |
 
+#### Service Type
+| Value Name                          | Definition                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Source [Link]                                                                                                 | Attribute Codes                                |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Sample reception                    | The process of physically receiving biological material, or associated data, or both, and obtaining custody of the material into a biobank.                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | http://purl.obolibrary.org/obo/OBIB_0000668 + ISO 20387                                                       | MIABIS-SERVICE-07                                                                 |
+| Sample processing                   | These are the procedures performed to prevent or slow the biological or physical deterioration of biological material, and to prepare it for further use. These procedures include preservation activities aimed at preventing decay in organic substances, and sometimes maintaining cells, tissues or whole organisms in a viable state. They also include laboratory-based preparation steps carried out after acquisition to make the material suitable for subsequent stages in its life cycle, storage or distribution.                                                                                  | http://purl.obolibrary.org/obo/NCIT_C64262 + ISO 20387:2018 3.34 + ISO 20387:2018 (3.37) (adapted)            | MIABIS-SERVICE-07                                                                 |
+| Sample storage                      | The maintenance of biological material under specified conditions for future use.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | ISO 20387:2018 (3.47)                                                                                         | MIABIS-SERVICE-07                                                                 |
+| Sample quality control and report   | The quality control and reporting process encompasses a set of activities within the quality management system that are focused on ensuring the appropriate quality of biological materials and data collections. Quality requirements are defined, fulfilled and documented.                                                                                                                                                                                                                                                                                                                                  | ISO 20387:2018 + ISO 9000:2015 (3.3.7) (adapted)                                                              | MIABIS-SERVICE-07                                                                 |
+| Sample provision                    | The process providing selected biological material to the recipient(s)/user(s).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ISO 20387:2018 (3.20) (adapted)                                                                               | MIABIS-SERVICE-07                                                                 |
+| Sample transport                    | The service includes logistical considerations for transporting biological samples from senders to receivers.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | http://purl.obolibrary.org/obo/NCIT_C179747 (adapted)                                                         | MIABIS-SERVICE-07                                                                 |
+| Sample data management              | This service includes integrated information management software used in laboratories for managing samples, users, instruments, standards, and other functions such as invoicing, plate management, and workflow automation.                                                                                                                                                                                                                                                                                                                                                                                   | http://purl.obolibrary.org/obo/NCIT_C48209                                                                    | MIABIS-SERVICE-07                                                                 |
+| Histology techniques                | This service uses special stains to visualise specific tissue and cellular structures in a histological technique. These dyes bind to cellular components either physically or through chemical bonds and prepare samples for analysis.                                                                                                                                                                                                                                                                                                                                                                        | http://purl.obolibrary.org/obo/NCIT_C23044                                                                    | MIABIS-SERVICE-07                                                                 |
+| Derivative extraction               | This service can be used to isolate and control the quality of materials from biosamples based on their differential solubility in various liquids.                                                                                                                                                                                                                                                                                                                                                                                                                                                            | http://purl.obolibrary.org/obo/NCIT_C113061 (adapted)                                                         | MIABIS-SERVICE-07                                                                 |
+| Genomics resource                   | The Genomics Shared Resource provides researchers with support in the areas of genetic and molecular biological analysis, including DNA and RNA isolation; custom genotyping of structural, regulatory and non-coding genes; gene expression assays; library manipulation and construction; fluorescence in situ hybridisation; and consultation services related to the above.                                                                                                                                                                                                                                | [http://purl.obolibrary.org/obo/NCIT_C39413](http://purl.obolibrary.org/obo/NCIT_C39413)                      | MIABIS-SERVICE-07                                                                 |
+| Transcriptomics resource            | The Transcriptomics Shared Resource provides investigators with a range of transcriptomic technologies for basic and clinical research applications, including RNA sequencing, expression profiling and other gene expression analyses.                                                                                                                                                                                                                                                                                                                                                                        | [http://purl.obolibrary.org/obo/NCIT_C39412 (adapted)](http://purl.obolibrary.org/obo/NCIT_C39412)            | MIABIS-SERVICE-07                                                                 |
+| Proteomics resource                 | The Proteomics Shared Resource provides investigators with proteomic technologies for basic and clinical research applications, including protein identification, quantification, sequencing, and profiling.                                                                                                                                                                                                                                                                                                                                                                                                   | [http://purl.obolibrary.org/obo/NCIT_C39412 (adapted)](http://purl.obolibrary.org/obo/NCIT_C39412)            | MIABIS-SERVICE-07                                                                 |
+| Metabolomics resource               | The Metabolomics Shared Resource provides investigators with metabolomics technologies for basic and clinical research applications, including the analysis of metabolites and small molecules.                                                                                                                                                                                                                                                                                                                                                                                                                | [http://purl.obolibrary.org/obo/NCIT_C39412 (adapted)](http://purl.obolibrary.org/obo/NCIT_C39412)            | MIABIS-SERVICE-07                                                                 |
+| Multi-OMICs/Integrative analysis    | The Multi-OMICs/Integrative Analysis Shared Resource provides investigators with multi-omics technologies for basic and clinical research applications, including combined analytical approaches that bridge multiple platforms.                                                                                                                                                                                                                                                                                                                                                                               | [http://purl.obolibrary.org/obo/NCIT_C39412 (adapted)](http://purl.obolibrary.org/obo/NCIT_C39412)            | MIABIS-SERVICE-07                                                                 |
+| Analytical biochemistry resource    | The Analytical Biochemistry Shared Resource provides chemistry services featuring mass spectrometry, chromatography and analytical biochemistry. It is a centre of expertise offering a comprehensive range of chemical and biochemical services.                                                                                                                                                                                                                                                                                                                                                              | http://purl.obolibrary.org/obo/NCIT_C39321 (adapted)                                                          | MIABIS-SERVICE-07                                                                 |
+| Pharmacology resource               | The Pharmacology Shared Resource provides investigators conducting preclinical and clinical studies with analytical and technical support in the areas of pharmacology, including sample handling and tracking, pharmacokinetic modelling, drug-drug interactions, pharmacodynamics, drug assays, in vitro toxicity assays, and molecular analysis of tumour tissue. The Resource also provides support with human safety issues, adverse reaction risk evaluation and management, and chemotherapy monitoring, as well as assistance with study design, optimal sampling techniques, and data interpretation. | http://purl.obolibrary.org/obo/NCIT_C39494                                                                    | MIABIS-SERVICE-07                                                                 |
+| Microscopy imaging resource         | The Microscopy Shared Resource provides researchers with counselling on the most appropriate microscopy method for a given project, as well as assistance with sample preparation, microscopy analysis, photographic and digital documentation of samples, and the analysis and interpretation of results. The Resource also helps researchers prepare presentation-quality images.                                                                                                                                                                                                                            | http://purl.obolibrary.org/obo/NCIT_C39394 & http://purl.obolibrary.org/obo/NCIT_C39376 (adapted)             | MIABIS-SERVICE-07                                                                 |
+| Experimental pathology resource     | The Experimental Pathology Shared Service provides Cancer Centre investigators with access to histotechnology and pathology services, including routine histological evaluation, enzyme histochemistry, immunohistochemistry, in situ hybridisation and autoradiography, to aid the diagnosis or characterisation of tissue sections obtained from animal models.                                                                                                                                                                                                                                              | http://purl.obolibrary.org/obo/NCIT_C39398 (adapted)                                                          | MIABIS-SERVICE-07                                                                 |
+| Cell culture resource               | The Cell Culture Shared Resource provides investigators with services and technical assistance in the development, maintenance and use of mammalian cell cultures, including basic support and cell propagation procedures. The resource also establishes primary cultures from human and animal tissue samples, provides consultation on experimental design and offers screening services and cell transformation. In addition, the Cell Culture Shared Resource provides cells, established cell lines, reagents and supplies.                                                                              | http://purl.obolibrary.org/obo/NCIT_C39375                                                                    | MIABIS-SERVICE-07                                                                 |
+| Microbiology/Virology resource      | The Microbiology/Virology Shared Resource provides support activities focused on microbial or viral agents for diagnostic, surveillance, research or therapeutic purposes. These activities are defined by the biological target organism, the methodological approach employed (e.g. culture, nucleic acid amplification, sequencing or immunoassay), the type of specimen analysed and the intended purpose, such as clinical diagnosis, outbreak monitoring or antimicrobial resistance assessment. All of these activities take place within a specified clinical, regulatory or biosafety context.        | ?                                                                                                             | MIABIS-SERVICE-07                                                                 |
+| Animal model resource               | The Laboratory Animal Shared Resource is responsible for supplying, using and husbanding laboratory animals, as well as selecting and developing experimental models for use in research programmes. The resource provides guidance on the most suitable techniques, strains and animal models for research protocols, and maintains a pathogen-free environment. It also conducts health surveillance, quarantine and full-panel testing, as well as genetic monitoring, for experimental animals. Advice on regulatory and legal issues is also provided.                                                    | http://purl.obolibrary.org/obo/NCIT_C39330                                                                    | MIABIS-SERVICE-07                                                                 |
+| 3D model development resource       | The 3D Model Shared Resource provides investigators with services and technical assistance in the development, maintenance and use of patient-derived 3D models. This includes basic support and propagation procedures for establishing primary cultures from human and animal tissue samples, as well as cell transformation and screening services. The Resource also provides consultation on experimental design and established 3D models, reagents and supplies.                                                                                                                                        | http://purl.obolibrary.org/obo/NCIT_C39332 (adapted)                                                          | MIABIS-SERVICE-07                                                                 |
+| Big data management resource        | The Data Compilation and Analysis Shared Resource provides investigators with the design and programming of relational databases for clinical, population and other large-scale studies. It also provides the development and supervision of sophisticated data communication and reporting systems, as well as software for analysing and interpreting data generated from clinical trials, population studies, microarray and proteomics technologies, and other types of translational research.                                                                                                            | http://purl.obolibrary.org/obo/NCIT_C39375                                                                    | MIABIS-SERVICE-07                                                                 |
+| Bioinformatics resource             | The Bioinformatics Shared Resource provides investigators with infrastructure and guidance for analysing genomic and microarray data, as well as for protein structure, molecular modelling, computational tools and database mining and development. The Shared Resource also provides training for the user community.                                                                                                                                                                                                                                                                                       | http://purl.obolibrary.org/obo/NCIT_C39330                                                                    | MIABIS-SERVICE-07                                                                 |
+| Biostatistics resource              | The Biostatistics Shared Resource works with investigators to define study/protocol objectives and endpoints, analyse pilot data, select an appropriate study design, blinding methods and randomisation scheme, plan interim analyses, define an adequate sample size and accrual rate, develop and evaluate the statistical methods and analyse data, prepare statistical sections of the grant and protocol applications, analyse and design relational databases, forms and reports.                                                                                                                       | http://purl.obolibrary.org/obo/NCIT_C39332                                                                    | MIABIS-SERVICE-07                                                                 |
+| Study design                        | The study design service establishes the conceptual framework, methodological approach and analytical plan for answering a research question. Based on the research hypothesis and the available subjects, populations and samples, it outlines how the study will examine the phenomenon of interest, including governance, timelines, logistics and the necessary resources, such as technology, infrastructure and collaborative support.                                                                                                                                                                   | http://purl.obolibrary.org/obo/NCIT_C15320                                                                    | MIABIS-SERVICE-07                                                                 |
+| Study ELSI management               | The study ELSI management refers to the documentation and oversight of the ethical, legal, and social aspects of the study, including obtaining and documenting the required approvals such as the ethics and data protection votes; and implementing and recording the informed consent process through appropriate informed consent documents, including written, signed, and dated consent forms. When applicable, this involves the assent and involvement of legally authorised representatives.                                                                                                          | http://purl.obolibrary.org/obo/NCIT_C115780 (adapted) + http://purl.obolibrary.org/obo/NCIT_C184390 (adapted) | MIABIS-SERVICE-07                                                                 |
+| Study protocol development          | The study protocol development translates the chosen design into detailed procedural and regulatory components, defining the experimental research protocol. This includes the content and form of the protocol, the sample size, issues related to patient safety, and cost estimates to aid budget development.                                                                                                                                                                                                                                                                                              | [http://purl.obolibrary.org/obo/NCIT_C39499 (adapted)](http://purl.obolibrary.org/obo/NCIT_C39499)            | MIABIS-SERVICE-07                                                                 |
+| Lab protocol training               | Training in lab protocols for staff including a record that verify completion of a specific lab protocol training for the primary investigator of a study and their staff.                                                                                                                                                                                                                                                                                                                                                                                                                                     | http://purl.obolibrary.org/obo/NCIT_C115674 (adapted)                                                         | MIABIS-SERVICE-07                                                                 |
+| Informed consent management         | The service by which informed consent is obtained and documented by means of a written, signed, and dated informed consent form. This process may include obtaining assent from subjects with legally authorized representatives (informed consent process).                                                                                                                                                                                                                                                                                                                                                   | http://purl.obolibrary.org/obo/NCIT_C184390 (adapted)                                                         | MIABIS-SERVICE-07                                                                 |
+| Industry collaboration              | A service to support collaboration with industry, usually in the pharmaceutical sector, for research purposes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | http://purl.obolibrary.org/obo/NCIT_C19468 (adapted)                                                          | MIABIS-SERVICE-07                                                                 |
+| Other service type                  | Other services                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                               | MIABIS-SERVICE-07                                                                 |
+
 #### Sex
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
 | Male | male | | MIABIS-COLLECTION-08, MIABIS-RESEARCHRESOURCE-08, MIABIS-SAMPLEDONOR-02 | 
 | Female| female | | MIABIS-COLLECTION-08, MIABIS-RESEARCHRESOURCE-08, MIABIS-SAMPLEDONOR-02 |
@@ -260,7 +299,7 @@ Network
 | Not applicable | The samples have no applicable sex (to enable description of non-human samples) | | MIABIS-COLLECTION-08, MIABIS-RESEARCHRESOURCE-08, MIABIS-SAMPLEDONOR-02 |
 
 #### Storage Temperature
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
 | RT | Room temperature| SPREC V4.0 | MIABIS-SAMPLE-02 |
 | 2 °C to 10°C | between 2 °C and 10 °C | SPREC V4.0 | MIABIS-SAMPLE-02 | 
@@ -271,7 +310,7 @@ Network
 | Other | any other temperature or long time storage information| SPREC V4.0 | MIABIS-SAMPLE-02 | 
 
 #### Use and Access Condition
-| Attribute Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
 | Commercial use | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
 | Collaboration | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
