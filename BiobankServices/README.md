@@ -26,5 +26,5 @@ Resulting data describing the Biobanking and Biomolecular Services Component [LI
  - ISIDORe: Integrated Services for Infectious Disease Outbreak Research
  - GBN: German Biobank Network
  - BBMRI.PL: the Polish Biobanking Network
- - BBMRI.IT: the Italian Biobanking Network) marketplace 
+ - BBMRI.IT: the Italian Biobanking Network
  - The MIABIS Working Group
