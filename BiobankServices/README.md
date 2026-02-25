@@ -1,13 +1,9 @@
-# Scope of the MIABIS Biobank Services
-
-This project aims to address the evolving needs of researchers and biobanks by proposing enhancements to the MIABIS (Minimum Information About BIobank data Sharing) Core model. The transition from MIABIS Core v2 to v3 revealed a growing demand for detailed information on biobank capabilities and services, necessitating a reevaluation of data structure and communication methods between biobanks and researchers.
+# Scope of the MIABIS Biobanking and Biomolecular Services
 
 ## Motivation
-
-With the upgrade to MIABIS Core v3, there's a heightened focus on accommodating researchers' requirements for comprehensive information on biobanks' capabilities and services. Collaborative projects such as canSERV, ISIDORe, and GBA are integrating scientific service data within the biomedical domain, indicating a need for domain-specific extensions in future MIABIS iterations. To facilitate effective communication between biobanks and researchers, a Working Group is proposed to address these challenges.
+As the needs of researchers evolve, so must MIABIS. The transition from MIABIS Core v2 to v3 revealed a clear demand for richer, more structured information about biobank capabilities and biomolecular services. In order to connect researchers with the right resources more effectively, MIABIS must expand beyond core sample metadata to include detailed, domain-specific scientific service data. This project paves the way for future domain-specific extensions to the MIABIS framework.
 
 ## Objective & Scope
-
 The following suggestions outline the initial scope of the proposed changes, subject to refinement during implementation:
 
 * Enhanced Attribute Structure: Additional attributes are proposed to provide detailed information on biobank capabilities and services. This may involve introducing a new entity parallel to the existing "collection" entity, along with a one-to-many relation table extracted from the biobank base.
@@ -16,3 +12,19 @@ The following suggestions outline the initial scope of the proposed changes, sub
 
 By addressing these suggestions, the proposed changes aim to foster improved communication and collaboration between biobanks and researchers within the MIABIS framework.
 
+## Methodology
+ 1. Collection and harmonisation of existing project and network requirements.
+ 2. Discussions with domain experts and different stakeholders (biobanks, core facilities, researchers) within the MIABIS working group.
+ 3. Survey of the resulting proposal with use case representatives.
+ 4. Analysis and consolidation of the survey results within the MIABIS Operations group.
+
+## Resulting 
+Resulting data describing the Biobanking and Biomolecular Services Component [LINK]
+
+## Collaborative Projects and Networks
+ - canSERV: Cutting-Edge Cancer Research Services Across Europe
+ - ISIDORe: Integrated Services for Infectious Disease Outbreak Research
+ - GBN: German Biobank Network
+ - BBMRI.PL: the Polish Biobanking Network
+ - BBMRI.IT: the Italian Biobanking Network
+ - The MIABIS Working Group
