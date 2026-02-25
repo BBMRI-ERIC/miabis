@@ -40,20 +40,20 @@ Service
 | Gestational weeks | | | MIABIS-COLLECTION-11, MIABIS-COLLECTION-12, MIABIS-RESEARCHRESOURCE-09, MIABIS-RESEARCHRESOURCE-10 |
 
 #### ~~Bioprocessing and Analytical Capabilities~~
-~~| Value Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Biochemical analyses | The biobank can offer to clients the following bioprocessing/analytical service: Biochemical analyses | | MIABIS-BIOBANK-11 |
-| Genomics | The biobank can offer to clients the following bioprocessing/analytical service: Genomics | | MIABIS-BIOBANK-11 |
-| Nucleic acid extraction | The biobank can offer to clients the following bioprocessing/analytical service: Nucleic acid extraction | | MIABIS-BIOBANK-11 |
-| Proteomics | The biobank can offer to clients the following bioprocessing/analytical service: Proteomics | | MIABIS-BIOBANK-11 |
-| Metabolomics | The biobank can offer to clients the following bioprocessing/analytical service: Metabolomics | | MIABIS-BIOBANK-11 |
-| Histology | The biobank can offer to clients the following bioprocessing/analytical service: Histology | | MIABIS-BIOBANK-11 |
-| Cell-lines processing | The biobank can offer to clients the following bioprocessing/analytical service: Cell-lines processing | | MIABIS-BIOBANK-11 |
-| Virology | The biobank can offer to clients the following bioprocessing/analytical service: Virology | | MIABIS-BIOBANK-11 |
-| Sample processing | The biobank can offer to clients the following bioprocessing/analytical service: Sample processing | | MIABIS-BIOBANK-11 | 
-| Sample shipping | The biobank can offer to clients the following bioprocessing/analytical service: Sample shipping | | MIABIS-BIOBANK-11 |
-| Sample quality control services | The biobank can offer to clients the following bioprocessing/analytical service: Sample quality control services | | MIABIS-BIOBANK-11 |
-| Other | The biobank can offer to clients the following bioprocessing/analytical service: Other services | | MIABIS-BIOBANK-11 |~~
+| ~~Biochemical analyses~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Biochemical analyses~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Genomics~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Genomics~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Nucleic acid extraction~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Nucleic acid extraction~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Proteomics~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Proteomics~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Metabolomics~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Metabolomics~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Histology~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Histology~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Cell-lines processing~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Cell-lines processing~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Virology~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Virology~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Sample processing~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Sample processing~~ | | ~~MIABIS-BIOBANK-11~~ | 
+| ~~Sample shipping~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Sample shipping~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Sample quality control services~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Sample quality control services~~ | | ~~MIABIS-BIOBANK-11~~ |
+| ~~Other~~ | ~~The biobank can offer to clients the following bioprocessing/analytical service: Other services~~ | | ~~MIABIS-BIOBANK-11~~ |
 
 #### Collection Design
 | Value Name | Definition | Source [Link] | Attribute Codes |
@@ -127,12 +127,12 @@ Service
 | Other | | | MIABIS-COLLECTION-22, MIABIS-RESEARCHRESOURCE-22 | 
 
 #### ~~Infrastructural Capabilities~~
-~~| Value Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Sample storage | The biobank can offer clients sample storage services. | | MIABIS-BIOBANK-09 |
-| Data storage | The biobank can offer clients data storage services. | | MIABIS-BIOBANK-09 |
-| Biosafety abilities | The biobank has biosafety abilities to offer to clients. | | MIABIS-BIOBANK-09 |
-| Other | The biobank has other abilities to offer to clients. | | MIABIS-BIOBANK-09 |~~
+| ~~Sample storage~~ | ~~The biobank can offer clients sample storage services.~~ | | ~~MIABIS-BIOBANK-09~~ |
+| ~~Data storage~~ | ~~The biobank can offer clients data storage services.~~ | | ~~MIABIS-BIOBANK-09~~ |
+| ~~Biosafety abilities~~ | ~~The biobank has biosafety abilities to offer to clients.~~ | | ~~MIABIS-BIOBANK-09~~ |
+| ~~Other~~ | ~~The biobank has other abilities to offer to clients.~~ | | ~~MIABIS-BIOBANK-09~~ |
 
 #### Network Type
 | Value Name | Definition | Source [Link] | Attribute Codes |
@@ -146,18 +146,18 @@ Service
 | Other | Other type of network/collaboration | | MIABIS-NETWORK-12 |
 
 #### ~~Organisational Capabilities~~
-~~| Value Name | Definition | Source [Link] | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 |---|---|---|---|
-| Recontact with donors | The biobank can provide the following service to support clients: Recontact with donors | | MIABIS-BIOBANK-10 |
-| Facilitating clinical trials | The biobank can provide the following service to support clients: Facilitating clinical trials | | MIABIS-BIOBANK-10 |
-| Setting up prospective collections | The biobank can provide the following service to support clients: Setting up prospective collections | | MIABIS-BIOBANK-10 |
-| Access to omics data | The biobank can provide the following service to support clients: Access to omics data | | MIABIS-BIOBANK-10 |
-| Access to laboratory analysis data | The biobank can provide the following service to support clients: Access to laboratory analysis data | | MIABIS-BIOBANK-10 |
-| Access to donor's clinical data | The biobank can provide the following service to support clients: Access to donor's clinical data | | MIABIS-BIOBANK-10 |
-| Access to pathology archive | The biobank can provide the following service to support clients: Access to pathology archive | | MIABIS-BIOBANK-10 |
-| Access to radiology archive | The biobank can provide the following service to support clients: Access to radiology archive | | MIABIS-BIOBANK-10 |
-| Access to national medical registries | The biobank can provide the following service to support clients: Access to national medical registries | | MIABIS-BIOBANK-10 |
-| Other | The biobank can provide the following service to support clients: Other | | MIABIS-BIOBANK-10 |~~
+| ~~Recontact with donors~~ | ~~The biobank can provide the following service to support clients: Recontact with donors~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Facilitating clinical trials~~ | ~~The biobank can provide the following service to support clients: Facilitating clinical trials~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Setting up prospective collections~~ | ~~The biobank can provide the following service to support clients: Setting up prospective collections~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Access to omics data~~ | ~~The biobank can provide the following service to support clients: Access to omics data~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Access to laboratory analysis data~~ | ~~The biobank can provide the following service to support clients: Access to laboratory analysis data~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Access to donor's clinical data~~ | ~~The biobank can provide the following service to support clients: Access to donor's clinical data~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Access to pathology archive~~ | ~~The biobank can provide the following service to support clients: Access to pathology archive~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Access to radiology archive~~ | ~~The biobank can provide the following service to support clients: Access to radiology archive~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Access to national medical registries~~ | ~~The biobank can provide the following service to support clients: Access to national medical registries~~ | | ~~MIABIS-BIOBANK-10~~ |
+| ~~Other~~ | ~~The biobank can provide the following service to support clients: Other~~ | | ~~MIABIS-BIOBANK-10~~ |
 
 #### Quality Management Standard
 | Value Name | Definition | Source [Link] | Attribute Codes |
