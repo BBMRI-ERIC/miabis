@@ -1,4 +1,6 @@
-### All lists
+# Value Lists
+
+* [Age Unit](Age%20Unit.md)
 
 Sample
 * [Sample Type](#sample-type)
@@ -29,15 +31,6 @@ Network
 Service
 * [Service type](#service-type)
 
-***
-#### Age Unit
-| Value Name | Definition | Source [Link] | Attribute Codes |
-|---|---|---|---|
-| Years | | | MIABIS-COLLECTION-11, MIABIS-COLLECTION-12, MIABIS-RESEARCHRESOURCE-09, MIABIS-RESEARCHRESOURCE-10 |
-| Months | | | MIABIS-COLLECTION-11, MIABIS-COLLECTION-12, MIABIS-RESEARCHRESOURCE-09, MIABIS-RESEARCHRESOURCE-10 |
-| Weeks | | | MIABIS-COLLECTION-11, MIABIS-COLLECTION-12, MIABIS-RESEARCHRESOURCE-09, MIABIS-RESEARCHRESOURCE-10 |
-| Days | | | MIABIS-COLLECTION-11, MIABIS-COLLECTION-12, MIABIS-RESEARCHRESOURCE-09, MIABIS-RESEARCHRESOURCE-10 |
-| Gestational weeks | | | MIABIS-COLLECTION-11, MIABIS-COLLECTION-12, MIABIS-RESEARCHRESOURCE-09, MIABIS-RESEARCHRESOURCE-10 |
 
 #### ~~Bioprocessing and Analytical Capabilities~~
 | Value Name | Definition | Source [Link] | Attribute Codes |
