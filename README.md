@@ -39,9 +39,9 @@ Data describing Digital Pathology ([DigitalPathology/README.md](https://github.c
 * [all lists](https://github.com/BBMRI-ERIC/miabis/blob/master/all%20lists.md)
 
 ## MIABIS overview
-This MIABIS overview represents where the different MIABIS components sit in relation to each other.
+The MIABIS entity-relationship diagram represents where the different MIABIS components sit in relation to each other.
 
-![image](2025%20ERD%20MIABIS%20general.png)
+![image](assets/ERD.png)
 
 
 ### Product Owners 
