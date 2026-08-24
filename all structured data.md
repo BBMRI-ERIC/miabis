@@ -51,14 +51,13 @@ Structured data is a set of attributes that are grouped together and used to des
 
 ## Technology
 
-| Attribute Code        | Attribute Name              | Description                                                                               | Data type | Allowed Values | Constraints | Cardinality | Belongs to Entity   |  |
-| --------------------- | --------------------------- | ----------------------------------------------------------------------------------------- | --------- | -------------- | ----------- | ----------- | ------------------- |  |
-| MIABIS-SERVICES-08-01 | Technology name             | Name of the applied measuring technique/assay.                                            | String    |                |             | 0..1        | Collection, Service |  |
-| MIABIS-SERVICES-08-01 | Technology description      | Text description of the applied measuring technique/assay.                                | String    |                |             | 0..1        | Collection, Service |  |
-| MIABIS-SERVICES-08-01 | Technology provider         | Name of the vendor whose measuring technique/assay was applied in creating the dataset    | String    |                |             | 0..1        | Collection, Service |  |
-| MIABIS-SERVICES-08-01 | Technology device           | The vendor-stated name of the measuring device or platform applied to measure/derive data | String    |                |             | 0..1        | Collection, Service |  |
-| MIABIS-SERVICES-08-01 | Technology software name    | Software/firmware name of the measuring device applied                                    | String    |                |             | 0..1        | Collection, Service |  |
-| MIABIS-SERVICES-08-01 | Technology software version | Software/firmware and version of the measuring device applied                             | String    |                |             | 0..1        | Collection, Service |  |
-
+| Attribute Code        | Attribute Name              | Description                                                                               | Data type | Allowed Values | Constraints | Cardinality | Belongs to Entity   |
+| --------------------- | --------------------------- | ----------------------------------------------------------------------------------------- | --------- | -------------- | ----------- | ----------- | ------------------- |
+| MIABIS-SERVICES-08-01 | Technology name             | Name of the applied measuring technique/assay.                                            | String    |                |             | 0..1        | Collection, Service |
+| MIABIS-SERVICES-08-01 | Technology description      | Text description of the applied measuring technique/assay.                                | String    |                |             | 0..1        | Collection, Service |
+| MIABIS-SERVICES-08-01 | Technology provider         | Name of the vendor whose measuring technique/assay was applied in creating the dataset    | String    |                |             | 0..1        | Collection, Service |
+| MIABIS-SERVICES-08-01 | Technology device           | The vendor-stated name of the measuring device or platform applied to measure/derive data | String    |                |             | 0..1        | Collection, Service |
+| MIABIS-SERVICES-08-01 | Technology software name    | Software/firmware name of the measuring device applied                                    | String    |                |             | 0..1        | Collection, Service |
+| MIABIS-SERVICES-08-01 | Technology software version | Software/firmware and version of the measuring device applied                             | String    |                |             | 0..1        | Collection, Service |
 
 
