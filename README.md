@@ -1,12 +1,28 @@
 # MIABIS: Minimum Information About BIobank data Sharing
 
-Welcome to MIABIS, the Minimum Information About Biobank data Sharing initiative! MIABIS is dedicated to standardising data elements used to describe biobanks, research on samples, and associated data. Our goal is to enhance interoperability among biobanks sharing their valuable data and samples.
+Welcome to MIABIS, the Minimum Information About Biobank data Sharing initiative! MIABIS is dedicated to standardising the data used to describe biobanks, research on samples, and associated data. Our goal is to enhance interoperability among biobanks sharing their valuable data and samples.
 
-MIABIS Core 2.0, established by [Merino-Martinez et al. in 2016](https://www.liebertpub.com/doi/abs/10.1089/bio.2015.0070), defined general attributes at an aggregated/metadata level for describing biobanks, sample collections, and (research) studies. Building upon this foundation, new MIABIS components have been approved by BBMRI-ERIC to describe samples and sample donors at the individual level ([Eklund et al., 2020](https://doi.org/10.1089/bio.2019.0129)). MIABIS Core was updated to version 3.0 by [Eklund et al. in 2024](https://www.liebertpub.com/doi/full/10.1089/bio.2023.0074) including minimal information describing biobanks, (sample and data) collections, research resources (previously called studies) and networks – on aggregate level.
+MIABIS 2.0, established by [Merino-Martinez et al. in 2016](https://www.liebertpub.com/doi/abs/10.1089/bio.2015.0070), defined general attributes at an aggregated level for describing biobanks, sample collections, and (research) studies. Building upon this foundation, new MIABIS components have been added to describe samples and sample donors at the individual level ([Eklund et al., 2020](https://doi.org/10.1089/bio.2019.0129)). 
 
-The MIABIS governance model, established by BBMRI-ERIC in 2016, organizes the work on definitions into focused components, each with a predefined scope based on specific use cases and involving working groups with participants from BBMRI-ERIC National Nodes and domain experts. The final approval of MIABIS components and entities rests with the BBMRI-ERIC Management Committee.
+MIABIS was updated to version 3.0 by [Eklund et al. in 2024](https://www.liebertpub.com/doi/full/10.1089/bio.2023.0074) including minimal information describing biobanks, (sample and data) collections, research resources (previously called studies) and networks – on an aggregate level.
 
-The MIABIS data standard is constantly being updated. Please feel free, to join our work and get into contact via <miabis@lists.bbmri-eric.eu>. If you have any issues, you would like the MIABIS team to consider, please submit them as an **ISSUE** to this GitHub page.
+The MIABIS standard is constantly evolving and we welcome your feedback. Please feel free to join our work and get in touch via our mailing list at <miabis@lists.bbmri-eric.eu>. If you have any issues you would like the MIABIS team to consider, please submit them through [this Github repository](https://github.com/BBMRI-ERIC/miabis/issues).
+
+## COMPONENTS
+
+Explain about components. Add diagram.
+
+The MIABIS entity-relationship diagram represents where the different MIABIS components sit in relation to each other.
+
+![image](assets/ERD.png)
+
+### Structured Attributes
+
+Sub-header too much?
+
+### Value Lists
+
+Sub-header too much?
 
 ## MIABIS Core
 
@@ -43,15 +59,9 @@ Data describing Digital Pathology ([DigitalPathology/README.md](https://github.c
 * [all structured data](https://github.com/BBMRI-ERIC/miabis/blob/8deeead2e8e5c8c3faa42761db2939d523be21e3/all%20structured%20data.md)
 * [all lists](https://github.com/BBMRI-ERIC/miabis/blob/master/all%20lists.md)
 
-## MIABIS overview
+## GOVERNANCE/ABOUT
 
-The MIABIS entity-relationship diagram represents where the different MIABIS components sit in relation to each other.
-
-![image](assets/ERD.png)
-
-### Product Owners
-
-The MIABIS standard is constantly evolving and we welcome your feedback. You can reach us at the collective email address <miabis@lists.bbmri-eric.eu>. - If you have specific questions, please directly address the following responsibles.
+The MIABIS governance model, established by BBMRI-ERIC in 2016, organizes the work on definitions into focused components, each with a predefined scope based on specific use cases and involving working groups with participants from BBMRI-ERIC National Nodes and domain experts. The final approval of MIABIS components and entities rests with the BBMRI-ERIC Management Committee. Responsibility for specific components rests with the product owners:
 
 * MIABIS in general - Niina Eklund (and Cäcilia Engels)
 * Core - Cäcilia Engels
@@ -61,19 +71,17 @@ The MIABIS standard is constantly evolving and we welcome your feedback. You can
 * Biobank Services - Andrzej Strug
 * Data models and implementations - Michael Neumann
 
-## MIABIS Use Cases & Implementations
+## Use Cases
 
 * BBMRI-ERIC Directory <https://directory.bbmri-eric.eu/>
 * BBMRI-ERIC Federated Search <https://locator.bbmri-eric.eu/>
 * GBN Sample Locator <https://samplelocator.bbmri.de/>
 
-### Machine readable implementations
+## Machine-Readable Implementations
 
 * [DICOM-MIABIS integration model for biobanks by Scapicchio et al., 2021](https://eurradiolexp.springeropen.com/articles/10.1186/s41747-021-00214-4)
   
 * [OpenSpecimen MIABIS v3 integration](https://github.com/BiobankCy/MIABIS_v3_OpenSpecimen_Integration)
-
-* [Database implementation](./Core/V2/Database-implementation.md)
 
 * [FHIRised MIABIS](https://simplifier.net/miabis/~resources?category=Profile) or on GitHub: <https://github.com/BBMRI-cz/miabis-on-fhir>
 
