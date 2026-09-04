@@ -14,11 +14,12 @@ MIABIS is made up of different components, modelling a different biobanking-rela
 
 ![image](assets/ERD.png)
 
-The four attributes in the top part of the diagram, Network, Biobank, Collection, and Research Resource, form the basis of MIABIS, the so-called Core. Building on this core are the other components, which apply to both the aggregate-level (e.g. Dataset Types) and the individual level (e.g. Sample). 
+The four attributes in the top part of the diagram, Network, Biobank, Collection, and Research Resource, form the basis of MIABIS, the so-called Core. Building on this core are the other components, which apply to both the aggregate-level (e.g. Dataset Types) and the individual level (e.g. Sample).
 
 In addition to components and attributes, there are also structured data and value lists. Structured data are groups of attributes which are used across different entities and allow for a more detailed description of specific aspects of an entity, e.g. contact information or a disease. Value lists are used to constrain the possible values for certain attributes, e.g. to provide a pre-defined set of sample types or storage temperatures when describing a sample.
 
 ### Components
+
 The MIABIS Core consists of four components: [Biobank](Core/Biobank.md), [Collection](Core/Collection.md), [Network](Core/Network.md), and [Research Resource](Core/Research%20Resource.md). On top of this, there is an aggregate-level component [Services](Services/Services.md), which describes services offered by biobanks. For imaging (DICOM-MIABIS), three Digital Pathology components have been developed: [Assay](Digital%20Pathology/Assay.md), [File](Digital%20Pathology/File.md), and [Scan](Digital%20Pathology/Scan.md).
 
 On the individual level...
