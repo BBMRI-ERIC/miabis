@@ -43,8 +43,6 @@ Sub-header too much? List all of them or not?
 
 Sub-header too much? List all of them or not?
 
-## All attributes, structured data and lists
-
 ## Governance
 
 The MIABIS governance model, established by BBMRI-ERIC in 2016, organizes the work on definitions into focused components, each with a predefined scope based on specific use cases and involving working groups with participants from BBMRI-ERIC National Nodes and domain experts. The final approval of MIABIS components and entities rests with the BBMRI-ERIC Management Committee. Responsibility for specific components rests with the product owners:
