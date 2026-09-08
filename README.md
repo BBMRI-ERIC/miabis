@@ -20,7 +20,7 @@ In addition to components and attributes, there are also structured data and val
 
 ### Components
 
-The MIABIS Core consists of four components: [Biobank](Core/Biobank.md), [Collection](Core/Collection.md), [Network](Core/Network.md), and [Research Resource](Core/Research%20Resource.md). On top of this, there is an aggregate-level component [Services](Services/Services.md), which describes services offered by biobanks. For imaging (DICOM-MIABIS), three Digital Pathology components have been developed: [Assay](Digital%20Pathology/Assay.md), [File](Digital%20Pathology/File.md), and [Scan](Digital%20Pathology/Scan.md).
+The MIABIS Core consists of four components: [Biobank](Core/Biobank.md), [Collection](Core/Collection.md), [Network](Core/Network.md), and [Research Resource](Core/Research%20Resource.md). On top of this, there is an aggregate-level component [Services](Services/Services.md), which describes services offered by biobanks. For imaging, three Digital Pathology components have been developed: [Assay](Digital%20Pathology/Assay.md), [File](Digital%20Pathology/File.md), and [Scan](Digital%20Pathology/Scan.md).
 
 On the individual level there are components describing [Samples](Individual/Sample.md), [Sample Donors](Individual/Sample%20Donor.md), and [Events](Individual/Event.md), which enhance the ability to perform sophisticated queries.
 
