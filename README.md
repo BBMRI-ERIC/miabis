@@ -28,13 +28,16 @@ On the individual level there are components describing [Samples](Individual/Sam
 
 The MIABIS governance model, established by BBMRI-ERIC in 2016, organizes the work on definitions into focused components, each with a predefined scope based on specific use cases and involving working groups with participants from BBMRI-ERIC National Nodes and domain experts. The final approval of MIABIS components and entities rests with the BBMRI-ERIC Management Committee. Responsibility for specific components rests with the product owners:
 
-* MIABIS in general - Niina Eklund (and Cäcilia Engels)
-* Core - Cäcilia Engels
-* Sample, Donor and Event - Niina Eklund
-* Dataset Types - Gabi Anton (with: Omics - Kaisa Silander; Imaging - Heimo Müller)
-* Digital Pathology - Heimo Müller
-* Biobank Services - Andrzej Strug
-* Data models and implementations - Michael Neumann
+* MIABIS in general - Cäcilia Engels (DE)
+* Core - Cäcilia Engels (DE)
+* Sample, Donor and Event - (Niina Eklund (FI)), Cäcilia Engels (DE)
+* Dataset Types - Gabi Anton (DE)
+* Digital Pathology - Heimo Müller (AT)
+* Biobank Services - (Andrzej Strug (PL)), Cäcilia Engels (DE)
+* Data models and implementations - Michael Neumann (DE), Hessel Haagsma (NL)
+* Mouse models - Bella Binoy (NL)
+* Ontologisation - Valia Kalokyri (GR)
+* OMOP alignment - Francesca Frexia (IT)
 
 ## Use Cases
 
