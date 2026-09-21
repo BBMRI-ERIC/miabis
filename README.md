@@ -54,3 +54,7 @@ The MIABIS governance model, established by BBMRI-ERIC in 2016, organizes the wo
 * [FHIRised MIABIS](https://simplifier.net/miabis/~resources?category=Profile) or on GitHub: <https://github.com/BBMRI-cz/miabis-on-fhir>
 
 * [Medical Informatics Initiative Germany: FHIR Core Data Set Modul Biobank/Biosample](https://simplifier.net/medizininformatikinitiative-modulbiobank)
+
+## Licence
+
+The MIABIS terminology, documentation, and implementation resources are publicly available via this GitHub repository and are distributed under the Creative Commons Attribution–NoDerivatives (CC BY-ND) 4.0 licence.
