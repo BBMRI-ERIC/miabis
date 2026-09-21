@@ -41,5 +41,5 @@ Sample
 
 Sample Donor
 
-- "Sex" -> aligned value list aligned with Core V3
-- "Dataset Type" list -> aligned with Core V3
+- "Sex" -> aligned value set aligned with Core V3
+- "Dataset Type" -> aligned value set with Core V3

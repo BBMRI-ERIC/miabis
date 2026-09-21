@@ -1,6 +1,6 @@
-# Value Lists
+# Value Sets
 
-Value lists are lists of the possible/allowed values for a specific MIABIS attribute or attributes. For example, [Age Unit](Age%20Unit.md) contains the possible values for the age unit attributes of collections and research resources. Below is an overview of all value lists in MIABIS. Each list contains all values, their definitions, sources, and the attributes which use them.
+Value sets are lists of the possible/allowed values for a specific MIABIS attribute or attributes. For example, [Age Unit](Age%20Unit.md) contains the possible values for the age unit attributes of collections and research resources. Below is an overview of all value sets in MIABIS. Each list contains all values, their definitions, sources, and the attributes which use them.
 
 * [Age Unit](Age%20Unit.md)
 * [Collection Design](Collection%20Design.md)
