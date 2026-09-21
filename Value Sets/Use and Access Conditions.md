@@ -1,0 +1,12 @@
+# Use and Access Condition
+
+| Value Name | Definition | Source [Link] | Attribute Codes |
+| --- | --- | --- | --- |
+| Commercial use | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
+| Collaboration | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
+| Specific research use | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
+| Genetic data use | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
+| Outside EU access | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
+| Xenograft | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
+| Other animal work | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
+| Other | | | MIABIS-COLLECTION-19, MIABIS-RESEARCHRESOURCE-19 |
