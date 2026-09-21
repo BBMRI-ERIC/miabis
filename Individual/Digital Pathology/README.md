@@ -21,7 +21,7 @@ The fields of medicine and pathology are increasingly relying on Digital Patholo
 - [Assay Attributes](https://github.com/BBMRI-ERIC/miabis/blob/master/DigitalPathology/Data-describing-DigitalPathology-Assay.md): Attributes related to the container, hierarchy of mounted specimens and processing details.
 - [Scan Attributes](https://github.com/BBMRI-ERIC/miabis/blob/master/DigitalPathology/Data-describing-DigitalPathology-Scan.md): Attributes descriptive of the scanning process.
 - [File Attributes](https://github.com/BBMRI-ERIC/miabis/blob/master/DigitalPathology/Data-describing_DigitalPathology-File.md): Attributes descriptive of the file format.
-- Donor and Sample Attributes: Attributes related to the patient, study, and series, primarily including elements from the MIABIS sample and donor components.
+- Donor and Sample Attributes: Attributes related to the patient, study, and series, primarily including elements from the MIABIS Sample and Donor entities.
 - Segmentation / Annotation Attributes (planned)
 
 ## Partners and Liaisons

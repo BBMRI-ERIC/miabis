@@ -1,6 +1,6 @@
 # Definition
 
-The Biobanking and Biomolecular entity, with its specific attributes, enables a generic service to be assigned to an organisation, while also allowing for the detailed description of contact information, service type, technology used, and access description.
+The Biobanking and Biomolecular Services entity, with its specific attributes, enables a generic service to be assigned to an organisation, while also allowing for the detailed description of contact information, service type, technology used, and access description.
 
 | Attribute Code | Attribute Name | Description | Data Type | Allowed Values | Constraints | Cardinality |
 | --- | --- | --- | --- | --- | --- | --- |

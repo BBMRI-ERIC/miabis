@@ -1,6 +1,6 @@
 # Definition
 
-Introduced in 2020 ([Eklund et al., 2020](https://www.liebertpub.com/doi/10.1089/bio.2019.0129)), the component **Sample** is a portion or quantity of biological material that is collected from a sample donor, or a digital representation of a biological entity of the sample donor, such as an image.
+Introduced in 2020 ([Eklund et al., 2020](https://www.liebertpub.com/doi/10.1089/bio.2019.0129)), the entity **Sample** is a portion or quantity of biological material that is collected from a sample donor, or a digital representation of a biological entity of the sample donor, such as an image.
 
 | Attribute Code | Attribute Name | Description | Data type | Allowed values | Constraints | Cardinality |
 | --- | --- | --- | --- | --- | --- | --- |

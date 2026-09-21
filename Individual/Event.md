@@ -1,6 +1,6 @@
 # Definition
 
-Introduced in 2020 ([Eklund et al., 2020](https://www.liebertpub.com/doi/10.1089/bio.2019.0129)), the component **Event** is a generic template that represents something that happens in a given place and time and is related to the sample and/or sample donor.
+Introduced in 2020 ([Eklund et al., 2020](https://www.liebertpub.com/doi/10.1089/bio.2019.0129)), the entity **Event** is a generic template that represents something that happens in a given place and time and is related to the sample and/or sample donor.
 
 | Attribute Code | Attribute Name | Allowed Values | Description | Constraints | Cardinality |
 | --- | --- | --- | --- | --- | --- |
