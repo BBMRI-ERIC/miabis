@@ -23,7 +23,7 @@ By addressing these suggestions, the proposed changes aim to foster improved com
 
 ## Resulting
 
-Resulting data describing the [Biobanking and Biomolecular Services Component](https://github.com/BBMRI-ERIC/miabis/blob/master/BiobankServices/Data-describing-BiobankingBiomolecularServices.md)
+Resulting data describing the [Biobanking and Biomolecular Services Component](./Services.md).
 
 ## Collaborative Projects and Networks
 

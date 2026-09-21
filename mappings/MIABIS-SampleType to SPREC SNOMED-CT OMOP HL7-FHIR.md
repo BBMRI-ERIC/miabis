@@ -17,7 +17,7 @@ You can convert the markdown to a CSV file and load it into your application or 
 
 This mapping covers all MIABIS sample types, but only a subset of the mapped other specifications. For full coverage, refer to the official:
 
-- **SPREC** V3.0 and V4.0 <https://www.liebertpub.com/doi/10.1089/bio.2024.0010>
+- **SPREC** V3.0 and V4.0 <https://doi.org/10.1089/bio.2024.0010>
 - **SNOMED CT** <https://browser.ihtsdotools.org/?perspective=full&conceptId1=123038009&edition=MAIN/2023-09-01&release=&languages=en>
 - **OMOP** <https://athena.ohdsi.org/search-terms/terms>
 - **HL7 FHIR** <https://terminology.hl7.org/3.1.0/CodeSystem-v2-0487.html>

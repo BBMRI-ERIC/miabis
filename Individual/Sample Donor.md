@@ -4,7 +4,7 @@ In current version the sample donor entity is aimed to describe human sample don
 
 ## Definition
 
-Introduced in 2020 ([Eklund et al., 2020](https://www.liebertpub.com/doi/10.1089/bio.2019.0129)), the entity **Sample donor** is a person who is a source of either a biological material or a digital representation of a biological entity such as an image.
+Introduced in 2020 ([Eklund et al., 2020](https://doi.org/10.1089/bio.2019.0129)), the entity **Sample donor** is a person who is a source of either a biological material or a digital representation of a biological entity such as an image.
 
 ## Attribute table for Sample donor
 

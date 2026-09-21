@@ -2,13 +2,13 @@
 
 To support migration from the [bbmri.de FHIR profile](https://simplifier.net/bbmri.de/~resources?category=Profile) to the new [FHIRised MIABIS](https://fhir.miabis.bbmri-eric.eu/) we propose the following mapping from MIABIS to bbmri.de
 
-* [Sample (Specimen Resource)](https://github.com/BBMRI-ERIC/miabis/blob/master/mappings/bbmri.de.md#samplespecimen)
-* [Sample Type (Specimen Resource)](https://github.com/BBMRI-ERIC/miabis/blob/master/mappings/bbmri.de.md#sample-type)
-* [Storage Temperature (Specimen Resource)](https://github.com/BBMRI-ERIC/miabis/blob/master/mappings/bbmri.de.md#storage-temperature)
-* [Anatomical Site (Specimen Resource)](https://github.com/BBMRI-ERIC/miabis/blob/master/mappings/bbmri.de.md#anatomical-sitebody-site)
-* [Sample Donor (Patient Resource)](https://github.com/BBMRI-ERIC/miabis/blob/master/mappings/bbmri.de.md#sample-donorpatient)
-* [Sex/Gender (Patient Resource)](https://github.com/BBMRI-ERIC/miabis/blob/master/mappings/bbmri.de.md#sexgender)
-* [Disease (Condition or Observation Resource)](https://github.com/BBMRI-ERIC/miabis/blob/master/mappings/bbmri.de.md#diseasediagnosis)
+* [Sample (Specimen Resource)](#samplespecimen#samplespecimen)
+* [Sample Type (Specimen Resource)](#sample-type)
+* [Storage Temperature (Specimen Resource)](#storage-temperature)
+* [Anatomical Site (Specimen Resource)](#anatomical-sitebody-site)
+* [Sample Donor (Patient Resource)](#sample-donorpatient)
+* [Sex/Gender (Patient Resource)](#sexgender)
+* [Disease (Condition or Observation Resource)](#diseasediagnosis)
 
 ## Sample/Specimen
 

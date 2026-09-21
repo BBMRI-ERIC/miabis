@@ -16,7 +16,7 @@ The Network is first introduced in Core v3 by [Eklund et al. 2024](https://doi.o
 | MIABIS-NETWORK-04 | URL | Text | Complete http-address for the Network. | | | 0..1 |
 | MIABIS-NETWORK-05 | Juristic person | Text | Juristic person i.e. a university, concern, county council etc. for the network. | | | 1 |
 | MIABIS-NETWORK-06 | Country | Text | Two letter code for the country of the Network. | | ISO-standard 3166 alpha2. In the Network multiple values are allowed | 1..n |
-| MIABIS-NETWORK-07 | Contact information | Structured data | Contact information for the contact person/person responsible of the Network. | | [MIABIS-NETWORK-07](https://github.com/BBMRI-ERIC/miabis/blob/master/all%20structured%20data.md#contact-information). | 1 |
+| MIABIS-NETWORK-07 | Contact information | Structured data | Contact information for the contact person/person responsible of the Network. | | [Contact Information](../Structured%20Data/Contact%20Information.md) | 1 |
 | MIABIS-NETWORK-08 | Description | Text | Description of the network in English. | | | 0..1 |
 | MIABIS-NETWORK-09 | Network status | Enumerated values | The state of the network functions. | | Active, Ended, Other | 1 |
 | MIABIS-NETWORK-10 | Network members | Text | Names of the entities (organisations, biobanks, collections and/or research resources, etc.) involved in the Network. | | | 0..1 |

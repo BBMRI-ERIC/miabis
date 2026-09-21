@@ -16,13 +16,13 @@ MIABIS is made up of different entities, modelling a different biobanking-relate
 
 The four entities in the top part of the diagram, Network, Biobank, Collection, and Research Resource, form the basis of MIABIS, the so-called Core. Building on this core are the other components, which apply to both the aggregate-level (e.g. Dataset Types) and the individual level (e.g. Sample).
 
-In addition to entities and attributes, there are also structured data and value sets. Structured data are groups of attributes which are used across different entities and allow for a more detailed description of specific aspects of an entity, e.g. [contact information](Structured%20Data/Contact%20Information.md) or a [disease](Structured%20Data/Disease.md). Value sets are used to constrain the possible values for certain attributes, e.g. to provide a pre-defined set of [sample types](Value%20Lists/Sample%20Type.md) or [storage temperatures](Value%20Lists/Storage%20Temperature.md) when describing a sample.
+In addition to entities and attributes, there are also structured data and value sets. Structured data are groups of attributes which are used across different entities and allow for a more detailed description of specific aspects of an entity, e.g. [contact information](./Structured%20Data/Contact%20Information.md) or a [disease](./Structured%20Data/Disease.md). Value sets are used to constrain the possible values for certain attributes, e.g. to provide a pre-defined set of [sample types](./Value%20Sets/Sample%20Type.md) or [storage temperatures](./Value%20Sets/Storage%20Temperature) when describing a sample.
 
 ### Entities
 
-The MIABIS Core component consists of four entities: [Biobank](Core/Biobank.md), [Collection](Core/Collection.md), [Network](Core/Network.md), and [Research Resource](Core/Research%20Resource.md). On top of this, there is an aggregate-level entity [Services](Services/Services.md), which describes services offered by biobanks. For imaging, the Digital Pathology component consisting of three entities has been developed: [Assay](Digital%20Pathology/Assay.md), [File](Digital%20Pathology/File.md), and [Scan](Digital%20Pathology/Scan.md).
+The MIABIS Core component consists of four entities: [Biobank](./Core/Biobank.md), [Collection](./Core/Collection.md), [Network](./Core/Network.md), and [Research Resource](./Core/Research%20Resource.md). On top of this, there is an aggregate-level entity [Services](./Core/Services/Services.md), which describes services offered by biobanks. For imaging, the Digital Pathology component consisting of three entities has been developed: [Assay](./Individual/Digital%20Pathology/Assay.md), [File](./Individual/Digital%20Pathology/File.md), and [Scan](./Individual/Digital%20Pathology/Scan.md).
 
-On the individual level there are entities describing [Samples](Individual/Sample.md), [Sample Donors](Individual/Sample%20Donor.md), and [Events](Individual/Event.md), which enhance the ability to perform sophisticated queries.
+On the individual level there are entities describing [Samples](./Individual/Sample.md), [Sample Donors](./Individual/Sample%20Donor.md), and [Events](./Individual/Event.md), which enhance the ability to perform sophisticated queries.
 
 ## Governance
 
