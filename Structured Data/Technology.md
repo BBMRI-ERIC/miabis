@@ -1,7 +1,7 @@
 # Technology
 
 | Attribute Name | Description | Data Type | Constraints | Cardinality | Belongs to Entity |
-| ----- | ----- | ----- | ----- | ----- | ----- |
+| --- | ----- | --- | ----- | --- | ----- |
 | Measuring technique ontology | Name of ontology used for describing the applied measuring technique/assay. | String | Specify the relevant ontology you are using to describe the technology, e.g. NCI Thesaurus, OBI, etc. | 0..1 | Collection, Research Resource, Digital Pathology |
 | Measuring technique ontology version | Version of selected ontology for describing the applied measuring technique/assay. | String | | 0..1 | Collection, Research Resource, Digital Pathology |
 | Measuring technique ontology code | Ontology code describing the applied measuring technique/assay used in a Dataset, corresponding to the method used for measuring the corresponding variable(s). | String | Use the code value from the selected ontology | 0..1 | Collection, Research Resource, Digital Pathology |

@@ -1,7 +1,7 @@
 # Contact information
 
 | Attribute Name | Description | Data Type | Constraints | Attribute Codes |
-| ----- | ----- | ----- | ----- | ----- |
+| --- | ----- | --- | ----- | --- |
 | First name | First name of the Contact | String | | MIABIS-BIOBANK-07-01, MIABIS-COLLECTION-05-01, MIABIS-RESEARCHRESOURCE-05-01, MIABIS-NETWORK-07-01 |
 | Last name | Last name of the the Contact | String | | MIABIS-BIOBANK-07-02, MIABIS-COLLECTION-05-02, MIABIS-RESEARCHRESOURCE-05-02, MIABIS-NETWORK-07-02 |
 | Phone | Phone to the Contact including international call prefix | Formatted String | | MIABIS-BIOBANK-07-03, MIABIS-COLLECTION-05-03, MIABIS-RESEARCHRESOURCE-05-03, MIABIS-NETWORK-07-03 |
