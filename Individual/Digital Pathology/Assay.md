@@ -2,7 +2,7 @@
 
 Assay attributes (container, preparation steps, …) covers various aspects related to container (glass slide) and laboratory preparation steps.
 
-| Attribute Code | Attribute Name | Description | Data type | Allowed values | Constraints | Cardinality |
+| Attribute Code | Attribute Name | Description | Data Type | Allowed Values | Constraints | Cardinality |
 | --- | --- | --- | --- | --- | --- | --- |
 | MIABIS-DIGITALPATHOLOGYASSAY-01 | Container Configuration | Classifies a container based on the organization of its specimens | Enumerated Values | TMA, Multiple patients, Multiple blocks, Single block, Single section, Cytology sample, Other (the value is known but cannot be classified into any of the predefined categories), NULL (the value is unknown) | none | 1:n |
 | MIABIS-DIGITALPATHOLOGYASSAY-02 | Container Identifier | A unique identifier for a container (as defined in DICOM) | String | An ID as a free-text string | none | 0:1 |

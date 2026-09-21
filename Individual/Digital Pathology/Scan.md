@@ -3,7 +3,7 @@
 Scanning, file and annotation attributes:
 Scan Attributes: Cover various aspects related to the performance and accuracy of Whole Slide Imaging (WSI) systems and scanners.
 
-| Attribute Code | Attribute Name | Description | Data type | Allowed values | Constraints | Cardinality |
+| Attribute Code | Attribute Name | Description | Data Type | Allowed Values | Constraints | Cardinality |
 | --- | --- | --- | --- | --- | --- | --- |
 | MIABIS-DIGITALPATHOLOGYSCAN-01 | Scan Identifier | A unique identifier of the scan | String | An ID as a free-text string | none | 0:1 |
 | MIABIS-DIGITALPATHOLOGYSCAN-02 | Acquisition Date | The date and time of capturing an image or scanning a glass slide | Date | DATETIME values in ' YYYY-MM-DD hh:mm:ss ' format | Datetime format must be according to ISO 8601. | 0:1 |
