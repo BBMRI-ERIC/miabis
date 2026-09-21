@@ -2,9 +2,9 @@
 
 Welcome to MIABIS, the Minimum Information About Biobank data Sharing initiative! MIABIS is dedicated to standardising the data used to describe biobanks, research on samples, and associated data. Our goal is to enhance interoperability among biobanks sharing their valuable data and samples.
 
-MIABIS 2.0, established by [Merino-Martinez et al. in 2016](https://www.liebertpub.com/doi/abs/10.1089/bio.2015.0070), defined general attributes at an aggregated level for describing biobanks, sample collections, and (research) studies. Building upon this foundation, new MIABIS components have been added to describe samples and sample donors at the individual level ([Eklund et al., 2020](https://doi.org/10.1089/bio.2019.0129)).
+MIABIS 2.0, established by [Merino-Martinez et al. in 2016](https://doi.org/10.1089/bio.2015.0070), defined general attributes at an aggregated level for describing biobanks, sample collections, and (research) studies. Building upon this foundation, new MIABIS components have been added to describe samples and sample donors at the individual level ([Eklund et al., 2020](https://doi.org/10.1089/bio.2019.0129)).
 
-MIABIS was updated to version 3.0 by [Eklund et al. in 2024](https://www.liebertpub.com/doi/full/10.1089/bio.2023.0074) including minimal information describing biobanks, (sample and data) collections, research resources (previously called studies) and networks – on an aggregate level.
+MIABIS was updated to version 3.0 by [Eklund et al. in 2024](https://doi.org/10.1089/bio.2023.0074) including minimal information describing biobanks, (sample and data) collections, research resources (previously called studies) and networks – on an aggregate level.
 
 The MIABIS standard is constantly evolving and we welcome your feedback. Please feel free to join our work and get in touch via our mailing list at <miabis@lists.bbmri-eric.eu>. If you have any issues you would like the MIABIS team to consider, please submit them through [this Github repository](https://github.com/BBMRI-ERIC/miabis/issues).
 
