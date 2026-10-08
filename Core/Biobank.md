@@ -1,4 +1,4 @@
-# Data describing Biobank entity
+# Biobank entity
 
 ## Definition
 

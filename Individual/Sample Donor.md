@@ -1,4 +1,4 @@
-# Data describing Sample donor entity
+# Sample donor entity
 
 In current version the sample donor entity is aimed to describe human sample donors only.
 

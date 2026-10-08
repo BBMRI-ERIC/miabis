@@ -1,4 +1,4 @@
-# Data describing Research Resource entity
+# Research Resource entity
 
 ## Definition
 

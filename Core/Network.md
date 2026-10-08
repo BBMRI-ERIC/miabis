@@ -1,4 +1,4 @@
-# Data describing Network entity
+# Network entity
 
 ## Definition
 
