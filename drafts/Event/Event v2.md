@@ -1,7 +1,7 @@
 > [!WARNING]  
 > This is a draft, contents may change.
 
-Add provenance-related information to Event entity in [Sample, Sample Donor and Event](../../Individual).
+Add provenance-related information to Event entity in [Sample, Sample Donor and Event](../../Individual/README.md).
 This could be achieved by extending the [Event v1.1](../../Individual/Event.md) list with the following attributes
 
 ...
