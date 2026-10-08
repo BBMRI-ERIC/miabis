@@ -1,4 +1,4 @@
-# Scope of the MIABIS Digital Pathology (individual level)
+# Digital Pathology
 
 ## Motivation
 
