@@ -37,14 +37,14 @@ export default defineConfig({
     sidebar: [
       { text: 'About', link: '/README' },
       {
-        text: 'Core', collapsed: false, link: '/Core/README', items: [
-          { text: 'Biobank', link: '/Core/Biobank' },
-          { text: 'Collection', link: '/Core/Collection' },
-          { text: 'Network', link: '/Core/Network' },
-          { text: 'Research Resource', link: '/Core/Research Resource' },
+        text: 'Core', collapsed: false, link: '/Aggregate/Core/README', items: [
+          { text: 'Biobank', link: '/Aggregate/Core/Biobank' },
+          { text: 'Collection', link: '/Aggregate/Core/Collection' },
+          { text: 'Network', link: '/Aggregate/Core/Network' },
+          { text: 'Research Resource', link: '/Aggregate/Core/Research Resource' },
           {
-            text: 'Services', collapsed: false, link: '/Core/Services/README', items: [
-              { text: 'Services', link: '/Core/Services/Services' }
+            text: 'Services', collapsed: false, link: '/Aggregate/Services/README', items: [
+              { text: 'Services', link: '/Aggregate/Services/Services' }
             ]
           },
         ]

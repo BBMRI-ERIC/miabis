@@ -20,7 +20,7 @@ In addition to entities and attributes, there are also structured data and value
 
 ### Entities
 
-The MIABIS Core component consists of four entities: [Biobank](./Core/Biobank.md), [Collection](./Core/Collection.md), [Network](./Core/Network.md), and [Research Resource](./Core/Research%20Resource.md). On top of this, there is an aggregate-level entity [Services](./Core/Services/Services.md), which describes services offered by biobanks. For imaging, the Digital Pathology component consisting of three entities has been developed: [Assay](./Individual/Digital%20Pathology/Assay.md), [File](./Individual/Digital%20Pathology/File.md), and [Scan](./Individual/Digital%20Pathology/Scan.md).
+The MIABIS Core component consists of four entities: [Biobank](./Aggregate/Core/Biobank.md), [Collection](./Aggregate/Core/Collection.md), [Network](./Aggregate/Core/Network.md), and [Research Resource](./Aggregate/Core/Research%20Resource.md). On top of this, there is an aggregate-level entity [Services](./Aggregate/Services/Services.md), which describes services offered by biobanks. For imaging, the Digital Pathology component consisting of three entities has been developed: [Assay](./Individual/Digital%20Pathology/Assay.md), [File](./Individual/Digital%20Pathology/File.md), and [Scan](./Individual/Digital%20Pathology/Scan.md).
 
 On the individual level there are entities describing [Samples](./Individual/Sample.md), [Sample Donors](./Individual/Sample%20Donor.md), and [Events](./Individual/Event.md), which enhance the ability to perform sophisticated queries.
 
