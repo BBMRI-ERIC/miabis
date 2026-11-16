@@ -42,11 +42,6 @@ export default defineConfig({
           { text: 'Collection', link: '/Aggregate/Core/Collection' },
           { text: 'Network', link: '/Aggregate/Core/Network' },
           { text: 'Research Resource', link: '/Aggregate/Core/Research Resource' },
-          {
-            text: 'Services', collapsed: false, link: '/Aggregate/Services/README', items: [
-              { text: 'Services', link: '/Aggregate/Services/Services' }
-            ]
-          },
         ]
       },
       {
@@ -54,13 +49,6 @@ export default defineConfig({
         collapsed: false,
         link: '/Individual/README',
         items: [
-          {
-            text: 'Digital Pathology', link: '/Individual/Digital Pathology/README', collapsed: false, items: [
-              { text: 'Assay', link: '/Individual/Digital Pathology/Assay' },
-              { text: 'File', link: '/Individual/Digital Pathology/File' },
-              { text: 'Scan', link: '/Individual/Digital Pathology/Scan' },
-            ]
-          },
           { text: 'Event', link: '/Individual/Event' },
           { text: 'Sample', link: '/Individual/Sample' },
           { text: 'Sample Donor', link: '/Individual/Sample Donor' },
