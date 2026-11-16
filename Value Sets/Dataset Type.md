@@ -1,19 +1,18 @@
 # Dataset Type
 
-| Value Name | Definition | [Source](Link) | Attribute Codes |
+| Value Name | Definition | Source [Link] | Attribute Codes |
 | --- | --- | --- | --- |
-| Lifestyle dataset | Dataset on manner of living that reflects the person's values and attitudes. | Modified after [NCI](http://purl.obolibrary.org/obo/NCIT_C16795) | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Environmental dataset | Dataset on the environmental qualities which may sustain an organism or a community of organisms. | Modified after [FLU](http://purl.obolibrary.org/obo/FLU_0000879) | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Physiological dataset | A measurement datum that contains the assessment information about the functioning of a major organ system, the extent of disease or disability, as well as the provision and/or response to therapeutic interventions. | [OMIABIS](http://purl.obolibrary.org/obo/OMIABIS_0001012) | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Biochemical dataset | Dataset on the chemical substances and vital processes occurring in living organisms. | Modified after [GSSO](http://purl.obolibrary.org/obo/GSSO_008403) | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Clinical dataset | Data obtained through patient examination or treatment. | [NCI](http://purl.obolibrary.org/obo/NCIT_C15783) | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Psychological/Neurophysiological dataset | Dataset describing the behavior and mind, including conscious and unconscious phenomena, as well as feeling and thought. | Modified after [GSSO](http://purl.obolibrary.org/obo/GSSO_006201) | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Genomic dataset | Genomic data is data about the genomes of an organism. | [EFO](http://www.ebi.ac.uk/efo/EFO_0004600) | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Proteomic dataset | Dataset on the global analysis of cellular proteins. Proteomics aims to resolve comprehensively, to quantify, and to characterize proteins. | Modified after [NCI](http://purl.obolibrary.org/obo/NCIT_C20085) | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Metabolomic dataset | Dataset on the quantity and identity of all of the low molecular weight molecules in a biological entity or sample that are products of or participants in various metabolic processes. | Modified after [NCI](http://purl.obolibrary.org/obo/NCIT_C210457) | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Transcriptomic Dataset | Transcriptomic data is data about RNA transcribed by a cell, cells or organism. This includes mRNA, tRNA and cDNA. | [EFO](http://www.ebi.ac.uk/efo/EFO_0004601) | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Body (Radiological) image | Dataset containing images produced with the use of X-ray and other forms of radiant energy. | Modified after [GSSO](http://purl.obolibrary.org/obo/GSSO_008410) | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Whole slide image | Dataset on images of cells or tissue sections on a slide. | Modified after [NCI](http://purl.obolibrary.org/obo/NCIT_C165215) | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Photo image | Dataset of photographs. Photographs are images created by projecting an image onto a photosensitive surface such as a chemically treated plate or film, CCD receptor, etc. | Modified after [IAO](http://purl.obolibrary.org/obo/IAO_0000185) | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Genealogical records | A document about the family relationships of persons related as members of a domestic group linked through descent from a common ancestor, marriage, or adoption. | [OBI](http://purl.obolibrary.org/obo/OBI_0002616) | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
-| Other sample-derived dataset | A sample-derived dataset which does not fit with any of the other dataset categories |  | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Lifestyle dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Lifestyle dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Environmental dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Environmental dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Physiological dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Physiological dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Biochemical dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Biochemical dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Clinical dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Clinical dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Psychological dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Psychological dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Genomic dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Genomic dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Proteomic dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Proteomic dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Metabolomic dataset | Type of datasets obtained or otherwise derived from donors or their specimens: Metabolomic dataset | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Body (Radiological) image | Type of datasets obtained or otherwise derived from donors or their specimens: Body (Radiological) image | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Whole slide image | Type of datasets obtained or otherwise derived from donors or their specimens: Whole slide image | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Photo image | Type of datasets obtained or otherwise derived from donors or their specimens: Photo image | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Genealogical records | Type of datasets obtained or otherwise derived from donors or their specimens: Genealogical records | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
+| Other | Type of datasets obtained or otherwise derived from donors or their specimens: Other | | MIABIS-COLLECTION-13, MIABIS-RESEARCHRESOURCE-13 |
