@@ -2,7 +2,7 @@
 
 ## Motivation
 
-The MIABIS Core defines biobanks and their collections but lack detailed descriptions of datasets hosted by or linked to biobanks. Despite recent updates to MIABIS Core V3, where the Dataset Types in the MIABIS Collection entity cover various categories, a more precise capture of dataset diversity is necessary.
+The MIABIS Core defines biobanks and their collections but lacks detailed descriptions of datasets hosted by or linked to biobanks. Despite recent updates to MIABIS Core V3, where the Dataset Types in the MIABIS Collection entity cover various categories, a more precise capture of dataset diversity is necessary.
 
 ## Objective & Scope
 
